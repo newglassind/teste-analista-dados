@@ -1,0 +1,179 @@
+﻿codigo_produto;produto;familia_produto;cmv_unitario;frete_estimado_unitario;imposto_estimado_percentual;margem_alvo_percentual;data_atualizacao_custo;observacao
+P0001;Silicone 13;Acessórios; 5.02 ;38.63;10.57;28.56;03/11/25;
+P0002;Kit Instalação 9;Acessórios;36.93;45.41;6.71;18.59;22/01/2025;custo estimado
+P0003;Trilho Modelo 333;Ferragens;143.99;10.64;6.68%;21.48;17/04/2025;validar custo com compras
+P0004;Vidro Temperado Incolor 8mm;Vidro Temperado;261.43;46.92;9.07;35.30;03/01/2026;validar custo com compras
+P0005 ;Medição Técnica 9;Serviços;171.93;45.63;4.65;34.51;03/05/2025;
+P0006;Box Reto 190cm;Box Banheiro;787.42;R$ 62,43;5.05;35.60;19/06/2026;validar custo com compras
+P0007;Medição Técnica 7;Serviços;107.54; 29.27 ;8.89%;25.86;29-01-25;validar custo com compras
+P0008;Vidro Temperado Incolor 12mm;Vidro Temperado;242.31;62.20;9.57%;23.22;18-09-25;
+P0009;Box Reto 180cm;Box Banheiro;785.23; 9.59 ;;32.22;2025-05-21;validar custo com compras
+P0010;Espelho Lapidado 4mm;Espelhos;209.36;22.63;9,44;21.26;29/09/2025;validar custo com compras
+P0011;Box Articulado 190cm;Box Banheiro;;7.05;4.61;35.79;22/12/2025;
+P0012;Box Articulado 200cm;Box Banheiro;571.73;67.07;5.45;37.21;20/02/2025;validar custo com compras
+P0013;Medição Técnica 2;Serviços;479.37;49.12;7.18;34,46;03/05/2026;custo estimado
+P0014;Vidro Laminado Incolor 8mm;Vidro Laminado;R$ 489,89;R$ 19,85;10.52%;19.61%;22-05-25;custo estimado
+P0015;Box Canto 180cm;Box Banheiro;450.02;71.20;10.41;30.11%;2025-04-25;custo estimado
+P0016;Vidro Laminado Verde 8mm;Vidro Laminado;202.83;50.58;;22.76%;2026-04-15;validar custo com compras
+P0017;Suporte Modelo 873;Ferragens;141.98; 6.08 ;6.33;21.56;11/05/2025;custo importado do ERP
+P0018;Dobradiça Modelo 952;Ferragens;57.48;59.67;7,74;30.01;17/03/2026;validar custo com compras
+P0019;Roldana Modelo 304;Ferragens;98.01;71.90;8.23%;34.15;07/07/2025;custo estimado
+P0020;Perfil Porta 4m;Perfis de Alumínio;129.26;40.83;7.60;23.35;30/07/2025;
+P0021;Vidro Laminado Acústico 6mm;Vidro Laminado;367.23;10.00;5.05;29,57;24/01/2025;custo importado do ERP
+P0022;Roldana Modelo 722;Ferragens;13.98;14,03;5.43;27.10;2025-08-12;custo estimado
+P0023;Vidro Laminado Incolor 8mm;Vidro Laminado;380.34;39.47;9.09;21.48;06/12/2025;custo estimado
+P0024;Frete Especial 7;Serviços;148.75;56.22;8.65;18.30;19/07/2025;validar custo com compras
+P0025;Vidro Temperado Incolor 6mm;Vidro Temperado;193.25;25.60;12.04;26.16;08/10/2025;validar custo com compras
+P0026;Lapidação 2;Serviços;54.59;7.46;;37.55;00/01/2026;validar custo com compras
+P0027;Perfil Porta 6m;Perfis de Alumínio;172,38;31.43;6.36;23.25%;18/02/2025;validar custo com compras
+P0028;Perfil H 2m;Perfis de Alumínio;128.72;R$ 3,76;5.11;34,29;26/09/2025;validar custo com compras
+P0029;Suporte Modelo 629;Ferragens;105.91;R$ 73,19;7.79;23.84%;19/05/2025;custo importado do ERP
+P0030;Vidro Laminado Incolor 10mm;Vidro Laminado;416.39;44.14;6.83;30.30;07/02/2026;custo importado do ERP
+P0031;Lapidação 3;Serviços;277.92;64.20;12,52;29.07;16/07/25;custo estimado
+P0032;Kit Instalação 9;Acessórios;16.75; 38.01 ;11,37;18.84;2026-01-10;custo estimado
+P0033;Box Articulado 190cm;Box Banheiro;688.02;28.40;11.33;19.71%;04/01/26;custo importado do ERP
+P0034;Espelho Bronze 6mm;Espelhos;R$ 257,10;R$ 6,87;10.88%;32.42;01/12/2025;custo importado do ERP
+P0035;Vidro Temperado Fumê 6mm;Vidro Temperado;312.45;10.14;11.41;36.29; 09/11/2025 ;validar custo com compras
+P0036;Lapidação 4;Serviços;214.85;R$ 22,07;10.50;27.88;2026-03-28;custo estimado
+P0037;Espelho Lapidado 3mm;Espelhos;228.86;48.36;11.74;35.40;08-02-26;
+P0038;Espelho Bisotê 3mm;Espelhos;90.50;47.83;13.48;33.80;30/12/2025;
+P0039;Suporte Modelo 845;Ferragens;26.44;2.57;5.59;22.93;20/02/2026;
+P0040;Espelho Prata 6mm;Espelhos;150.38;54.60;6.80;31.38;29/05/2025;
+P0041;Espelho Lapidado 4mm;Espelhos;242.20;2.76;4.83;18.57;24-05-25;custo importado do ERP
+P0042;Perfil Porta 2m;Perfis de Alumínio;79.51;48.29;11.60;33.13;24-05-25;
+P0043;Parafuso 2;Acessórios;8.18;58.46;9.36%;21.12;12/03/2025;custo estimado
+P0044;Roldana Modelo 516;Ferragens;0.00;38.14;8,75;19.07;02-03-26;custo importado do ERP
+P0045;Espelho Lapidado 6mm;Espelhos; 302.71 ; 35.77 ;7.23;26.78;05-03-26;validar custo com compras
+P0046;Perfil Box 2m;Perfis de Alumínio;150.31;72.01;5.32%;19.83;;custo importado do ERP
+P0047;Vidro Laminado Incolor 6mm;Vidro Laminado;0.00;38.79;7.57;28.34;17-12-25;custo estimado
+P0048;Box Reto 200cm;Box Banheiro;594.99; 37.04 ;8.71;22.58;2025-05-31;validar custo com compras
+P0049;Lapidação 8;Serviços;452.37;36.65;11.30;24.26;02/09/2025;validar custo com compras
+P0050;Medição Técnica 8;Serviços;244.78; 47.82 ;9.98;19.65;16-03-25;custo importado do ERP
+P0051 ;Medição Técnica 8;Serviços;46,89;55.63;5,00;23.69;2026-02-05;custo estimado
+P0052;Silicone 14;Acessórios;49.78;67.13;5.55;31,13;22/10/2025;
+P0053;Espelho Prata 6mm;Espelhos;176.64;58.38;;30.41;15/09/2025;validar custo com compras
+P0054;Box Canto 190cm;Box Banheiro; 709.20 ;6.11;7.06;29.28;22/02/26;custo estimado
+P0055;Vidro Laminado Incolor 10mm;Vidro Laminado;292.01;29.73;10.69%;19.37%;06/11/2025;custo importado do ERP
+P0056;Frete Especial 6;Serviços; 412.81 ;71.17;10.05;30.59;07/04/2026;
+P0057;Suporte Modelo 609;Ferragens;27.97;73.98;13.21;24.82;2025-06-11;
+P0058;Roldana Modelo 482;Ferragens;140.28;61.61;;34.31;31-05-26;
+P0059;Instalação 9;Serviços;328.58;R$ 17,77;5.72%;26.08;2025-01-18;custo importado do ERP
+P0060;Perfil H 4m;Perfis de Alumínio;143.18;62.37;7.68;32.13%;17/05/26;validar custo com compras
+P0061;Vidro Laminado Incolor 6mm;Vidro Laminado;289.77;73.56;9.01%;35.74;18/03/2025;
+P0062;Espelho Prata 5mm;Espelhos;71.37;49.76;7.57%;23.12;17/02/2026;custo estimado
+P0063;Vidro Temperado Incolor 10mm;Vidro Temperado;153.34;52.34;12.83;24.34;2025-13-10;
+P0064;Vidro Laminado Incolor 10mm;Vidro Laminado;484.85;7.89;12.41;34.78;18/01/2025;custo estimado
+P0065;Vidro Temperado Fumê 8mm;Vidro Temperado;282.05;42.21;7.76;29.62%;2025-11-22;validar custo com compras
+P0066;Suporte Modelo 321;Ferragens;;8.71;9.12;; 11/04/2026 ;
+P0067;Perfil Porta 3m;Perfis de Alumínio;190.12;45.08;5.53%;32.53%;2025-08-26;
+P0068;Espelho Bronze 6mm;Espelhos;144.83;33.59;5.08;21.60%;2026-01-02;custo importado do ERP
+P0069;Vidro Laminado Verde 6mm;Vidro Laminado;384.17;72.95;11.08;22.65;25/03/2025;custo estimado
+P0070;Perfil U 3m;Perfis de Alumínio;165.14;60.95;;31.67;2026-03-06;custo importado do ERP
+P0071;Perfil H 3m;Perfis de Alumínio;sem custo;31.24;7.64;20.09;22/05/2025;validar custo com compras
+P0072;Box Reto 200cm;Box Banheiro;327,59;5.12;5.64;35,23;04/01/2025;
+P0073;Perfil H 6m;Perfis de Alumínio;142.88;30,58;5.47;32.46;15/05/2025;validar custo com compras
+P0074;Perfil Box 2m;Perfis de Alumínio;R$ 29,57;36,90;5,10;36.32; 29/08/2025 ;custo estimado
+P0075;Vidro Laminado Verde 8mm;Vidro Laminado;399.02;49.08;12.52%;28.29;24/10/2025;validar custo com compras
+P0076;Perfil Box 3m;Perfis de Alumínio;37.12;35,36;6.40;18.59%;06/06/2026;validar custo com compras
+P0077;Vidro Laminado Incolor 10mm;Vidro Laminado;330.86;15.79;7.77;31.12%;2025-07-05;validar custo com compras
+P0078;Vidro Temperado Fumê 12mm;Vidro Temperado;151.02;27.58;7,89;22.61;2025-11-14;validar custo com compras
+P0079;Kit Instalação 13;Acessórios;30.82;62.84;6.73;18,03;20/04/2025;custo importado do ERP
+P0080;Medição Técnica 5;Serviços;;R$ 16,19;5.64;30.43;15/05/25;custo estimado
+P0081;Espelho Prata 3mm;Espelhos;169.92;72.16;7.49%;18.84;16/01/2025;custo estimado
+P0082;Vidro Laminado Acústico 8mm;Vidro Laminado;470.44;40.35;5,55;29.13;13/06/2026;
+P0083;Box Frontal 180cm;Box Banheiro;337.54;66,30;12.40%;36.38;21/08/25;validar custo com compras
+P0084;Vidro Laminado Verde 8mm;Vidro Laminado; 263.42 ;22.68;10.03;37.98;2026-05-18;validar custo com compras
+P0085;Medição Técnica 6;Serviços;225.83;20.89;11.93;29.19;24/04/2026;custo estimado
+P0086;Espelho Bronze 4mm;Espelhos;69.05;50.60;7.77;35.16;22-03-25;custo importado do ERP
+P0087;Vidro Temperado Incolor 6mm;Vidro Temperado;R$ 347,69;49.54;8.03;22.65;29/07/2025;custo importado do ERP
+P0088;Medição Técnica 5;Serviços;252.22;62,18;11.32;24.44%; 16/01/2025 ;
+P0089;Box Articulado 200cm;Box Banheiro;552.77;29.76;;25,76;2025-12-04;validar custo com compras
+P0090;Perfil Box 3m;Perfis de Alumínio;118.46;59.25;10.40;20.21;2026-01-20;validar custo com compras
+P0091;Instalação 6;Serviços;100.35;R$ 65,32;5.81;34.70;12/07/2025;
+P0092;Perfil U 6m;Perfis de Alumínio;110.48;51.31;6,20;27.81%;05/04/2025;custo estimado
+P0093;Medição Técnica 4;Serviços;302.99;72.78;6.69;35.33;2025-12-14;custo estimado
+P0094;Vidro Laminado Verde 10mm;Vidro Laminado;492.84;7.55;6.89;37.68;15/02/2026;custo importado do ERP
+P0095;Perfil U 6m;Perfis de Alumínio;85.58;29.80;5.82%;23.90; 11/10/2025 ;
+P0096;Vidro Temperado Fumê 12mm;Vidro Temperado;193.22;25,55;12.39;20.64;14/02/2026;
+P0097;Espelho Bisotê 6mm;Espelhos;173.45;14.35;6.35;24.82;02/05/2026;custo estimado
+P0098;Perfil Porta 4m;Perfis de Alumínio;135.77; 31.67 ;12.21;18.61;16/03/2025;validar custo com compras
+P0099;Vidro Laminado Verde 8mm;Vidro Laminado;399.23;33.87;8.33;31.89;23-04-26;validar custo com compras
+P0100;Vidro Laminado Incolor 8mm;Vidro Laminado;436.51;27.05;;27.90;18/12/2025;custo estimado
+P0101;Perfil Box 3m;Perfis de Alumínio;R$ 137,72; 46.11 ;11.02;24.64;05/03/2025;
+P0102;Frete Especial 8;Serviços;R$ 200,14;73.66;10.10;20.61;22/03/2025;
+P0103;Vidro Laminado Incolor 10mm;Vidro Laminado;360,17;31.40;5.08;20.65;03/09/2025;custo estimado
+P0104;Frete Especial 9;Serviços;R$ 146,52;45.22;10.67;34.64;08/04/2025;custo importado do ERP
+P0105;Box Reto 190cm;Box Banheiro;439.94;30.74;11.99%;35.06;28/02/2025;custo estimado
+P0106;Vidro Temperado Incolor 6mm;Vidro Temperado;382.32;28.66;8.29;26,33;27/09/2025;validar custo com compras
+P0107;Lapidação 8;Serviços;308.00;49,09;9.92%;21.29;27/10/2025;validar custo com compras
+P0108;Vidro Temperado Fumê 10mm;Vidro Temperado;R$ 394,98;74.47;13.44%;;2026-04-11;validar custo com compras
+P0109;Espelho Prata 3mm;Espelhos;139.88;47.21;;23.51;14/12/2025;custo importado do ERP
+P0110;Espelho Bisotê 6mm;Espelhos;122.11;21.20;11,69;;19/06/2025;custo importado do ERP
+P0111;Vidro Laminado Acústico 10mm;Vidro Laminado;199.17;60.36;8.70;36.32;11/06/2025;custo estimado
+P0112;Perfil Porta 6m;Perfis de Alumínio;33.45;61.81;8.87%;27.70;28/03/2025;custo importado do ERP
+P0113;Perfil Box 6m;Perfis de Alumínio;134.49; 18.14 ;;34.31;14/03/26;custo estimado
+P0114;Vidro Laminado Verde 6mm;Vidro Laminado;374,43;23.72;10.30;34.55;10/09/2025;custo estimado
+P0115;Medição Técnica 5;Serviços;152.99;56.69;11.94;37.74;2026-01-27;validar custo com compras
+P0116;Instalação 3;Serviços;106,51;71.01;;18.99;12/08/2025;custo estimado
+P0117;Roldana Modelo 923;Ferragens;24.31;66,23;8.10;29.20;15/02/26;validar custo com compras
+P0118;Kit Instalação 16;Acessórios;8.14;18.65;13.38;22.22;12/04/2026;
+P0119;Box Frontal 190cm;Box Banheiro;477,35;R$ 60,86;7.93;24.52%;07/08/25;
+P0120;Suporte Modelo 676;Ferragens;R$ 66,43;69.74;;27.17%;2025-11-06;custo estimado
+P0121;Suporte Modelo 623;Ferragens;95.52;20.46;6.09;36.08;29/03/2026;
+P0122;Box Articulado 200cm;Box Banheiro;R$ 451,20;6.69;5,70;35.13;27/01/25;validar custo com compras
+P0123;Espelho Lapidado 6mm;Espelhos;64.01;R$ 18,85;11.59;36.06;21-09-25;validar custo com compras
+P0124;Espelho Prata 6mm;Espelhos;116.45;9.21;12.39;32,85;20/04/2025;custo importado do ERP
+P0125;Dobradiça Modelo 785;Ferragens;R$ 162,13;5,11;11.25;30.28%;28-05-26;custo importado do ERP
+P0126;Puxador Modelo 475;Ferragens;114,68;22.61;10.10;18.52;01-05-26;custo estimado
+P0127;Box Reto 180cm;Box Banheiro;; 7.85 ;13.33%;25.98;15/04/2026;custo importado do ERP
+P0128;Vidro Temperado Fumê 6mm;Vidro Temperado;399,12;55.75;13.11;23.19;2026-05-15;
+P0129;Trilho Modelo 145;Ferragens;;48.60;11.50;30.11;08/06/2025;custo estimado
+P0130;Perfil Box 6m;Perfis de Alumínio;131.58;45.16;11.63%;37.36;27/02/2025;validar custo com compras
+P0131;Espelho Bronze 3mm;Espelhos;113.55; 5.04 ;12.66;22.79;29/01/2026;custo importado do ERP
+P0132;Lapidação 1;Serviços;N/D;6.17;5.32;19.32;15-02-25;custo importado do ERP
+P0133 ;Perfil H 3m;Perfis de Alumínio;38.71;11.92;;22.06;;custo estimado
+P0134;Espelho Prata 3mm;Espelhos;189.75;40.73;5.13;33.28;22/03/2026;custo estimado
+P0135;Parafuso 11;Acessórios;33.24;36.48;4.51;27.93%;04/05/2025;custo importado do ERP
+P0136;Espelho Bronze 3mm;Espelhos;188.49;R$ 3,39;10.71;;06/04/26;custo estimado
+P0137;Box Articulado 200cm;Box Banheiro;454.33;40.51;4.69%;21.91;;custo estimado
+P0138;Perfil Porta 6m;Perfis de Alumínio;45.89;55,65;4.52;22.70;21/12/25;custo importado do ERP
+P0139;Dobradiça Modelo 773;Ferragens;166.79;28.60;7.45;18.58;11/03/2026;validar custo com compras
+P0140;Espelho Prata 5mm;Espelhos;195.79; 59.50 ;11.90;32.51; 07/05/2026 ;custo importado do ERP
+P0141;Vidro Laminado Acústico 10mm;Vidro Laminado;R$ 195,36;31.21;6.22;26.88;;
+P0142;Instalação 3;Serviços;362.88;54.09;8.89;18.82;08/10/2025;custo estimado
+P0143;Perfil Box 3m;Perfis de Alumínio;72,90;R$ 47,09;6.26%;30.43;27/09/2025;custo estimado
+P0144;Vidro Temperado Fumê 10mm;Vidro Temperado;324.91;50.75;5.40%;33.84;23/07/2025;custo importado do ERP
+P0145;Trilho Modelo 427;Ferragens;43.08;54.79;;25.91;18/11/2025;
+P0146;Perfil H 4m;Perfis de Alumínio;85.14; 8.38 ;8.60;24.92;25/03/2026;custo importado do ERP
+P0147;Espelho Prata 5mm;Espelhos;158.15;70.68;10.67;37.08;07/02/2025;validar custo com compras
+P0148;Vedação 18;Acessórios;47,53;25.85;11.46;25,71;2025-08-10;validar custo com compras
+P0149;Espelho Bronze 5mm;Espelhos;131.30;6.78;13.42;19,47;09/04/2026;custo importado do ERP
+P0150;Medição Técnica 5;Serviços;74.84;22.33;11.83;32.44;12/06/25;custo estimado
+P0151;Vidro Laminado Acústico 10mm;Vidro Laminado;362.30;13.98;;32.06%;01/01/2026;custo estimado
+P0152;Kit Instalação 14;Acessórios;21.47;50,81;7.18;28.14%; 15/02/2025 ;custo estimado
+P0153;Suporte Modelo 334;Ferragens; 28.14 ;35.24;9.29;34.37;06/02/25;custo estimado
+P0154;Instalação 4;Serviços;87.61;18.82;5.26;21.54;2026-02-25;
+P0155;Dobradiça Modelo 363;Ferragens;120.42;47.16;5.98;25.50%;2025-04-20;
+P0156;Box Canto 180cm;Box Banheiro;746.32;65.63;10.72;34.91;24/04/2026;custo estimado
+P0157;Instalação 2;Serviços;424.07;71.42;7.30;27.91;19/06/2025;custo estimado
+P0158;Frete Especial 1;Serviços;245.37;55,83;9.24;30.31;20-07-25;
+P0159;Frete Especial 2;Serviços;27.47;40.54;8.25;36.04;20/07/2025;custo importado do ERP
+P0160;Box Reto 200cm;Box Banheiro;983.39;R$ 72,20;9.34;29.98%;11/09/2025;custo estimado
+P0133;PERFIL H 3M;Perfis de Alumínio;43.91;15.80;5.98;22.06;03/04/26;linha duplicada proposital - custo atualizado
+P0037;ESPELHO LAPIDADO 3MM;Espelhos;203.30; 47.02 ;;35.40;29/03/2026;linha duplicada proposital - custo atualizado
+P0012;BOX ARTICULADO 200CM;Box Banheiro;589.45;75.91;;37.21;2026-06-01;linha duplicada proposital - custo atualizado
+P0011;BOX ARTICULADO 190CM;Box Banheiro;R$ 905,33;7.74;4.61;35.79;2026-03-27;linha duplicada proposital - custo atualizado
+P0045;ESPELHO LAPIDADO 6MM;Espelhos;316.18;33,59;7.23;26.78;02/04/2026;linha duplicada proposital - custo atualizado
+P0126;PUXADOR MODELO 475;Ferragens;116.79;R$ 23,18;10.10;18,52;31/05/2026;linha duplicada proposital - custo atualizado
+P0156;BOX CANTO 180CM;Box Banheiro;685.30;78,99;10.72%;34.91;2026-04-16;linha duplicada proposital - custo atualizado
+P0057;SUPORTE MODELO 609;Ferragens;31.30;92.68;13.21;24.82;07-06-26;linha duplicada proposital - custo atualizado
+P0128;VIDRO TEMPERADO FUMÊ 6MM;Vidro Temperado;372.41;62.96;13,11;23.19%;15/06/2026;linha duplicada proposital - custo atualizado
+P0141;VIDRO LAMINADO ACÚSTICO 10MM;Vidro Laminado;207,49;30.74;6.22%;26.88;28/04/2026;linha duplicada proposital - custo atualizado
+P0136;ESPELHO BRONZE 3MM;Espelhos;176.25;3.66;10.71%;22.17;29-05-26;linha duplicada proposital - custo atualizado
+P0147;ESPELHO PRATA 5MM;Espelhos;181.91;78.02;10,67;37.08;2026-03-28;linha duplicada proposital - custo atualizado
+P0079;KIT INSTALAÇÃO 13;Acessórios; 30.98 ;66.84;6.73;18.03;2026-06-08;linha duplicada proposital - custo atualizado
+P0034;ESPELHO BRONZE 6MM;Espelhos;256,31;6.62;10.88;;09/06/2026;linha duplicada proposital - custo atualizado
+P0031;LAPIDAÇÃO 3;Serviços;300,38; 79.86 ;12.52;29.07;08/06/2026;linha duplicada proposital - custo atualizado
+P0106;VIDRO TEMPERADO INCOLOR 6MM;Vidro Temperado;447,77;28.16;8.29;26.33;26/05/2026;linha duplicada proposital - custo atualizado
+P0041;ESPELHO LAPIDADO 4MM;Espelhos;271.95;3.65;4.83;;23/05/2026;linha duplicada proposital - custo atualizado
+P0055;VIDRO LAMINADO INCOLOR 10MM;Vidro Laminado;305.07;32,96;10.69%;19.37;2026-06-07;linha duplicada proposital - custo atualizado

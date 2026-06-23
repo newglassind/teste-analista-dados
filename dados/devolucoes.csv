@@ -1,0 +1,1851 @@
+﻿id_devolucao;numero_nf_origem;data_devolucao;valor_devolvido;motivo_devolucao;responsavel;status_devolucao;observacao
+DEV-00001;NF-103973;19/09/2025;49.86;Produto divergente;Cliente;Confirmada;
+DEV-00002;NF-107124;09/04/2025;44,83;Cliente desistiu;Cliente;Cancelada;
+DEV-00003;NF-105572;;55.22;Qualidade;Comercial;Pendente;devolução parcial
+DEV-00004;NF-103921;20/03/2026;358.21;Produto divergente;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00005;NF-106725;22/11/2025;184.24;Quebra/Avaria;Cliente;Cancelada;aguardando NF de entrada
+DEV-00006;NF-106286;04/04/2025;49.57;qualidade ;Expedição;Cancelada;aguardando NF de entrada
+DEV-00007;NF-108618;12/03/2026;106.38;Qualidade;Não definido;Pendente;verificar se abate comissão
+DEV-00008;NF-101577;16/09/2025;1.56;Preço/negociação;comercial;Confirmada;devolução parcial
+DEV-00009;NF-105435;11/09/2025;R$ 796,07;Produto divergente;Comercial;Confirmada;verificar se abate comissão
+DEV-00010;NF-104760;11/12/2025;7.22;erro pedido;comercial;Confirmada;verificar se abate comissão
+DEV-00011;NF-111927;2025-12-27;191.18;Preço/negociação;Comercial;Confirmada;devolução parcial
+DEV-00012;NF-108443;2025-03-14;131.79;Cliente desistiu;Logística;Confirmada;aguardando NF de entrada
+DEV-00013;NF-105037;22/05/26;81.74;erro pedido;Qualidade;confirmada ;verificar se abate comissão
+DEV-00014;NF-100300;;206.22;Quebra/Avaria;Logística;Confirmada;verificar se abate comissão
+DEV-00015;NF-105804;08/12/2025;10.87;qualidade ;Logística;Confirmada;lançada no mês seguinte
+DEV-00016;NF-100011;2026-03-04;384.70;qualidade ;Não definido;confirmada ;verificar se abate comissão
+DEV-00017;NF-110166; 21/01/2026 ;131.94;qualidade ;Qualidade;confirmada ;
+DEV-00018;NF-100251; 10/07/2025 ;20.17;Cliente desistiu;Qualidade;Cancelada;
+DEV-00019;NF-103149;18/02/2025;193.31;Quebra/Avaria;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00020;NF-101992;17/06/2026;369.24;Quebra/Avaria;comercial;Pendente;devolução parcial
+DEV-00021;NF-109299;07/03/26;47.06;qualidade ;Logística;Pendente;aguardando NF de entrada
+DEV-00022;NF-104682;06-06-25;R$ 141,56;Produto divergente;Comercial;Confirmada;devolução parcial
+DEV-00023;NF-108343;11/07/2025;10.64;Cliente desistiu;Comercial;confirmada ;devolução parcial
+DEV-00024;NF-100564;19/06/2025;32,22;Preço/negociação;Logística;Cancelada;verificar se abate comissão
+DEV-00025;NF-106870;18/09/2025;119.96;Erro de pedido;Expedição;Confirmada;aguardando NF de entrada
+DEV-00026;NF-102468;;39.95;Erro de pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-00027;NF-100001;25/04/2025;34.33;Preço/negociação;Expedição;Cancelada;
+DEV-00028;NF-102671;29/11/2025;395.08;Cliente desistiu;Qualidade;Confirmada;devolução parcial
+DEV-00029;NF-102316;27/07/2025;280.67;Avaria;Comercial;Confirmada;
+DEV-00030;NF-101764;02-11-25;168.62;qualidade ;Expedição;Confirmada;aguardando NF de entrada
+DEV-00031;NF-100797;18/06/2026;90.52;Cliente desistiu;Logística;confirmada ;aguardando NF de entrada
+DEV-00032;NF-111561;09-10-25;125.56;Avaria;Expedição;confirmada ;
+DEV-00033;NF-110982;2026-07-22;474.85;Preço/negociação;Não definido;Cancelada;aguardando NF de entrada
+DEV-00034;NF-111464;;211.52;Avaria;comercial;Confirmada;verificar se abate comissão
+DEV-00035;NF-110541;13/03/2026;11.74;erro pedido;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00036;NF-102504;26/02/2025;17.13;Qualidade;Cliente;confirmada ;aguardando NF de entrada
+DEV-00037;NF-109757;28/07/2026;4.20;Avaria;Qualidade;Cancelada;devolução parcial
+DEV-00038;NF-102930;28/02/2026;556.73;qualidade ;comercial;confirmada ;aguardando NF de entrada
+DEV-00039;NF-104604;12/05/2025;30,80;Cliente desistiu;Não definido;confirmada ;aguardando NF de entrada
+DEV-00040;NF-106137;27/06/2026;50,82;Produto divergente;Comercial;Confirmada;aguardando NF de entrada
+DEV-00041;NF-104487;20/02/25;189.99;erro pedido;Cliente;confirmada ;verificar se abate comissão
+DEV-00042;NF-106338;06/04/2026;0.29;Qualidade;Qualidade;confirmada ;aguardando NF de entrada
+DEV-00043;NF-107072;27/02/2026;18.55;erro pedido;comercial;Confirmada;lançada no mês seguinte
+DEV-00044;NF-103374;11/07/2026;150.33;Preço/negociação;Expedição;Pendente;
+DEV-00045;NF-103793;03/06/2026;1465.62;Qualidade;Qualidade;Confirmada;devolução parcial
+DEV-00046;NF-105230;;180.22;Produto divergente;Cliente;Confirmada;
+DEV-00047;NF-103077;27/09/2025;20.73;Erro de pedido;Não definido;confirmada ;devolução parcial
+DEV-00048;NF-102806;;R$ 87,63;qualidade ;Qualidade;Confirmada;devolução parcial
+DEV-00049;NF-107187;11/01/2026;36,32;Erro de pedido;Logística;Confirmada;verificar se abate comissão
+DEV-00050;NF-100333;02/07/2026;98.50;Quebra/Avaria;Qualidade;Cancelada;devolução parcial
+DEV-00051;NF-109785;02/01/2026;36.01;Cliente desistiu;Logística;Confirmada;aguardando NF de entrada
+DEV-00052;NF-102190;17/03/26;308.78;Cliente desistiu;comercial;Pendente;
+DEV-00053;;29/01/2026;R$ 156,56;Produto divergente;Expedição;Pendente;devolução parcial
+DEV-00054;NF-108808;31-08-25;37.34;qualidade ;Qualidade;Confirmada;
+DEV-00055;NF-104654;05/04/2025;59.05;Avaria;Qualidade;Confirmada;
+DEV-00056;NF-106932;09/08/2025;1,55;Produto divergente;Expedição;Confirmada;
+DEV-00057;NF-104990;27/06/2025;1613,35;qualidade ;Cliente;Confirmada;aguardando NF de entrada
+DEV-00058;NF-111005;15/05/2025;132.67;Preço/negociação;Logística;Cancelada;
+DEV-00059;NF-108507;17-03-25;R$ 6,34;Preço/negociação;Comercial;Confirmada;verificar se abate comissão
+DEV-00060;NF-106862;19/07/2026;20.05;Produto divergente;Comercial;confirmada ;verificar se abate comissão
+DEV-00061;NF-109271;27/01/2026;53,90;Preço/negociação;Não definido;Confirmada;aguardando NF de entrada
+DEV-00062;NF-103046;27-04-25;52.53;Erro de pedido;Não definido;confirmada ;aguardando NF de entrada
+DEV-00063;NF-106754;27/10/2025;47.71;Produto divergente;Qualidade;confirmada ;lançada no mês seguinte
+DEV-00064;NF-109615;01/06/2025;-38.63;Erro de pedido;comercial;confirmada ;lançada no mês seguinte
+DEV-00065;NF-109690;14/08/2025;71.02;erro pedido;Não definido;Pendente;lançada no mês seguinte
+DEV-00066;NF-109127;25/05/2026;270.02;Quebra/Avaria;Logística;Pendente;aguardando NF de entrada
+DEV-00067;NF-111834;2025-10-27;539.56;Preço/negociação;Cliente;confirmada ;lançada no mês seguinte
+DEV-00068;NF-100094;23/05/2026;437.91;Erro de pedido;Cliente;Pendente;verificar se abate comissão
+DEV-00069;NF-103421; 08/07/2026 ;573.88;qualidade ;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00070;NF-103158;22-09-25;25.99;erro pedido;Comercial;Cancelada;devolução parcial
+DEV-00071;NF-105575;21/05/26;285.33;Avaria;Comercial;Pendente;verificar se abate comissão
+DEV-00072;NF-104842;03/10/2025;61.42;Qualidade;Cliente;Pendente;verificar se abate comissão
+DEV-00073;NF-101240;22/05/2025;202.34;Produto divergente;Comercial;Pendente;aguardando NF de entrada
+DEV-00074;NF-102219;22/05/2025;246.35;qualidade ;Qualidade;Pendente;aguardando NF de entrada
+DEV-00075;NF-110183;22-05-26;290.50;Preço/negociação;Expedição;Pendente;verificar se abate comissão
+DEV-00076;NF-103857;06/03/25;8.40;Cliente desistiu;Comercial;Confirmada;
+DEV-00077;NF-103480;2025-10-12;859.67;Avaria;comercial;Cancelada;lançada no mês seguinte
+DEV-00078;NF-100070;2025-07-29;64.42;Qualidade;Cliente;Confirmada;devolução parcial
+DEV-00079;NF-111791;14/08/2025;-6.94;Erro de pedido;Expedição;Pendente;
+DEV-00080;NF-101179;25/03/2025;113.63;Avaria;Comercial;Cancelada;aguardando NF de entrada
+DEV-00081;NF-104215;2025-04-24;93.55;Quebra/Avaria;Não definido;Pendente;
+DEV-00082;NF-101778;26/09/2025;4.36;Qualidade;Não definido;Confirmada;verificar se abate comissão
+DEV-00083;NF-102658;11-03-26;25.68;Qualidade;Cliente;Confirmada;
+DEV-00084;NF-105283;19/04/2025;94.45;Produto divergente;Cliente;Confirmada;aguardando NF de entrada
+DEV-00085;NF-103727;2025-06-18;81.01;Preço/negociação;Expedição;confirmada ;
+DEV-00086;NF-109858;08/07/2026;67.46;Produto divergente;comercial;Confirmada;
+DEV-00087;NF-102889;07/07/2025;25.66;Avaria;Expedição;Confirmada;aguardando NF de entrada
+DEV-00088;NF-108542;22/05/2026;498,27;erro pedido;Cliente;Cancelada;verificar se abate comissão
+DEV-00089;NF-100507;29-07-25;88,04;erro pedido;Logística;Confirmada;
+DEV-00090;NF-107545;08/07/26;546.92;erro pedido;Cliente;Confirmada;verificar se abate comissão
+DEV-00091;NF-108725;13-08-25;244.52;Produto divergente;Comercial;Confirmada;
+DEV-00092;NF-108862;10/05/2025;R$ 35,71;Quebra/Avaria;comercial;Confirmada;aguardando NF de entrada
+DEV-00093;NF-110409;11/06/2025;52.50;Produto divergente;comercial;Cancelada;lançada no mês seguinte
+DEV-00094;NF-104838;08-11-25;131.28;Qualidade;Comercial;Pendente;verificar se abate comissão
+DEV-00095;NF-104426;13-03-26;310.04;Preço/negociação;Qualidade;Cancelada;lançada no mês seguinte
+DEV-00096;NF-101544;04/06/26;353.01;qualidade ;Expedição;Pendente;
+DEV-00097;NF-108701;25/09/2025;0.43;Erro de pedido;Comercial;Cancelada;aguardando NF de entrada
+DEV-00098;NF-101354;28-01-25;45.69;Quebra/Avaria;Qualidade;Pendente;devolução parcial
+DEV-00099;NF-108093;27/06/2026;1268.97;Cliente desistiu;Não definido;Pendente;devolução parcial
+DEV-00100;NF-109354;10/01/2026;114.85;Avaria;Cliente;Pendente;lançada no mês seguinte
+DEV-00101;NF-105337;14/08/2026;74.40;qualidade ;Logística;Pendente;devolução parcial
+DEV-00102;NF-104527;10/08/2025;13,08;Cliente desistiu;Expedição;Confirmada;devolução parcial
+DEV-00103;NF-107324;27/04/2026;29.19;erro pedido;Comercial;Pendente;devolução parcial
+DEV-00104;NF-105672;;147.16;Qualidade;Comercial;Confirmada;lançada no mês seguinte
+DEV-00105;NF-111401;20/10/25;111.93;Qualidade;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00106;NF-109720;2025-04-14;34.12;Produto divergente;Não definido;Confirmada;aguardando NF de entrada
+DEV-00107;NF-109415;;-2.92;Preço/negociação;Não definido;Confirmada;verificar se abate comissão
+DEV-00108;NF-107373;17/03/2026;61.38;Avaria;Logística;Confirmada;lançada no mês seguinte
+DEV-00109;NF-107422;16/06/2025;124.34;Cliente desistiu;Logística;confirmada ;devolução parcial
+DEV-00110;NF-102898;14/07/2026;142.23;Quebra/Avaria;Qualidade;Confirmada;
+DEV-00111;NF-101168;17/06/2026;826.43;erro pedido;Logística;Cancelada;
+DEV-00112;NF-103732;27/04/2026;19.22;Erro de pedido;Cliente;Confirmada;devolução parcial
+DEV-00113;NF-107238;09/09/2025; 724.81 ;Cliente desistiu;comercial;Confirmada;verificar se abate comissão
+DEV-00114;NF-103824;01/04/2025;94.29;erro pedido;Expedição;Confirmada;aguardando NF de entrada
+DEV-00115;NF-108583;05-07-26; 99.37 ;Avaria;Comercial;Confirmada;devolução parcial
+DEV-00116;NF-108223;15/04/2026;82.18;Quebra/Avaria;Expedição;Confirmada;
+DEV-00117;NF-106541;01/06/2025;241.24;Quebra/Avaria;Cliente;Cancelada;lançada no mês seguinte
+DEV-00118;NF-100174;02-04-26;695.48;Produto divergente;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00119;NF-111392;16-03-26;40.90;Avaria;Comercial;Pendente;lançada no mês seguinte
+DEV-00120;NF-106263;06/04/2025;414.74;Cliente desistiu;Cliente;confirmada ;lançada no mês seguinte
+DEV-00121;NF-107198;30/11/2025;291.95;Avaria;Expedição;Confirmada;lançada no mês seguinte
+DEV-00122;;16/04/25;25.06;qualidade ;Logística;Confirmada;lançada no mês seguinte
+DEV-00123;NF-101825;12/06/2026;5.81;Erro de pedido;Expedição;Confirmada;aguardando NF de entrada
+DEV-00124;NF-107045;31/07/2025;156.02;Produto divergente;Qualidade;Confirmada;devolução parcial
+DEV-00125;NF-100211;;R$ 615,48;Erro de pedido;Cliente;Confirmada;lançada no mês seguinte
+DEV-00126;NF-109541;2025-06-05;273.62;Avaria;Qualidade;Confirmada;verificar se abate comissão
+DEV-00127;NF-110311;10/03/2026;18.18;erro pedido;Logística;Confirmada;devolução parcial
+DEV-00128;NF-101810;09/02/25; 92.41 ;Preço/negociação;Logística;Confirmada;
+DEV-00129;NF-111381;2025-08-11;390.95;Preço/negociação;Logística;Confirmada;verificar se abate comissão
+DEV-00130;NF-104161;03/05/2026;178.44;erro pedido;Não definido;confirmada ;aguardando NF de entrada
+DEV-00131;NF-107063; 16/04/2025 ;123.43;Produto divergente;Comercial;Confirmada;verificar se abate comissão
+DEV-00132;NF-109310;21/11/2025;17,20;Produto divergente;Logística;Pendente;aguardando NF de entrada
+DEV-00133;NF-100698;2025-10-22; 158.82 ;Cliente desistiu;Qualidade;Pendente;devolução parcial
+DEV-00134;NF-108296;10-07-26;20.35;Preço/negociação;Qualidade;Pendente;lançada no mês seguinte
+DEV-00135;NF-104449;27/12/2025;100.41;erro pedido;Expedição;Confirmada;verificar se abate comissão
+DEV-00136;NF-106163;06-02-26;65.39;Avaria;Expedição;Cancelada;aguardando NF de entrada
+DEV-00137;NF-111849;27/07/25;18.26;erro pedido;Não definido;confirmada ;devolução parcial
+DEV-00138;NF-110219;06-03-26;43.63;erro pedido;Comercial;Confirmada;aguardando NF de entrada
+DEV-00139;NF-109464;12/01/2026;247.60;Cliente desistiu;Expedição;Pendente;lançada no mês seguinte
+DEV-00140;NF-108272;05/08/2025;16.38;Avaria;Qualidade;Cancelada;aguardando NF de entrada
+DEV-00141;NF-101531;11/02/26;184.71;Quebra/Avaria;Comercial;Pendente;lançada no mês seguinte
+DEV-00142;NF-111523;10/09/2025;127.91;Produto divergente;Não definido;confirmada ;verificar se abate comissão
+DEV-00143;NF-101390;09/08/2026;904.39;Erro de pedido;Logística;Confirmada;devolução parcial
+DEV-00144;NF-106791;20/02/2026;R$ 130,28;Erro de pedido;Comercial;Pendente;aguardando NF de entrada
+DEV-00145;NF-101291;05/03/2026;130.24;Cliente desistiu;Não definido;Cancelada;aguardando NF de entrada
+DEV-00146;NF-107575;01/03/2026; 9.40 ;qualidade ;Expedição;Confirmada;aguardando NF de entrada
+DEV-00147;NF-105371;25-12-25;143.56;Quebra/Avaria;Logística;Pendente;verificar se abate comissão
+DEV-00148;NF-109494;01/09/2025;152.94;qualidade ;comercial;Pendente;devolução parcial
+DEV-00149;NF-104735;11/05/2026;R$ 30,93;Avaria;comercial;Cancelada;verificar se abate comissão
+DEV-00150;NF-106527;27/07/2026;85.24;Quebra/Avaria;Qualidade;Cancelada;
+DEV-00151;NF-100638;;266.88;Avaria;Qualidade;confirmada ;aguardando NF de entrada
+DEV-00152;NF-106483;23/04/2026;14.95;Avaria;Não definido;confirmada ;devolução parcial
+DEV-00153;NF-104204;30/04/2026;0,08;Produto divergente;Cliente;Pendente;aguardando NF de entrada
+DEV-00154;NF-102998;22/03/2026;32.44;Erro de pedido;comercial;confirmada ;aguardando NF de entrada
+DEV-00155;NF-103441;2026-06-02;91.21;Qualidade;Expedição;confirmada ;lançada no mês seguinte
+DEV-00156;;06-01-26;5.81;Qualidade;Não definido;Pendente;lançada no mês seguinte
+DEV-00157;NF-104685;2025-07-26;R$ 37,02;qualidade ;comercial;Confirmada;aguardando NF de entrada
+DEV-00158;NF-103181;;334.22;Erro de pedido;Comercial;Cancelada;lançada no mês seguinte
+DEV-00159;NF-102926;;58.97;qualidade ;Comercial;Confirmada;lançada no mês seguinte
+DEV-00160;NF-109998;18/05/2026;R$ 33,91;Avaria;comercial;Confirmada;devolução parcial
+DEV-00161;NF-101410;2025-05-13;10.35;Cliente desistiu;Cliente;Confirmada;devolução parcial
+DEV-00162;NF-103649; 04/05/2026 ;100.18;qualidade ;Logística;Pendente;devolução parcial
+DEV-00163;NF-110915; 12/10/2025 ; 83.35 ;erro pedido;Comercial;Confirmada;devolução parcial
+DEV-00164;NF-100669;18-02-26;171.26;Preço/negociação;Comercial;Pendente;devolução parcial
+DEV-00165;NF-101272;14/11/2025;34.73;Preço/negociação;Cliente;confirmada ;aguardando NF de entrada
+DEV-00166;NF-100601;2025-12-30;83.42;Cliente desistiu;Expedição;Pendente;aguardando NF de entrada
+DEV-00167;NF-108663;12/07/2025;59,61;Qualidade;Logística;Cancelada;verificar se abate comissão
+DEV-00168;NF-106324;23/04/2025;352.54;erro pedido;Não definido;confirmada ;aguardando NF de entrada
+DEV-00169;NF-101344; 20/03/2025 ;1.68;qualidade ;Logística;Confirmada;devolução parcial
+DEV-00170;NF-111135;2026-06-29;550.52;Erro de pedido;Comercial;Pendente;
+DEV-00171;NF-101189;14/12/2025;26.02;Erro de pedido;Expedição;Cancelada;devolução parcial
+DEV-00172;NF-105484;07/09/2025;11.12;qualidade ;Cliente;Cancelada;verificar se abate comissão
+DEV-00173;NF-111922;05/07/2026;28.12;Cliente desistiu;comercial;Confirmada;
+DEV-00174;NF-103513;22/01/2026;146.69;erro pedido;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00175;NF-101503;26/07/2025;133.03;qualidade ;Comercial;Pendente;lançada no mês seguinte
+DEV-00176;nf-100077;18/05/2025;118.83;erro pedido;Expedição;Confirmada;verificar se abate comissão
+DEV-00177;NF-101756;14-07-26;25.26;Avaria;Cliente;Confirmada;aguardando NF de entrada
+DEV-00178;NF-109156;15/03/26;18.05;Qualidade;Comercial;Pendente;devolução parcial
+DEV-00179;NF-111887;25/12/25;97.11;Preço/negociação;comercial;Confirmada;lançada no mês seguinte
+DEV-00180;NF-109047;28-10-25;R$ 194,67;Avaria;Cliente;Confirmada;verificar se abate comissão
+DEV-00181;NF-105945;23/12/2025;979.50;Qualidade;Comercial;Pendente;
+DEV-00182;NF-100089;14/02/25;1735.42;Erro de pedido;Expedição;Pendente;devolução parcial
+DEV-00183;NF-111001;12/12/2025;38.96;Erro de pedido;Não definido;Confirmada;
+DEV-00184;NF-110182;2025-04-27;149.95;qualidade ;Qualidade;Pendente;
+DEV-00185;NF-109681;04/02/2026;3.60;erro pedido;comercial;Pendente;devolução parcial
+DEV-00186;NF-100221;2026-02-25;25.40;qualidade ;Expedição;Confirmada;devolução parcial
+DEV-00187;NF-102952;14-02-25;43.86;erro pedido;Não definido;Confirmada;aguardando NF de entrada
+DEV-00188;NF-105286;13/10/2025;490.80;Cliente desistiu;Expedição;Confirmada;lançada no mês seguinte
+DEV-00189;NF-109894;26/03/2026;165,71;erro pedido;Expedição;confirmada ;lançada no mês seguinte
+DEV-00190;NF-104203;09/03/2026;50,40;Preço/negociação;Qualidade;Pendente;verificar se abate comissão
+DEV-00191;NF-105466;03/08/2026;2.32;erro pedido;Cliente;Pendente;lançada no mês seguinte
+DEV-00192;NF-105057;29/06/2025;41.07;Qualidade;Comercial;Confirmada;
+DEV-00193;NF-102537;13/05/2026;27.66;Erro de pedido;Cliente;Confirmada;devolução parcial
+DEV-00194;NF-107180;2025-06-06; 34.66 ;Quebra/Avaria;Comercial;Pendente;devolução parcial
+DEV-00195;NF-102844; 09/02/2026 ;R$ 173,97;Erro de pedido;comercial;Confirmada;aguardando NF de entrada
+DEV-00196;NF-110372;13-08-25;369.85;Quebra/Avaria;comercial;confirmada ;lançada no mês seguinte
+DEV-00197;NF-102248;02/07/2026;66.29;Qualidade;Expedição;Cancelada;devolução parcial
+DEV-00198;NF-110335;2025-04-10;182.13;qualidade ;Qualidade;Pendente;aguardando NF de entrada
+DEV-00199;NF-101513;30-11-25;532.36;qualidade ;Expedição;Confirmada;devolução parcial
+DEV-00200;NF-108911; 16/07/2026 ;492.82;Produto divergente;Expedição;confirmada ;devolução parcial
+DEV-00201;NF-108176;27/11/2025;174.66;Preço/negociação;Cliente;confirmada ;aguardando NF de entrada
+DEV-00202;NF-111342;15/09/2025;86.37;erro pedido;Expedição;Cancelada;verificar se abate comissão
+DEV-00203;NF-110997;20/09/2025;44.34;Produto divergente;Comercial;confirmada ;lançada no mês seguinte
+DEV-00204;NF-104170;21/09/2025;35.94;Cliente desistiu;Comercial;Confirmada;devolução parcial
+DEV-00205;NF-102098;17/08/2025;2.25;Produto divergente;Cliente;Confirmada;devolução parcial
+DEV-00206;NF-110242;27/05/2025;141,78;Quebra/Avaria;Não definido;confirmada ;devolução parcial
+DEV-00207;NF-105166;26/04/2025;26.10;qualidade ;Comercial;Confirmada;lançada no mês seguinte
+DEV-00208;NF-106916;10/02/2025;36.16;Qualidade;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00209;NF-100414;06/03/26;0.39;Cliente desistiu;Não definido;Cancelada;
+DEV-00210;NF-109418;20-09-25;1.44;Avaria;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00211;NF-100666; 09/12/2025 ;8,29;Qualidade;Cliente;Confirmada;
+DEV-00212;NF-108899;01-07-26;174,66;Qualidade;Comercial;Pendente;devolução parcial
+DEV-00213;NF-108467; 20/07/2025 ;30.76;Avaria;comercial;Confirmada;devolução parcial
+DEV-00214;NF-105596;2025-11-09;86.10;Quebra/Avaria;comercial;Confirmada;verificar se abate comissão
+DEV-00215;NF-107306;20/07/2025;174.78;qualidade ;Expedição;Cancelada;lançada no mês seguinte
+DEV-00216;NF-102374;28/09/2025;139.81;qualidade ;Expedição;Pendente;verificar se abate comissão
+DEV-00217;NF-108029;21-05-26;2036.72;Cliente desistiu;Comercial;Confirmada;aguardando NF de entrada
+DEV-00218;NF-105312;2025-07-12;242.52;qualidade ;Expedição;Pendente;devolução parcial
+DEV-00219;NF-102851;2025-05-11;79.47;Quebra/Avaria;Comercial;Cancelada;devolução parcial
+DEV-00220;NF-106647;30/01/26;2.26;qualidade ;Logística;Confirmada;aguardando NF de entrada
+DEV-00221;NF-107396;2025-10-20; 165.25 ;Avaria;comercial;Pendente;verificar se abate comissão
+DEV-00222;NF-108869;03/07/2026;50.66;Preço/negociação;comercial;Pendente;lançada no mês seguinte
+DEV-00223;NF-100149;2025-11-23;2376.95;Preço/negociação;Não definido;Cancelada;devolução parcial
+DEV-00224;NF-111273;21/01/2026;50.15;Cliente desistiu;Qualidade;Confirmada;
+DEV-00225;NF-100341;05/08/2025;32.58;Qualidade;Comercial;Confirmada;lançada no mês seguinte
+DEV-00226;NF-103320; 02/08/2025 ;14.05;qualidade ;Cliente;Confirmada;aguardando NF de entrada
+DEV-00227;NF-100057;2026-01-30;149.69;Qualidade;Expedição;Cancelada;aguardando NF de entrada
+DEV-00228;NF-105717;2026-07-31;52.87;Qualidade;Expedição;Confirmada;devolução parcial
+DEV-00229;NF-109244;28-12-25;65.00;Cliente desistiu;Cliente;Confirmada;aguardando NF de entrada
+DEV-00230;NF-103015;22/03/2025;277.89;Quebra/Avaria;Qualidade;Pendente;devolução parcial
+DEV-00231;NF-109872;11/07/2025;599.60;Cliente desistiu;comercial;Confirmada;aguardando NF de entrada
+DEV-00232; NF-105815 ;22/02/2026;2.70;erro pedido;Cliente;Confirmada;devolução parcial
+DEV-00233;NF-110226;2026-07-25;22.02;Produto divergente;Qualidade;confirmada ;devolução parcial
+DEV-00234;NF-105142;27/07/2025;66.51;Avaria;comercial;Cancelada;verificar se abate comissão
+DEV-00235;NF-104069;12/09/2025;69,68;erro pedido;Logística;Confirmada;
+DEV-00236;NF-111912;12/07/2025;142.49;qualidade ;Logística;confirmada ;aguardando NF de entrada
+DEV-00237;NF-100185;20/04/2026;71.31;Qualidade;Não definido;Confirmada;devolução parcial
+DEV-00238;NF-111289;25/10/2025;34.16;Avaria;Não definido;confirmada ;aguardando NF de entrada
+DEV-00239;NF-106121; 22/07/2025 ;79.74;Quebra/Avaria;Comercial;Confirmada;aguardando NF de entrada
+DEV-00240;NF-101568;17-05-25;216,09;Avaria;Cliente;Confirmada;
+DEV-00241;NF-105503;06/04/2025;8.30;Avaria;Não definido;Pendente;
+DEV-00242;NF-104703;11/02/2026;22.31;Cliente desistiu;comercial;Pendente;devolução parcial
+DEV-00243;NF-102958;01-07-26;10.24;Avaria;Comercial;confirmada ;devolução parcial
+DEV-00244;NF-110639;04/06/26;465.87;Quebra/Avaria;Qualidade;Confirmada;devolução parcial
+DEV-00245;NF-111875;2025-03-28;19.19;Cliente desistiu;Não definido;Cancelada;devolução parcial
+DEV-00246;NF-101207;2025-11-10;R$ 72,65;Quebra/Avaria;Comercial;Confirmada;lançada no mês seguinte
+DEV-00247;NF-111444;25/02/2026;74,96;qualidade ;Logística;Pendente;aguardando NF de entrada
+DEV-00248;NF-105975;24/08/25;755.26;Qualidade;Cliente;Cancelada;devolução parcial
+DEV-00249;NF-108211;05/07/2026;7.09;Preço/negociação;Logística;confirmada ;devolução parcial
+DEV-00250;NF-111604;15/10/2025;R$ 139,14;erro pedido;Comercial;Pendente;verificar se abate comissão
+DEV-00251;NF-103125; 27/06/2025 ;31.74;Cliente desistiu;Não definido;Confirmada;aguardando NF de entrada
+DEV-00252;NF-100388;25/09/2025;15.27;Cliente desistiu;Qualidade;Cancelada;lançada no mês seguinte
+DEV-00253;NF-104463;2025-10-23;246.29;Avaria;comercial;Confirmada;aguardando NF de entrada
+DEV-00254;NF-110710;02-07-26;60.21;Preço/negociação;Comercial;Confirmada;verificar se abate comissão
+DEV-00255;NF-111594;15-12-25;154.00;erro pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-00256;NF-109707;2025-06-04;81,06;Erro de pedido;Qualidade;confirmada ;devolução parcial
+DEV-00257;nf-101947;28/02/2026;74.69;qualidade ;Expedição;Pendente;aguardando NF de entrada
+DEV-00258;NF-101314;2026-07-11;8.63;qualidade ;Logística;Confirmada;aguardando NF de entrada
+DEV-00259;NF-110361;27/10/2025;87.69;erro pedido;Cliente;Confirmada;devolução parcial
+DEV-00260;NF-105566;29/10/2025;R$ 46,70;Produto divergente;comercial;Confirmada;devolução parcial
+DEV-00261;NF-101138;06/03/2026;20.74;Quebra/Avaria;Não definido;confirmada ;verificar se abate comissão
+DEV-00262;NF-107405;19/05/2026;163.53;Erro de pedido;Não definido;Confirmada;verificar se abate comissão
+DEV-00263;NF-110340;27-04-25;R$ 21,88;qualidade ;Não definido;confirmada ;verificar se abate comissão
+DEV-00264;NF-100994;2026-02-02;38.21;Erro de pedido;Logística;confirmada ;verificar se abate comissão
+DEV-00265;NF-100128;2026-03-13;23.02;Cliente desistiu;Não definido;Confirmada;lançada no mês seguinte
+DEV-00266;NF-101049;04/05/2026;12.88;erro pedido;Logística;Cancelada;aguardando NF de entrada
+DEV-00267;NF-105187;03/03/2026;361.48;Produto divergente;Expedição;confirmada ;devolução parcial
+DEV-00268;NF-100636;17/03/2025;2057.33;qualidade ;Expedição;Cancelada;
+DEV-00269;NF-106853;01/03/26;641.48;qualidade ;comercial;confirmada ;
+DEV-00270;NF-107152;12/11/2025;185.26;Qualidade;Logística;Cancelada;devolução parcial
+DEV-00271;NF-100136;03/11/2025;71.48;Cliente desistiu;Comercial;Confirmada;lançada no mês seguinte
+DEV-00272;NF-109094;20/05/2026;204.92;Qualidade;Qualidade;Confirmada;devolução parcial
+DEV-00273;NF-106818;2026-06-17;1473.34;Preço/negociação;Logística;Confirmada;devolução parcial
+DEV-00274;NF-105524;31-05-25;133.43;Avaria;Qualidade;Confirmada;devolução parcial
+DEV-00275;NF-105258;24/05/2025;327.85;Preço/negociação;Logística;Confirmada;lançada no mês seguinte
+DEV-00276;NF-110821;21/07/2025;171.40;Produto divergente;Expedição;Confirmada;devolução parcial
+DEV-00277;NF-104884;07/07/2026;R$ 41,74;Produto divergente;Qualidade;Confirmada;devolução parcial
+DEV-00278;NF-109294;22-05-25;50.69;Cliente desistiu;comercial;Confirmada;lançada no mês seguinte
+DEV-00279;NF-100971;06/11/2025;45.83;Qualidade;Qualidade;Confirmada;verificar se abate comissão
+DEV-00280;NF-102339;19/06/2025;334.33;erro pedido;Não definido;Confirmada;lançada no mês seguinte
+DEV-00281;NF-106319;30/04/26;1,606.80;Quebra/Avaria;comercial;Confirmada;lançada no mês seguinte
+DEV-00282;NF-111696;2026-01-03;145,50;Preço/negociação;Expedição;Pendente;lançada no mês seguinte
+DEV-00283;nf-110737;12/02/2025;22.74;erro pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-00284;NF-104471;04/07/2026;20.18;Cliente desistiu;Logística;Confirmada;devolução parcial
+DEV-00285;NF-108809; 04/07/2026 ;67.72;Produto divergente;Não definido;Confirmada;
+DEV-00286;NF-104236;02/02/2026;7.64;Avaria;Não definido;Confirmada;verificar se abate comissão
+DEV-00287;NF-107039;10-04-26; 32.81 ;Qualidade;comercial;Cancelada;devolução parcial
+DEV-00288; NF-107233 ;30/05/2026;10.34;Avaria;Logística;Cancelada;lançada no mês seguinte
+DEV-00289;NF-100876;17/04/2026; 283.72 ;Erro de pedido;Comercial;Confirmada;aguardando NF de entrada
+DEV-00290;;19-08-25;98.57;erro pedido;Expedição;Pendente;devolução parcial
+DEV-00291;NF-107815;2025-12-05;R$ 111,71;Quebra/Avaria;Não definido;Cancelada;verificar se abate comissão
+DEV-00292;NF-110338;30/08/2025;272.37;Quebra/Avaria;Expedição;Confirmada;aguardando NF de entrada
+DEV-00293;NF-108369;28/02/2026;103.74;Preço/negociação;Logística;Cancelada;verificar se abate comissão
+DEV-00294;NF-110308;27/10/2025;5,41;Produto divergente;Expedição;Confirmada;aguardando NF de entrada
+DEV-00295;NF-100844;19/11/2025;73.55;erro pedido;Expedição;Confirmada;verificar se abate comissão
+DEV-00296;NF-101659;21/03/2026;689.24;Produto divergente;Cliente;Confirmada;lançada no mês seguinte
+DEV-00297;NF-110981;28/07/2025;12.51;Erro de pedido;Logística;Pendente;
+DEV-00298;NF-106496;27/06/2026;55.22;Cliente desistiu;Expedição;Confirmada;lançada no mês seguinte
+DEV-00299;NF-107143;27/08/2026;142.53;qualidade ;Comercial;Confirmada;verificar se abate comissão
+DEV-00300;NF-108502;15-09-25;233.42;Erro de pedido;Cliente;Confirmada;devolução parcial
+DEV-00301;NF-111868;07/07/2026;201.50;Qualidade;Qualidade;Pendente;
+DEV-00302; NF-105786 ;27/07/2025;305.32;Qualidade;comercial;Pendente;aguardando NF de entrada
+DEV-00303;NF-105868;11/06/2026;277.18;erro pedido;Cliente;Pendente;
+DEV-00304;NF-106719;29-06-25;219.04;Avaria;Cliente;Pendente;verificar se abate comissão
+DEV-00305;NF-107316;30/12/2025;R$ 60,58;Qualidade;Cliente;Confirmada;verificar se abate comissão
+DEV-00306;NF-102447;02/05/2025;80.82;Produto divergente;Expedição;Confirmada;verificar se abate comissão
+DEV-00307;NF-109956;17/03/2025;285.95;qualidade ;Qualidade;confirmada ;verificar se abate comissão
+DEV-00308;NF-102452; 16/02/2026 ;83.16;Erro de pedido;Não definido;confirmada ;devolução parcial
+DEV-00309;NF-102544;25/05/2026;R$ 23,90;Produto divergente;Não definido;Confirmada;devolução parcial
+DEV-00310;NF-103616;04/05/2025;50.12;Produto divergente;Comercial;Confirmada;
+DEV-00311;NF-107913;16/03/2026; 22.49 ;Avaria;Cliente;Confirmada;verificar se abate comissão
+DEV-00312;NF-106692;2026-06-04;11.94;qualidade ;Qualidade;confirmada ;devolução parcial
+DEV-00313;NF-106138;04/07/2025;83.99;Produto divergente;Logística;Confirmada;aguardando NF de entrada
+DEV-00314;NF-108242;14/02/2026;117.10;Quebra/Avaria;Cliente;Confirmada;lançada no mês seguinte
+DEV-00315;NF-108545;29/09/2025;1019.85;Quebra/Avaria;Comercial;Confirmada;
+DEV-00316;NF-100276;28/09/2025;276.30;erro pedido;Logística;confirmada ;
+DEV-00317;NF-102674;24/02/2026;242.90;erro pedido;Não definido;Pendente;verificar se abate comissão
+DEV-00318;NF-104619;;414.53;Preço/negociação;Comercial;Confirmada;
+DEV-00319;NF-106478;2026-06-28;210.01;Produto divergente;Comercial;Confirmada;devolução parcial
+DEV-00320;NF-104145;2026-01-20;609.19;Erro de pedido;Comercial;Pendente;verificar se abate comissão
+DEV-00321;NF-103625;08/04/2025;28.17;Avaria;comercial;Pendente;
+DEV-00322;NF-102689;20/12/2025;R$ 101,08;Qualidade;Não definido;Confirmada;verificar se abate comissão
+DEV-00323;NF-108042;; 7.21 ;erro pedido;comercial;confirmada ;devolução parcial
+DEV-00324;NF-105438;29/11/2025;81.88;Avaria;Não definido;Pendente;lançada no mês seguinte
+DEV-00325;NF-108373;12/06/2026;165,48;Qualidade;Expedição;Confirmada;verificar se abate comissão
+DEV-00326;;;402.41;Produto divergente;Qualidade;Pendente;lançada no mês seguinte
+DEV-00327;NF-108602;19-08-25;49.69;Avaria;Não definido;Confirmada;aguardando NF de entrada
+DEV-00328;NF-102095;17/11/2025;272.39;qualidade ;Comercial;Confirmada;aguardando NF de entrada
+DEV-00329;NF-102954;;1.01;Produto divergente;Não definido;Confirmada;aguardando NF de entrada
+DEV-00330;NF-110247;;89,02;Preço/negociação;Logística;Cancelada;devolução parcial
+DEV-00331;NF-101942;2025-04-15;47.23;Avaria;comercial;Confirmada;lançada no mês seguinte
+DEV-00332;NF-100451;02/04/2025;20.35;Qualidade;Expedição;Cancelada;
+DEV-00333;NF-105005;05/08/2025;29.68;Erro de pedido;Expedição;Pendente;verificar se abate comissão
+DEV-00334;NF-106753;2025-10-18;594.24;Produto divergente;Comercial;Pendente;aguardando NF de entrada
+DEV-00335;NF-111817;04/03/2026;10.27;Produto divergente;Logística;Confirmada;aguardando NF de entrada
+DEV-00336;NF-104691;02/09/2025;149.64;erro pedido;Cliente;confirmada ;aguardando NF de entrada
+DEV-00337;NF-109794;26/07/2026;848.33;Quebra/Avaria;Logística;Confirmada;lançada no mês seguinte
+DEV-00338;NF-108154;29-04-26;74,01;Cliente desistiu;Qualidade;Cancelada;
+DEV-00339;NF-110656;06/09/2025;23.96;qualidade ;Expedição;confirmada ;aguardando NF de entrada
+DEV-00340;NF-106616;17/02/2026;1,89;Quebra/Avaria;Qualidade;Pendente;lançada no mês seguinte
+DEV-00341;NF-101439;24/03/2026;16.80;Produto divergente;Cliente;Pendente;
+DEV-00342;NF-104282;02/08/2026;10.23;qualidade ;Não definido;Confirmada;
+DEV-00343;NF-106430;20/01/2026;172.36;Erro de pedido;Não definido;Cancelada;devolução parcial
+DEV-00344;NF-103419;03/05/2025;18.88;Cliente desistiu;Qualidade;Confirmada;verificar se abate comissão
+DEV-00345;NF-102454;;35.94;Avaria;Logística;confirmada ;devolução parcial
+DEV-00346;NF-107058;23/03/2026;R$ 152,58;Produto divergente;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00347;NF-102164;09/02/2026;9.74;Preço/negociação;Expedição;Confirmada;devolução parcial
+DEV-00348;NF-106794;2026-01-26;80.83;Erro de pedido;Comercial;Confirmada;verificar se abate comissão
+DEV-00349;NF-108375;10-07-26;25.58;Erro de pedido;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00350;NF-106436;18/02/2025;47,35;Avaria;Cliente;confirmada ;verificar se abate comissão
+DEV-00351;NF-107102;2026-02-24;2.66;Produto divergente;Expedição;Confirmada;devolução parcial
+DEV-00352;NF-104182;2026-02-13;38.27;erro pedido;Cliente;Confirmada;
+DEV-00353;NF-101640;09-06-25;456.73;Cliente desistiu;Cliente;confirmada ;devolução parcial
+DEV-00354;NF-111238;29-11-25;86.90;Preço/negociação;Não definido;Confirmada;aguardando NF de entrada
+DEV-00355;NF-109947;07/08/2026;1355.44;Quebra/Avaria;Logística;Confirmada;aguardando NF de entrada
+DEV-00356;NF-102228;01-05-26;12.98;Erro de pedido;Qualidade;Pendente;verificar se abate comissão
+DEV-00357;NF-107026;05/03/2026;568.16;Produto divergente;comercial;confirmada ;lançada no mês seguinte
+DEV-00358;NF-103147;2026-06-18;1.74;Preço/negociação;Não definido;Confirmada;lançada no mês seguinte
+DEV-00359;NF-109416;30/06/2025;105.61;qualidade ;Logística;Confirmada;
+DEV-00360;NF-102971;19/04/2025;190.25;Preço/negociação;Comercial;confirmada ;
+DEV-00361;NF-105732;05/05/2026;52.27;Qualidade;Comercial;Confirmada;lançada no mês seguinte
+DEV-00362;NF-104147;01/05/2025;442.33;Preço/negociação;Qualidade;confirmada ;aguardando NF de entrada
+DEV-00363;NF-105980;08/05/2026;34.90;Avaria;Comercial;confirmada ;verificar se abate comissão
+DEV-00364;NF-104012;06/04/25;146.90;Quebra/Avaria;comercial;confirmada ;lançada no mês seguinte
+DEV-00365;NF-101903;20/06/2026;22.87;Qualidade;Qualidade;confirmada ;aguardando NF de entrada
+DEV-00366;NF-111264;09/09/2026;98.61;qualidade ;Cliente;Confirmada;lançada no mês seguinte
+DEV-00367;NF-106894;21/01/2026;-977.06;Qualidade;Comercial;confirmada ;devolução parcial
+DEV-00368;NF-103863;05/04/2025;52.13;Preço/negociação;Logística;confirmada ;lançada no mês seguinte
+DEV-00369;NF-101263;27-07-25;99.95;Cliente desistiu;Cliente;Confirmada;aguardando NF de entrada
+DEV-00370;NF-106280;10/05/2025;50.51;Avaria;Não definido;confirmada ;verificar se abate comissão
+DEV-00371;NF-101989; 09/12/2025 ;0.22;erro pedido;Qualidade;Cancelada;aguardando NF de entrada
+DEV-00372;NF-101444;18/09/2025; 222.71 ;Qualidade;Qualidade;confirmada ;verificar se abate comissão
+DEV-00373;NF-100469;30-10-25;76,55;qualidade ;Expedição;Confirmada;verificar se abate comissão
+DEV-00374;NF-104739;15/09/2025;R$ 145,83;Quebra/Avaria;Expedição;confirmada ;
+DEV-00375;NF-104066;10/11/2025;13.54;Produto divergente;Cliente;Pendente;aguardando NF de entrada
+DEV-00376;NF-103865;24/01/26;R$ 87,24;Quebra/Avaria;Logística;Cancelada;verificar se abate comissão
+DEV-00377;NF-110906;28/06/2026;211.69;erro pedido;Não definido;Pendente;aguardando NF de entrada
+DEV-00378;NF-107634;23/03/2026;853.19;Quebra/Avaria;comercial;Confirmada;
+DEV-00379;NF-107700; 16/03/2026 ;105.90;Erro de pedido;Expedição;Pendente;
+DEV-00380;NF-110616;17-06-26;6,66;Cliente desistiu;Cliente;Confirmada;aguardando NF de entrada
+DEV-00381;NF-102179;; 384.57 ;Cliente desistiu;Cliente;Pendente;verificar se abate comissão
+DEV-00382;NF-108023;06-05-25;61.30;erro pedido;Cliente;Confirmada;devolução parcial
+DEV-00383;NF-104149; 22/07/2025 ;142.79;Qualidade;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00384;NF-111443;15/02/2026;301.12;Quebra/Avaria;comercial;Cancelada;
+DEV-00385;NF-103006;14/04/2026;84.10;Avaria;Qualidade;Confirmada;
+DEV-00386;NF-107685;2025-05-02;61.73;erro pedido;Comercial;Confirmada;verificar se abate comissão
+DEV-00387;NF-105293;14/02/2026;1114,36;Avaria;Cliente;Pendente;verificar se abate comissão
+DEV-00388;NF-108536;26/04/2026;446.89;Cliente desistiu;comercial;Confirmada;
+DEV-00389;NF-100181;07/11/2025;506.04;Quebra/Avaria;Comercial;confirmada ;lançada no mês seguinte
+DEV-00390;NF-107348;05/06/25;101.54;Produto divergente;Comercial;Confirmada;devolução parcial
+DEV-00391;NF-106658;2026-05-17;232.04;Avaria;Comercial;Confirmada;aguardando NF de entrada
+DEV-00392;NF-103902;10/06/2025; 9.60 ;qualidade ;Comercial;Confirmada;devolução parcial
+DEV-00393;NF-104185;15/10/2025; 6.99 ;Produto divergente;Não definido;Confirmada;aguardando NF de entrada
+DEV-00394;NF-102073;07/11/2025;29.02;Qualidade;Não definido;Cancelada;devolução parcial
+DEV-00395;NF-107530;11/07/25;43.30;erro pedido;Qualidade;Confirmada;verificar se abate comissão
+DEV-00396;NF-104985;24/05/2025;85.32;Erro de pedido;Logística;Pendente;aguardando NF de entrada
+DEV-00397;NF-103490;15/12/2025;88,41;Preço/negociação;Logística;Cancelada;
+DEV-00398;NF-105607;02/03/26;R$ 58,28;qualidade ;Cliente;Confirmada;
+DEV-00399;NF-100936;2026-09-11;7,48;Cliente desistiu;Qualidade;confirmada ;devolução parcial
+DEV-00400;NF-101578;09/01/26;1216.60;Quebra/Avaria;Não definido;Cancelada;devolução parcial
+DEV-00401;NF-106598;2025-04-01;43.17;Produto divergente;Não definido;Confirmada;lançada no mês seguinte
+DEV-00402;NF-105185;31/08/2025;131.79;Quebra/Avaria;Não definido;Cancelada;aguardando NF de entrada
+DEV-00403;NF-109988; 17/11/2025 ;107.61;Erro de pedido;Comercial;Confirmada;
+DEV-00404;NF-104655;29-07-26;57.55;qualidade ;Logística;Confirmada;verificar se abate comissão
+DEV-00405;NF-106288;09/02/2026;198.04;Quebra/Avaria;Expedição;Pendente;verificar se abate comissão
+DEV-00406;NF-105184;27/05/2026;58.69;Qualidade;Logística;Pendente;devolução parcial
+DEV-00407;NF-108146;27/02/2026;38.90;Produto divergente;Comercial;Confirmada;devolução parcial
+DEV-00408;NF-103535;25/04/2025;19.22;Cliente desistiu;Comercial;Confirmada;aguardando NF de entrada
+DEV-00409;NF-105086;17/04/25;R$ -986,27;qualidade ;Comercial;Confirmada;
+DEV-00410;NF-102848;03/01/2026;23.33;erro pedido;comercial;confirmada ;lançada no mês seguinte
+DEV-00411;NF-103389;02/03/2025;113.16;erro pedido;Expedição;Cancelada;lançada no mês seguinte
+DEV-00412;NF-110329;19/07/2025;896.19;Erro de pedido;Cliente;Cancelada;verificar se abate comissão
+DEV-00413;NF-102561;30-06-25;1335.34;Quebra/Avaria;Logística;Confirmada;aguardando NF de entrada
+DEV-00414;NF-105984;15/06/2026;1051,08;erro pedido;Cliente;Pendente;lançada no mês seguinte
+DEV-00415;NF-106427;08/04/2026;168.69;Qualidade;Comercial;Cancelada;
+DEV-00416;NF-104640;21/08/2025;580.29;Preço/negociação;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00417;NF-101313;27/04/2026;143.39;erro pedido;Cliente;confirmada ;
+DEV-00418;NF-102733;14/01/2026;15.48;Cliente desistiu;Não definido;Confirmada;verificar se abate comissão
+DEV-00419;NF-101653;13/05/2025;31.26;Qualidade;Qualidade;Confirmada;verificar se abate comissão
+DEV-00420;NF-109007;05/07/25;124.77;Erro de pedido;Logística;Pendente;
+DEV-00421;NF-108774;29/07/2026;2122.51;erro pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-00422;nf-104324;07/01/2026;181.74;Qualidade;comercial;Confirmada;verificar se abate comissão
+DEV-00423;NF-100197;2026-02-07;44.94;Preço/negociação;Não definido;Confirmada;devolução parcial
+DEV-00424;NF-107320;25/11/2025;14.92;Avaria;Qualidade;Confirmada;verificar se abate comissão
+DEV-00425;NF-103647;2025-09-05;110.47;Avaria;Logística;Confirmada;aguardando NF de entrada
+DEV-00426;NF-106913;2025-04-03;115.37;erro pedido;Não definido;Confirmada;aguardando NF de entrada
+DEV-00427;NF-107562;06/08/2025;146.01;Qualidade;comercial;confirmada ;aguardando NF de entrada
+DEV-00428;NF-104661;09-11-25;66.89;Quebra/Avaria;Comercial;Confirmada;verificar se abate comissão
+DEV-00429;NF-110617;2025-05-10;651.98;qualidade ;Expedição;Confirmada;devolução parcial
+DEV-00430;NF-103310;29/03/25;907.62;Quebra/Avaria;Logística;Cancelada;
+DEV-00431;NF-109098;14/08/2025;4.67;Quebra/Avaria;comercial;Confirmada;
+DEV-00432;NF-100361;29/03/25;R$ 79,43;Erro de pedido;Não definido;Confirmada;devolução parcial
+DEV-00433;NF-105904;11/02/2026;108,40;Cliente desistiu;Expedição;Pendente;lançada no mês seguinte
+DEV-00434;NF-111368;17/05/26;232.12;Qualidade;Logística;confirmada ;devolução parcial
+DEV-00435;NF-104727;03/03/2025;35.57;Qualidade;comercial;Confirmada;
+DEV-00436;NF-107525;11-04-25;450.95;Qualidade;comercial;Confirmada;aguardando NF de entrada
+DEV-00437;NF-105271;24/04/2025; 105.51 ;qualidade ;Cliente;confirmada ;devolução parcial
+DEV-00438;NF-110325;29/03/2026;1.95;Erro de pedido;Não definido;Confirmada;aguardando NF de entrada
+DEV-00439;NF-108921; 25/12/2025 ;96.27;Quebra/Avaria;Comercial;Cancelada;lançada no mês seguinte
+DEV-00440;NF-110954;30/10/2025;118.93;erro pedido;Não definido;Cancelada;aguardando NF de entrada
+DEV-00441;NF-101525;2026-04-14;914.03;Erro de pedido;Expedição;Confirmada;
+DEV-00442;NF-100179;06-01-26;2227.69;Quebra/Avaria;Comercial;Confirmada;verificar se abate comissão
+DEV-00443;NF-109017;08-08-25;428.51;Avaria;Qualidade;Confirmada;
+DEV-00444;NF-104180;08/04/2026;67.45;Cliente desistiu;Cliente;Confirmada;aguardando NF de entrada
+DEV-00445;NF-103091;28/05/2025;20.19;Erro de pedido;Logística;confirmada ;aguardando NF de entrada
+DEV-00446;NF-101469;25/04/26;90.68;Preço/negociação;Logística;Pendente;
+DEV-00447;NF-107286;2025-03-13;224.72;Produto divergente;Comercial;Confirmada;verificar se abate comissão
+DEV-00448;NF-105399;04/01/2026;147.91;Cliente desistiu;comercial;Confirmada;verificar se abate comissão
+DEV-00449;NF-101964; 28/08/2025 ;84.78;Erro de pedido;Não definido;Confirmada;
+DEV-00450;NF-105020;2025-09-03;33.94;Erro de pedido;Não definido;Confirmada;verificar se abate comissão
+DEV-00451;NF-101030;17/06/2025;8.39;Erro de pedido;Expedição;Cancelada;devolução parcial
+DEV-00452;NF-106486;13-04-26;5.51;Quebra/Avaria;Logística;Confirmada;aguardando NF de entrada
+DEV-00453;NF-110334;2025-10-19;96.93;Quebra/Avaria;Logística;Confirmada;lançada no mês seguinte
+DEV-00454;NF-109602;09-02-25;305.46;erro pedido;Cliente;Pendente;verificar se abate comissão
+DEV-00455;NF-110669;09/04/2026;288.52;Preço/negociação;Não definido;Confirmada;
+DEV-00456;NF-101096;sem data; 145.92 ;Erro de pedido;Comercial;Confirmada;aguardando NF de entrada
+DEV-00457;NF-108857;22/01/2026;24,05;Qualidade;Qualidade;Cancelada;aguardando NF de entrada
+DEV-00458;NF-106752;21/03/26;90.00;Qualidade;Logística;Confirmada;verificar se abate comissão
+DEV-00459;NF-111564;;26.02;Erro de pedido;comercial;Confirmada;
+DEV-00460;NF-109614;03/05/2026;1722.22;Quebra/Avaria;Cliente;Confirmada;devolução parcial
+DEV-00461;NF-109470;2025-08-21;54,20;Qualidade;comercial;Confirmada;
+DEV-00462;NF-106875;11/03/2026;450,90;qualidade ;Comercial;Confirmada;verificar se abate comissão
+DEV-00463;NF-100740;04/08/2025;137.70;Quebra/Avaria;Expedição;Confirmada;aguardando NF de entrada
+DEV-00464;NF-105507;10/05/2025;209.31;Preço/negociação;comercial;Cancelada;verificar se abate comissão
+DEV-00465;NF-111929;17/06/2026;20.06;erro pedido;Não definido;Confirmada;aguardando NF de entrada
+DEV-00466;NF-111176;24/10/25;24.15;Avaria;Cliente;Cancelada;lançada no mês seguinte
+DEV-00467;NF-106096;2026-03-15;73.40;Quebra/Avaria;Qualidade;Pendente;verificar se abate comissão
+DEV-00468;NF-105048;21/10/2025;216.55;erro pedido;Expedição;Confirmada;aguardando NF de entrada
+DEV-00469;NF-110245;07/03/2026;8.21;Avaria;Expedição;Pendente;aguardando NF de entrada
+DEV-00470;NF-110537;04/03/2025;192,64;Avaria;Não definido;Confirmada;lançada no mês seguinte
+DEV-00471;NF-110295;29/04/2025; 4.54 ;Qualidade;Cliente;confirmada ;verificar se abate comissão
+DEV-00472;NF-100127;19-06-25;503.94;Qualidade;comercial;Pendente;lançada no mês seguinte
+DEV-00473;NF-100790;14/10/2025;123.32;Qualidade;Cliente;confirmada ;verificar se abate comissão
+DEV-00474;NF-106335;22/11/25;268,77;qualidade ;Qualidade;Pendente;lançada no mês seguinte
+DEV-00475;NF-107516;26/10/2025;121.50;erro pedido;Logística;confirmada ;devolução parcial
+DEV-00476;NF-102492;2025-08-15;66.93;Produto divergente;Logística;Confirmada;aguardando NF de entrada
+DEV-00477;NF-108585;25/03/2026;36,67;Preço/negociação;Logística;Confirmada;verificar se abate comissão
+DEV-00478;NF-109830;21-08-26;156.00;erro pedido;comercial;Confirmada;lançada no mês seguinte
+DEV-00479;NF-104323;16/05/2026;101,34;Produto divergente;Expedição;Cancelada;lançada no mês seguinte
+DEV-00480;NF-101414;19/08/2026;96.39;Produto divergente;Logística;Confirmada;devolução parcial
+DEV-00481;NF-106956;; 69.79 ;qualidade ;Qualidade;Cancelada;devolução parcial
+DEV-00482;NF-109383;25-03-26;213.46;Quebra/Avaria;Logística;Confirmada;
+DEV-00483;NF-104494;21/04/2026;R$ 439,01;Qualidade;Cliente;Cancelada;
+DEV-00484;NF-109647;01-06-26;316.24;Avaria;Comercial;Pendente;
+DEV-00485;NF-105161;15/06/2026;1.35;Produto divergente;Comercial;Confirmada;aguardando NF de entrada
+DEV-00486;NF-102765;29/09/2025;87.44;Cliente desistiu;Cliente;Pendente;devolução parcial
+DEV-00487;NF-101714;16-08-26;112,26;Cliente desistiu;Cliente;Confirmada;devolução parcial
+DEV-00488;NF-110774;28-06-25;869.02;Qualidade;Qualidade;Cancelada;lançada no mês seguinte
+DEV-00489;NF-107846;13/09/2025;28.22;Cliente desistiu;Logística;Confirmada;aguardando NF de entrada
+DEV-00490;NF-100090;28/01/2026;-37.81;Cliente desistiu;Comercial;Cancelada;
+DEV-00491;NF-106409;03/03/2025;179.87;Qualidade;Comercial;Cancelada;
+DEV-00492;NF-111703;26/02/2025;48.77;Qualidade;Expedição;Cancelada;
+DEV-00493;NF-111876; 10/08/2026 ;264,79;Produto divergente;Não definido;Confirmada;devolução parcial
+DEV-00494;NF-110587;04/04/2025;-60.56;erro pedido;comercial;Confirmada;devolução parcial
+DEV-00495;NF-103991;27-09-25;113,33;qualidade ;comercial;Pendente;aguardando NF de entrada
+DEV-00496;;2026-04-07;60.39;Qualidade;Comercial;Pendente;
+DEV-00497;NF-110485;22/05/26;320.32;Erro de pedido;Cliente;Cancelada;
+DEV-00498;NF-102616;18/03/2026;4.83;qualidade ;Comercial;confirmada ;
+DEV-00499;NF-103712;16/10/2025;274.59;erro pedido;Qualidade;Cancelada;
+DEV-00500;NF-110029;16/10/25;R$ 133,81;Qualidade;Expedição;Pendente;lançada no mês seguinte
+DEV-00501;NF-102434;06-12-25;116.86;Qualidade;Não definido;Confirmada;aguardando NF de entrada
+DEV-00502;NF-111557;13/03/2026;797,11;Produto divergente;Expedição;confirmada ;lançada no mês seguinte
+DEV-00503;;31/10/2025;65.62;Preço/negociação;Comercial;Cancelada;aguardando NF de entrada
+DEV-00504;NF-109486;17/05/2025;2.88;Cliente desistiu;Cliente;Confirmada;
+DEV-00505;NF-105687;27/01/2025;71.11;Preço/negociação;Não definido;Pendente;devolução parcial
+DEV-00506;NF-106215;;313.32;Preço/negociação;Comercial;Pendente;verificar se abate comissão
+DEV-00507; NF-104914 ;15/11/2025;66.95;Produto divergente;Comercial;confirmada ;lançada no mês seguinte
+DEV-00508;NF-104186;2025-07-02;276.89;erro pedido;Qualidade;Pendente;verificar se abate comissão
+DEV-00509;NF-109200;25/07/2025;253.34;Qualidade;comercial;confirmada ;aguardando NF de entrada
+DEV-00510;NF-100133;06/09/2026;7.61;Erro de pedido;Logística;Cancelada;devolução parcial
+DEV-00511;NF-109796;30/04/2026;54.70;Quebra/Avaria;Comercial;Confirmada;lançada no mês seguinte
+DEV-00512;NF-111180;2025-03-10;R$ 607,04;Erro de pedido;Não definido;Pendente;aguardando NF de entrada
+DEV-00513;NF-106841;24/01/2026;320.82;Qualidade;Cliente;Cancelada;aguardando NF de entrada
+DEV-00514;NF-101704;22/08/2026;117.03;Quebra/Avaria;Logística;Confirmada;verificar se abate comissão
+DEV-00515;NF-108063;12/03/2026;152.66;Quebra/Avaria;Cliente;confirmada ;
+DEV-00516;NF-100066;11/09/2025;36.37;Qualidade;Expedição;Pendente;aguardando NF de entrada
+DEV-00517;NF-102065;12/06/2025;R$ 492,03;qualidade ;comercial;Confirmada;devolução parcial
+DEV-00518;NF-103141;2026-01-11; 25.73 ;Erro de pedido;Logística;Cancelada;
+DEV-00519;NF-100918; 25/03/2025 ;269.03;Erro de pedido;Logística;confirmada ;aguardando NF de entrada
+DEV-00520;NF-102617;23/06/2026;39.39;Produto divergente;Não definido;confirmada ;lançada no mês seguinte
+DEV-00521;NF-111501;;53.08;erro pedido;Cliente;Pendente;aguardando NF de entrada
+DEV-00522;NF-100298;09/06/26;65.21;Quebra/Avaria;comercial;Cancelada;verificar se abate comissão
+DEV-00523;NF-104478;26/06/2026;144.46;erro pedido;Comercial;confirmada ;lançada no mês seguinte
+DEV-00524;NF-100985;28/02/2026;101.92;Erro de pedido;comercial;Cancelada;
+DEV-00525;NF-109748;08/10/2025; 159.09 ;Preço/negociação;comercial;Pendente;devolução parcial
+DEV-00526;NF-100289;2025-10-11;33.83;Cliente desistiu;Qualidade;confirmada ;
+DEV-00527;NF-105811;2025-07-27; 1465.45 ;erro pedido;comercial;Confirmada;lançada no mês seguinte
+DEV-00528;NF-104061;02/05/2026;46.91;Erro de pedido;comercial;Confirmada;devolução parcial
+DEV-00529;NF-102855;19/08/2025;178.34;Produto divergente;comercial;Pendente;verificar se abate comissão
+DEV-00530;NF-105260;11/11/2025;154.06;Quebra/Avaria;Comercial;Confirmada;devolução parcial
+DEV-00531; NF-103664 ;06/12/25;0.46;Qualidade;Qualidade;confirmada ;devolução parcial
+DEV-00532;NF-107992;2025-10-04;1096,32;Produto divergente;Cliente;Confirmada;
+DEV-00533;NF-102693; 09/07/2026 ;120,79;erro pedido;Logística;Pendente;lançada no mês seguinte
+DEV-00534;NF-111386;29/11/2025;140.57;Quebra/Avaria;Expedição;confirmada ;devolução parcial
+DEV-00535;NF-106518;2026-08-10;242.12;Produto divergente;comercial;Confirmada;lançada no mês seguinte
+DEV-00536;NF-110432;2025-06-29;56.65;erro pedido;Comercial;Confirmada;verificar se abate comissão
+DEV-00537;NF-109517;01/04/2025;52.56;Cliente desistiu;Não definido;Confirmada;aguardando NF de entrada
+DEV-00538;NF-100100;27/05/2026;623.73;Erro de pedido;Cliente;Confirmada;lançada no mês seguinte
+DEV-00539;NF-102488;03/09/2025;74.83;Preço/negociação;Comercial;Confirmada;lançada no mês seguinte
+DEV-00540;NF-107041;22/01/2026;265.12;Qualidade;comercial;Cancelada;lançada no mês seguinte
+DEV-00541;;10/06/25;106.78;Qualidade;Cliente;Confirmada;devolução parcial
+DEV-00542;NF-104805;14/06/2025;R$ 24,11;qualidade ;Não definido;Pendente;aguardando NF de entrada
+DEV-00543;;21/02/2026;224.36;Preço/negociação;Qualidade;confirmada ;devolução parcial
+DEV-00544;NF-111722;2025-04-01;83.77;Avaria;Comercial;Confirmada;
+DEV-00545;NF-107994;07/11/2025;91.27;Erro de pedido;Qualidade;Confirmada;
+DEV-00546;NF-109158;02/06/2025;125.05;qualidade ;Comercial;Confirmada;aguardando NF de entrada
+DEV-00547;NF-104932;29/08/2025;3.03;Avaria;comercial;Confirmada;verificar se abate comissão
+DEV-00548;NF-106628;09/10/2025;86.32;qualidade ;Qualidade;confirmada ;verificar se abate comissão
+DEV-00549;NF-106234;2026-05-30; 517.75 ;Avaria;Cliente;Confirmada;verificar se abate comissão
+DEV-00550;NF-108780;08/04/2026;166.62;Cliente desistiu;Cliente;Confirmada;verificar se abate comissão
+DEV-00551;NF-103018;22/09/2025;39.60;erro pedido;Logística;Pendente;
+DEV-00552;NF-108484;18/06/2026;264.63;Preço/negociação;comercial;Confirmada;verificar se abate comissão
+DEV-00553;NF-106499;27/08/2025;17.94;Quebra/Avaria;Logística;confirmada ;lançada no mês seguinte
+DEV-00554;NF-104862;2026-01-20;98.30;Qualidade;Comercial;Pendente;devolução parcial
+DEV-00555;NF-106673;2026-03-06; 27.59 ;Avaria;comercial;Pendente;verificar se abate comissão
+DEV-00556;NF-100324;03/10/2025;12.84;Erro de pedido;Comercial;confirmada ;
+DEV-00557;NF-103672;03/03/2026;247.50;Cliente desistiu;Cliente;Pendente;
+DEV-00558;NF-101330;04/04/2025;25.25;Preço/negociação;Cliente;Confirmada;verificar se abate comissão
+DEV-00559;NF-100657;;17.46;Avaria;Qualidade;confirmada ;aguardando NF de entrada
+DEV-00560;NF-109589;28/10/2025;222.55;erro pedido;Comercial;Confirmada;verificar se abate comissão
+DEV-00561;NF-100364; 21/06/2025 ;160.11;Preço/negociação;Não definido;Confirmada;verificar se abate comissão
+DEV-00562;NF-104407;22/05/2025; 70.25 ;erro pedido;Cliente;Confirmada;devolução parcial
+DEV-00563;NF-102235;2026-01-17;131.02;Preço/negociação;Expedição;Cancelada;devolução parcial
+DEV-00564;NF-103237;2025-09-13;R$ 23,24;Produto divergente;Expedição;confirmada ;aguardando NF de entrada
+DEV-00565;NF-109324;04/04/2025;1323.87;Erro de pedido;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00566;NF-101416;08/08/2025;9.28;Preço/negociação;comercial;Confirmada;
+DEV-00567;NF-106784;16/05/2025;2.77;Qualidade;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00568;NF-105199;2025-08-26;192.50;qualidade ;Cliente;Confirmada;lançada no mês seguinte
+DEV-00569;NF-101274;02/02/26;0.78;qualidade ;Expedição;Confirmada;verificar se abate comissão
+DEV-00570;NF-106406;13/06/2026;R$ 145,32;Qualidade;comercial;confirmada ;lançada no mês seguinte
+DEV-00571;NF-101298;2026-04-21;3.40;Quebra/Avaria;Expedição;Confirmada;verificar se abate comissão
+DEV-00572;NF-101557;18-10-25;68,65;Preço/negociação;Qualidade;Cancelada;lançada no mês seguinte
+DEV-00573;NF-101777;18/06/2026;2.62;erro pedido;Qualidade;Pendente;devolução parcial
+DEV-00574;NF-105233;07-08-25;1.09;Cliente desistiu;comercial;Confirmada;
+DEV-00575;NF-110459;02-09-25;165.95;Avaria;Logística;Cancelada;lançada no mês seguinte
+DEV-00576;NF-109772;09/03/2025;29.81;Erro de pedido;Qualidade;confirmada ;lançada no mês seguinte
+DEV-00577;NF-107675;18/09/2025;27,96;Produto divergente;Qualidade;confirmada ;
+DEV-00578;NF-100254;2025-05-15;1.84;Produto divergente;comercial;Confirmada;verificar se abate comissão
+DEV-00579;NF-104390;27/06/26; 60.13 ;Produto divergente;Qualidade;Cancelada;
+DEV-00580;NF-107210;04/11/2025;178.97;Avaria;comercial;Confirmada;aguardando NF de entrada
+DEV-00581;NF-103308;2025-10-19;21.97;qualidade ;Comercial;Pendente;aguardando NF de entrada
+DEV-00582;NF-106781;2025-03-27;1.98;Cliente desistiu;Logística;Confirmada;devolução parcial
+DEV-00583;NF-105489;;30,08;erro pedido;Logística;Confirmada;verificar se abate comissão
+DEV-00584;NF-107330;13/05/2025;534,54;Qualidade;Comercial;Confirmada;verificar se abate comissão
+DEV-00585;NF-109138;03/12/2025; 46.33 ;Qualidade;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00586;NF-110836;02/02/2026;596.57;qualidade ;Não definido;confirmada ;lançada no mês seguinte
+DEV-00587;NF-109760;01/01/2026;R$ 129,00;Quebra/Avaria;Logística;Confirmada;verificar se abate comissão
+DEV-00588;NF-111439;2026-03-16;34.77;Preço/negociação;Cliente;Confirmada;aguardando NF de entrada
+DEV-00589;nf-101910;16/04/2026;19,39;Qualidade;Logística;Cancelada;aguardando NF de entrada
+DEV-00590;NF-103129;;123.86;Quebra/Avaria;comercial;Pendente;verificar se abate comissão
+DEV-00591;nf-104107;18/06/2025;36.04;Quebra/Avaria;Não definido;Confirmada;devolução parcial
+DEV-00592;NF-110248;30-11-25;74.00;Preço/negociação;Logística;confirmada ;devolução parcial
+DEV-00593;NF-110431;31/08/2026;41.97;Cliente desistiu;Não definido;confirmada ;lançada no mês seguinte
+DEV-00594;NF-109646;2026-04-25;0.81;qualidade ;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00595;NF-100871;2025-01-19;61.96;qualidade ;Logística;Confirmada;lançada no mês seguinte
+DEV-00596;NF-107101;26/05/26;39.59;Qualidade;Não definido;Confirmada;aguardando NF de entrada
+DEV-00597;NF-104975;23/05/2026;71,53;erro pedido;Cliente;Cancelada;verificar se abate comissão
+DEV-00598;NF-101861;08/06/2026;105.09;Avaria;Não definido;Pendente;aguardando NF de entrada
+DEV-00599;NF-107351;07/03/2026;309.71;Quebra/Avaria;Qualidade;confirmada ;verificar se abate comissão
+DEV-00600;NF-109298;2025-08-04;110.28;Erro de pedido;Qualidade;Pendente;devolução parcial
+DEV-00601;NF-104956; 07/02/2026 ;416,89;erro pedido;Não definido;Cancelada;aguardando NF de entrada
+DEV-00602;NF-107749;03/05/2025;40.78;Produto divergente;Cliente;Confirmada;aguardando NF de entrada
+DEV-00603;NF-102449;28/05/2025;1263.87;Quebra/Avaria;Expedição;Cancelada;aguardando NF de entrada
+DEV-00604;NF-101427;13/12/2025;497.06;erro pedido;Qualidade;Cancelada;devolução parcial
+DEV-00605;NF-102480;sem data;52.53;Avaria;Logística;Confirmada;devolução parcial
+DEV-00606;NF-101673;2025-11-13;77,35;Avaria;Comercial;Confirmada;devolução parcial
+DEV-00607;NF-102010; 24/02/2026 ;278.74;Quebra/Avaria;comercial;Confirmada;devolução parcial
+DEV-00608;NF-102838;28/04/2026;45.38;Quebra/Avaria;Logística;confirmada ;
+DEV-00609; NF-102489 ;2026-02-28;39.46;Avaria;comercial;Confirmada;
+DEV-00610; NF-103767 ;13/08/2025;1235.16;erro pedido;Comercial;Confirmada;lançada no mês seguinte
+DEV-00611;NF-106073;27/05/2026;90.53;Preço/negociação;Comercial;Confirmada;devolução parcial
+DEV-00612;NF-102363;02-11-25;108.00;qualidade ;Cliente;Confirmada;verificar se abate comissão
+DEV-00613;NF-104734;19-04-26;49,72;Cliente desistiu;Não definido;Confirmada;devolução parcial
+DEV-00614;NF-102962;29-11-25;46.73;qualidade ;comercial;Pendente;lançada no mês seguinte
+DEV-00615;NF-107963; 15/05/2025 ;229.46;Produto divergente;Não definido;Confirmada;devolução parcial
+DEV-00616;NF-102120;2025-11-18;152,28;Cliente desistiu;Logística;Confirmada;aguardando NF de entrada
+DEV-00617;NF-104878;24/11/2025;123.54;qualidade ;Qualidade;Pendente;devolução parcial
+DEV-00618;NF-107546;2026-06-10; 40.72 ;Produto divergente;comercial;Confirmada;aguardando NF de entrada
+DEV-00619;NF-103166;2026-01-31;2.92;Cliente desistiu;Logística;Confirmada;lançada no mês seguinte
+DEV-00620;NF-109339;04/12/2025;R$ 59,46;Avaria;Cliente;Confirmada;verificar se abate comissão
+DEV-00621;NF-101881;13/02/26;173.22;Preço/negociação;Expedição;confirmada ;devolução parcial
+DEV-00622;;07/02/2026;118.77;Cliente desistiu;Comercial;Confirmada;lançada no mês seguinte
+DEV-00623;NF-104293;16/09/2025;260.14;Qualidade;Logística;confirmada ;
+DEV-00624;NF-109989;2025-06-05;131.78;Produto divergente;Cliente;Cancelada;
+DEV-00625;NF-105302;30/01/2025;47.80;erro pedido;Comercial;Confirmada;aguardando NF de entrada
+DEV-00626;NF-109355;04/11/2025;79.14;Produto divergente;Expedição;Confirmada;lançada no mês seguinte
+DEV-00627;NF-107495;19/05/2025;2522.08;erro pedido;Qualidade;confirmada ;lançada no mês seguinte
+DEV-00628;NF-104657; 06/12/2025 ;R$ 19,63;Quebra/Avaria;Comercial;Confirmada;verificar se abate comissão
+DEV-00629;NF-111261;sem data;1.54;Produto divergente;Expedição;Cancelada;devolução parcial
+DEV-00630; NF-100892 ;26-09-25;68.42;Produto divergente;Logística;confirmada ;
+DEV-00631;NF-105841;23/05/2025;R$ 122,37;Cliente desistiu;Não definido;Confirmada;devolução parcial
+DEV-00632;NF-104875;21/03/2025;R$ 9,75;Produto divergente;Logística;Confirmada;devolução parcial
+DEV-00633;NF-108043;31/07/2026;42.96;erro pedido;Não definido;Confirmada;lançada no mês seguinte
+DEV-00634;NF-108092;2025-04-07;283.47;Preço/negociação;Cliente;Confirmada;
+DEV-00635;NF-109763;16/03/2025;R$ 45,83;Qualidade;Qualidade;confirmada ;verificar se abate comissão
+DEV-00636;NF-107473; 23/05/2025 ;3.12;erro pedido;Comercial;Confirmada;aguardando NF de entrada
+DEV-00637;NF-109964; 01/08/2025 ;34,34;Quebra/Avaria;Não definido;Pendente;aguardando NF de entrada
+DEV-00638;NF-108175;14/06/2026;50,80;Erro de pedido;comercial;confirmada ;devolução parcial
+DEV-00639;NF-100466;23/03/2025;591.23;Qualidade;Cliente;Confirmada;aguardando NF de entrada
+DEV-00640;NF-103247;14/11/2025;153.96;Erro de pedido;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00641;NF-108318;2025-10-22;370.58;Avaria;Cliente;confirmada ;devolução parcial
+DEV-00642;NF-102588; 05/03/2026 ;566.77;Quebra/Avaria;Logística;Pendente;aguardando NF de entrada
+DEV-00643;NF-101349;04/04/2026;R$ 27,11;erro pedido;Logística;Confirmada;devolução parcial
+DEV-00644;NF-105731;2025-12-28;306.38;Quebra/Avaria;Expedição;Cancelada;devolução parcial
+DEV-00645;NF-109939;2026-05-12;223.12;Qualidade;Não definido;confirmada ;aguardando NF de entrada
+DEV-00646;NF-104749;2025-10-31;239.30;erro pedido;Comercial;Cancelada;aguardando NF de entrada
+DEV-00647;NF-111865;12/01/2026;0.43;Erro de pedido;Expedição;Cancelada;devolução parcial
+DEV-00648;NF-103352;03/03/2026; 5.42 ;Avaria;Expedição;Confirmada;lançada no mês seguinte
+DEV-00649;NF-100826;03/06/2025;11.93;erro pedido;comercial;Cancelada;lançada no mês seguinte
+DEV-00650;NF-103453;26/02/26;58.56;qualidade ;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00651;NF-100334;05/11/2025;11.34;qualidade ;Não definido;Confirmada;lançada no mês seguinte
+DEV-00652;NF-110602;13/12/2025;156.29;erro pedido;Logística;Confirmada;aguardando NF de entrada
+DEV-00653;NF-107290;19/07/2025;31.30;Quebra/Avaria;Expedição;Confirmada;aguardando NF de entrada
+DEV-00654;NF-100014;2025-10-22;48.84;erro pedido;comercial;Confirmada;
+DEV-00655;NF-102627;25/07/2025;145.85;Cliente desistiu;Qualidade;Confirmada;verificar se abate comissão
+DEV-00656;NF-107690;18/09/2025; 41.91 ;Qualidade;Logística;Confirmada;lançada no mês seguinte
+DEV-00657;NF-102659;22/12/2025;45.54;Qualidade;Cliente;Confirmada;lançada no mês seguinte
+DEV-00658;NF-101678;11/04/2026;326.20;Qualidade;Qualidade;Confirmada;verificar se abate comissão
+DEV-00659;NF-108075;15/12/2025;12.62;Cliente desistiu;Não definido;Confirmada;verificar se abate comissão
+DEV-00660;NF-107673;19-07-25;R$ 3,84;qualidade ;Qualidade;Confirmada;verificar se abate comissão
+DEV-00661;NF-100167; 23/11/2025 ;44.86;Erro de pedido;Comercial;confirmada ;lançada no mês seguinte
+DEV-00662;NF-101701;2025-11-30;286.93;Avaria;Expedição;confirmada ;devolução parcial
+DEV-00663;NF-103173;26/02/2026;467,29;Qualidade;Logística;Confirmada;lançada no mês seguinte
+DEV-00664;NF-110198;13/09/2025; 18.33 ;Produto divergente;Logística;Confirmada;lançada no mês seguinte
+DEV-00665;NF-100073;13/04/26;142.73;Avaria;Cliente;confirmada ;aguardando NF de entrada
+DEV-00666;NF-111362;05/12/2025;38.10;Preço/negociação;Logística;Cancelada;devolução parcial
+DEV-00667;NF-108310;18/05/2025;97.38;Avaria;Expedição;Confirmada;
+DEV-00668;NF-109188;2026-02-15;50.32;Cliente desistiu;Logística;Confirmada;devolução parcial
+DEV-00669;NF-100063;24/02/26;158.88;Preço/negociação;comercial;Pendente;aguardando NF de entrada
+DEV-00670;NF-102495;26/07/2025;168.10;Produto divergente;comercial;Cancelada;aguardando NF de entrada
+DEV-00671;NF-108847;28/04/26;19.28;Cliente desistiu;Cliente;Cancelada;lançada no mês seguinte
+DEV-00672;NF-108810;20/02/2026;45.05;Preço/negociação;Cliente;confirmada ;lançada no mês seguinte
+DEV-00673;NF-105971;29-07-26;36.96;Cliente desistiu;Logística;confirmada ;devolução parcial
+DEV-00674;NF-102403;22/06/2025;239,06;Cliente desistiu;Expedição;Cancelada;devolução parcial
+DEV-00675;NF-103926; 10/03/2026 ;421,63;erro pedido;Cliente;Confirmada;aguardando NF de entrada
+DEV-00676;NF-110666;2026-01-04;552.98;Cliente desistiu;Logística;confirmada ;aguardando NF de entrada
+DEV-00677;NF-101023;19/02/2025;24.25;Erro de pedido;Logística;Confirmada;aguardando NF de entrada
+DEV-00678;NF-111066;02/06/2025; 1.23 ;Produto divergente;Não definido;Cancelada;
+DEV-00679;NF-109971;22-10-25;0.47;Quebra/Avaria;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00680;NF-101772;12/11/2025;133.52;Produto divergente;Não definido;Confirmada;devolução parcial
+DEV-00681;NF-101084;06/09/2025;39.12;Quebra/Avaria;Cliente;confirmada ;
+DEV-00682;NF-109851;29/05/2026;3176.75;Preço/negociação;Qualidade;Cancelada;aguardando NF de entrada
+DEV-00683;NF-102578;26/06/2026;43.53;qualidade ;comercial;Confirmada;aguardando NF de entrada
+DEV-00684;NF-106823;03/04/2026;40.09;Produto divergente;Expedição;Confirmada;aguardando NF de entrada
+DEV-00685;NF-106893;19/08/25;5.06;Erro de pedido;Não definido;confirmada ;devolução parcial
+DEV-00686;NF-108815;26/10/25;68.93;Preço/negociação;Comercial;Pendente;
+DEV-00687;nf-110731;02/09/2026;10,43;Erro de pedido;Comercial;confirmada ;lançada no mês seguinte
+DEV-00688;NF-106715;06/01/2026;30,90;qualidade ;comercial;Confirmada;lançada no mês seguinte
+DEV-00689;NF-110951;04/02/26;129.90;Preço/negociação;Comercial;confirmada ;
+DEV-00690;NF-109893;07-01-26;111.67;Preço/negociação;Logística;Cancelada;aguardando NF de entrada
+DEV-00691;NF-110829;2025-04-29;22.83;Preço/negociação;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00692;NF-105648;2026-05-13;36.08;Quebra/Avaria;Expedição;Pendente;verificar se abate comissão
+DEV-00693;nf-105090;09/06/2026;R$ 201,38;Produto divergente;Cliente;Confirmada;lançada no mês seguinte
+DEV-00694;NF-111377;24/08/2026;850.96;Cliente desistiu;Não definido;Confirmada;verificar se abate comissão
+DEV-00695;NF-102747;02-08-25;325.47;erro pedido;Cliente;Confirmada;devolução parcial
+DEV-00696;NF-105686;00/01/2026;194.08;Preço/negociação;Logística;Pendente;aguardando NF de entrada
+DEV-00697;NF-106654;14/09/2025;41.58;Preço/negociação;comercial;Confirmada;devolução parcial
+DEV-00698; NF-106539 ; 27/11/2025 ;79.77;Qualidade;comercial;Confirmada;lançada no mês seguinte
+DEV-00699;NF-101072;24/05/2026;222.25;Avaria;Expedição;confirmada ;devolução parcial
+DEV-00700;NF-109387;06/05/2025;17.47;Avaria;Comercial;confirmada ;lançada no mês seguinte
+DEV-00701;NF-100955;08/12/25;5.14;Erro de pedido;comercial;Cancelada;
+DEV-00702;nf-104962;18-03-26;82,43;Erro de pedido;Comercial;Confirmada;devolução parcial
+DEV-00703;NF-105506;04-06-26;583.65;Avaria;Logística;confirmada ;verificar se abate comissão
+DEV-00704;NF-100692;09/09/2026;617.03;Produto divergente;Cliente;Confirmada;aguardando NF de entrada
+DEV-00705;NF-107496;21-07-25;R$ 195,30;Avaria;Comercial;confirmada ;
+DEV-00706;NF-111556;22/05/26;93.00;Erro de pedido;Expedição;Confirmada;aguardando NF de entrada
+DEV-00707;NF-101014;18/02/2026;15.11;Quebra/Avaria;Qualidade;Confirmada;devolução parcial
+DEV-00708;NF-101581;19/05/25;223,90;Produto divergente;Comercial;Confirmada;
+DEV-00709;NF-104569;09/01/2026;R$ 90,23;Erro de pedido;Logística;Pendente;verificar se abate comissão
+DEV-00710;NF-101927;;996,34;Erro de pedido;comercial;confirmada ;lançada no mês seguinte
+DEV-00711;NF-107775;03/03/2026;100.33;Cliente desistiu;Cliente;Confirmada;verificar se abate comissão
+DEV-00712;NF-109490;29-09-25;5.61;Cliente desistiu;Logística;Pendente;aguardando NF de entrada
+DEV-00713;NF-110533;09/06/2026;428.64;Erro de pedido;Comercial;Confirmada;devolução parcial
+DEV-00714;NF-102115;12/10/2025;783.77;Qualidade;Não definido;Confirmada;devolução parcial
+DEV-00715;NF-105972;15/07/2025;R$ 71,50;Produto divergente;Expedição;Confirmada;lançada no mês seguinte
+DEV-00716;NF-111833;11/12/25;R$ 196,16;erro pedido;Qualidade;Cancelada;
+DEV-00717;NF-105154;23/05/2025;52.02;Avaria;Comercial;Cancelada;devolução parcial
+DEV-00718;NF-103839;05/06/2025; 35.47 ;Erro de pedido;Logística;Confirmada;verificar se abate comissão
+DEV-00719;NF-107652;17/08/2025;283.38;Erro de pedido;Expedição;confirmada ;lançada no mês seguinte
+DEV-00720;nf-106273;13/06/25;60.72;erro pedido;comercial;Pendente;aguardando NF de entrada
+DEV-00721;NF-106493;25/11/2025;341.53;Erro de pedido;Não definido;Pendente;verificar se abate comissão
+DEV-00722;NF-103438;30-12-25;17,03;Quebra/Avaria;comercial;Pendente;devolução parcial
+DEV-00723;NF-111302;11/03/2025;44.13;erro pedido;Expedição;Pendente;aguardando NF de entrada
+DEV-00724;NF-111311;2025-03-16;87.50;erro pedido;Comercial;Pendente;aguardando NF de entrada
+DEV-00725;NF-104171;16/05/2025;88.50;Qualidade;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00726;NF-111519;16/07/2025;40.96;qualidade ;Logística;Cancelada;aguardando NF de entrada
+DEV-00727;NF-104745;30/04/2026;938.50;Preço/negociação;Cliente;Pendente;verificar se abate comissão
+DEV-00728;NF-102650;30-01-26;102.76;erro pedido;Cliente;Pendente;
+DEV-00729;NF-107121;2025-04-20;0.10;Cliente desistiu;Logística;Confirmada;verificar se abate comissão
+DEV-00730;NF-111172;07/07/2025;63.87;Cliente desistiu;Cliente;Pendente;verificar se abate comissão
+DEV-00731;NF-107480;20/07/2025;136.66;Qualidade;Logística;Pendente;devolução parcial
+DEV-00732;NF-105969; 11/09/2025 ;13.17;Avaria;Não definido;Confirmada;
+DEV-00733;NF-110331;31/05/25;410.56;Preço/negociação;Cliente;Confirmada;devolução parcial
+DEV-00734;NF-109809;;267.23;Produto divergente;Expedição;confirmada ;lançada no mês seguinte
+DEV-00735;NF-109227;23/10/2025;221.99;Preço/negociação;Cliente;Pendente;lançada no mês seguinte
+DEV-00736;NF-110886;18/02/2026;51.27;Qualidade;Logística;Confirmada;devolução parcial
+DEV-00737;NF-103301;2025-11-27;R$ 509,53;Avaria;Qualidade;confirmada ;
+DEV-00738;NF-101671;05/07/2026;26,50;Erro de pedido;Logística;Confirmada;aguardando NF de entrada
+DEV-00739;NF-110032;14/08/2025;28.38;Avaria;Logística;Confirmada;lançada no mês seguinte
+DEV-00740;NF-111351;13/03/2026;39.95;Qualidade;Logística;Confirmada;lançada no mês seguinte
+DEV-00741;NF-110333;01/12/2025;52.42;qualidade ;Comercial;Cancelada;aguardando NF de entrada
+DEV-00742;NF-100315; 25/10/2025 ;133.74;Cliente desistiu;Não definido;Cancelada;aguardando NF de entrada
+DEV-00743;NF-108640;09-05-26;108,43;Cliente desistiu;comercial;Pendente;lançada no mês seguinte
+DEV-00744;NF-110366;26/05/2025;39,59;Produto divergente;Qualidade;Pendente;
+DEV-00745;NF-102768;08/05/2025;21.85;Produto divergente;Cliente;Confirmada;devolução parcial
+DEV-00746;NF-110253;28/06/2026;53,21;Preço/negociação;Expedição;Pendente;lançada no mês seguinte
+DEV-00747;NF-100837;26/06/2025;35.22;Qualidade;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00748;NF-103478;11/08/25;296.82;qualidade ;Qualidade;Pendente;
+DEV-00749;NF-102953;27/01/2026;23.60;Avaria;Não definido;Pendente;lançada no mês seguinte
+DEV-00750;NF-102100;16/07/2025;127.87;qualidade ;Cliente;confirmada ;devolução parcial
+DEV-00751;NF-100367;25/12/2025;580.91;Erro de pedido;Qualidade;Confirmada;devolução parcial
+DEV-00752;NF-111785;18/02/2026;131.58;Cliente desistiu;Não definido;Confirmada;devolução parcial
+DEV-00753;NF-111714;14/04/2025;357.44;Quebra/Avaria;comercial;Confirmada;
+DEV-00754;NF-100015;31/07/2025;1826,68;Qualidade;Qualidade;confirmada ;verificar se abate comissão
+DEV-00755;NF-105842;2025-11-05;555.49;Quebra/Avaria;Não definido;Confirmada;devolução parcial
+DEV-00756;NF-104563; 13/07/2026 ;167.44;Cliente desistiu;comercial;Cancelada;verificar se abate comissão
+DEV-00757;NF-111605;02/06/2025;R$ 358,33;erro pedido;Comercial;Confirmada;aguardando NF de entrada
+DEV-00758;NF-101747;13/08/2026;757.29;Produto divergente;Logística;Pendente;
+DEV-00759;NF-105367;;4.07;Qualidade;Qualidade;Confirmada;
+DEV-00760;NF-111895;30/07/2026;20.16;Produto divergente;Comercial;confirmada ;aguardando NF de entrada
+DEV-00761;NF-105470;04/02/2026;38.41;Qualidade;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00762;NF-101971;;81,98;Quebra/Avaria;comercial;confirmada ;
+DEV-00763;NF-103633;23/08/2026;142.95;Produto divergente;comercial;Confirmada;
+DEV-00764;NF-106258;;R$ 54,55;Avaria;Não definido;confirmada ;
+DEV-00765;NF-107492;12/03/2025;45.25;Avaria;Não definido;Confirmada;aguardando NF de entrada
+DEV-00766;NF-105925;26/08/2025;113.63;Qualidade;Qualidade;Pendente;aguardando NF de entrada
+DEV-00767;NF-103344;16-03-25;174.56;Produto divergente;comercial;Confirmada;aguardando NF de entrada
+DEV-00768;NF-104509; 06/09/2026 ;1,087.90;Avaria;Qualidade;confirmada ;devolução parcial
+DEV-00769;NF-105833;24-12-25;428,97;Quebra/Avaria;Cliente;Confirmada;aguardando NF de entrada
+DEV-00770;NF-110744;2025-06-18;107.02;Cliente desistiu;comercial;Confirmada;aguardando NF de entrada
+DEV-00771;NF-103536;25-02-25;R$ 396,49;Quebra/Avaria;comercial;Pendente;aguardando NF de entrada
+DEV-00772;NF-103617;03/07/2025;312.93;Produto divergente;Expedição;Confirmada;verificar se abate comissão
+DEV-00773;NF-106313;25/05/2025;219.74;Qualidade;Cliente;Confirmada;lançada no mês seguinte
+DEV-00774;NF-103383;2025-06-02;250.44;Cliente desistiu;Cliente;Pendente;devolução parcial
+DEV-00775;NF-107803;08/09/2025;R$ 171,23;Cliente desistiu;Cliente;Cancelada;
+DEV-00776;nf-106316;28/01/2025;59.78;Qualidade;Logística;Confirmada;verificar se abate comissão
+DEV-00777;NF-106334;23/02/2026;1.49;Preço/negociação;Expedição;Confirmada;aguardando NF de entrada
+DEV-00778;NF-101195;08/06/2025;127.09;erro pedido;comercial;Confirmada;verificar se abate comissão
+DEV-00779;NF-106653;;95.13;Qualidade;Não definido;Confirmada;devolução parcial
+DEV-00780;NF-109577;07/03/26;746.14;Preço/negociação;Expedição;Pendente;aguardando NF de entrada
+DEV-00781;NF-106346;26-04-25;259.19;erro pedido;Comercial;Pendente;devolução parcial
+DEV-00782;NF-110826;2026-04-04;80.74;erro pedido;Qualidade;Confirmada;verificar se abate comissão
+DEV-00783;NF-102205; 22/01/2026 ;312.87;Produto divergente;comercial;Confirmada;verificar se abate comissão
+DEV-00784;NF-109020;2026-06-25;49.44;erro pedido;Comercial;confirmada ;lançada no mês seguinte
+DEV-00785;NF-102209;05/02/2026;1054.11;Preço/negociação;Expedição;Cancelada;
+DEV-00786;NF-103989;09-04-26;204.97;qualidade ;Comercial;Confirmada;verificar se abate comissão
+DEV-00787;NF-109817;14/09/2025;1776.24;Preço/negociação;Expedição;Confirmada;verificar se abate comissão
+DEV-00788;NF-104309;19/06/2025;51.91;qualidade ;Não definido;Confirmada;
+DEV-00789; NF-110381 ;28/04/2025;67.03;Cliente desistiu;Qualidade;Pendente;lançada no mês seguinte
+DEV-00790;NF-110049;2025-05-20;13.27;Erro de pedido;Logística;Pendente;aguardando NF de entrada
+DEV-00791;NF-102033;30/05/2025;402.34;Avaria;Qualidade;confirmada ;devolução parcial
+DEV-00792;NF-105679;2025-07-24;56.26;Produto divergente;Expedição;Confirmada;lançada no mês seguinte
+DEV-00793;NF-100754;30/01/2026;31.80;Quebra/Avaria;Qualidade;Cancelada;verificar se abate comissão
+DEV-00794;NF-108359;15-04-26;63.97;qualidade ;Não definido;Confirmada;aguardando NF de entrada
+DEV-00795;NF-102669;09-08-25;458,76;Erro de pedido;Logística;Cancelada;lançada no mês seguinte
+DEV-00796;NF-105618;05/08/2025;59.17;Produto divergente;Comercial;Confirmada;
+DEV-00797;NF-108845;13/04/2026;2.81;Cliente desistiu;Logística;Confirmada;verificar se abate comissão
+DEV-00798;NF-110969;30/06/26;R$ 10,43;qualidade ;Logística;Confirmada;verificar se abate comissão
+DEV-00799;nf-108325;23/06/2025;32,59;erro pedido;Logística;Cancelada;devolução parcial
+DEV-00800;NF-104902;04/09/2025;60.20;Qualidade;comercial;Cancelada;aguardando NF de entrada
+DEV-00801; NF-106077 ;19/02/25;2.58;Preço/negociação;Cliente;Confirmada;
+DEV-00802;NF-105724;09-01-25;16.46;Produto divergente;Cliente;Confirmada;
+DEV-00803;NF-102970;14/08/2025;248,25;Produto divergente;Não definido;confirmada ;
+DEV-00804;NF-102597;24/03/2025;R$ 988,48;Quebra/Avaria;Logística;confirmada ;aguardando NF de entrada
+DEV-00805;NF-105563; 25/08/2025 ;769.69;Preço/negociação;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00806;NF-106070;26/06/2026;5.74;Quebra/Avaria;Comercial;Confirmada;
+DEV-00807;NF-106388;04/05/2025;46.90;Erro de pedido;Cliente;Confirmada;devolução parcial
+DEV-00808;NF-106045;30-03-26;739.90;Produto divergente;Não definido;Confirmada;lançada no mês seguinte
+DEV-00809;NF-105915;09/05/2025;126.36;Erro de pedido;Expedição;Cancelada;
+DEV-00810;NF-107064;2025-09-03;6.76;qualidade ;Comercial;Pendente;
+DEV-00811;NF-108614;2025-13-10;2,330.35;Preço/negociação;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00812;NF-102699;2025-02-27; 911.83 ;Erro de pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-00813;NF-101863;2026-04-18;76.63;Qualidade;comercial;Pendente;aguardando NF de entrada
+DEV-00814;NF-101639;31/03/25;453.55;Cliente desistiu;Não definido;Confirmada;aguardando NF de entrada
+DEV-00815;NF-102892;18/10/2025;43,61;Quebra/Avaria;Expedição;Confirmada;verificar se abate comissão
+DEV-00816;nf-102827;04/12/2025;6.52;Qualidade;Logística;Confirmada;
+DEV-00817;NF-111969;18/02/2026;354.96;Preço/negociação;Comercial;Confirmada;devolução parcial
+DEV-00818;NF-100041;10-10-25;23.75;qualidade ;Comercial;Confirmada;
+DEV-00819;NF-102329;06/05/2025;15.21;qualidade ;Não definido;Confirmada;verificar se abate comissão
+DEV-00820;NF-102982;13/02/26;0.77;Avaria;Expedição;Confirmada;lançada no mês seguinte
+DEV-00821;NF-100355; 26/12/2025 ;203.25;Preço/negociação;Expedição;Pendente;aguardando NF de entrada
+DEV-00822;NF-106193;2025-08-13;10.95;Qualidade;comercial;Confirmada;verificar se abate comissão
+DEV-00823;NF-104732;2026-04-09;52.36;Produto divergente;Logística;confirmada ;
+DEV-00824;NF-108438;19/04/2025;71.67;Quebra/Avaria;Logística;Cancelada;aguardando NF de entrada
+DEV-00825;NF-100431;14-05-25;11.74;Qualidade;Comercial;Confirmada;aguardando NF de entrada
+DEV-00826;;23/03/2026; 103.10 ;Qualidade;comercial;Confirmada;
+DEV-00827;NF-109518;16/03/2026;138.37;erro pedido;Não definido;Confirmada;
+DEV-00828;NF-102829;15/05/2026;361.30;qualidade ;Cliente;Confirmada;verificar se abate comissão
+DEV-00829;NF-103216;05/08/2025;57.29;Qualidade;Não definido;Cancelada;
+DEV-00830;NF-102662; 04/12/2025 ; 38.24 ;qualidade ;comercial;Confirmada;aguardando NF de entrada
+DEV-00831;NF-111090;24/04/2026;1804,87;erro pedido;Qualidade;Cancelada;devolução parcial
+DEV-00832;NF-108168;02/05/2025;74.49;erro pedido;Comercial;Pendente;aguardando NF de entrada
+DEV-00833;nf-109512;28-10-25;119.53;qualidade ;comercial;Confirmada;aguardando NF de entrada
+DEV-00834;NF-100650;12/04/2025;21.98;Quebra/Avaria;Cliente;Cancelada;lançada no mês seguinte
+DEV-00835;NF-101818;17/11/2025;2614.08;Qualidade;Qualidade;Confirmada;verificar se abate comissão
+DEV-00836;NF-103302;07/05/2026;112.73;qualidade ;Comercial;Confirmada;aguardando NF de entrada
+DEV-00837;NF-109691;14/05/2025;77,73;Cliente desistiu;Comercial;confirmada ;devolução parcial
+DEV-00838;NF-103600; 30/12/2025 ;167.19;erro pedido;Logística;Confirmada;verificar se abate comissão
+DEV-00839;NF-110806;16/03/2025;R$ 35,97;Erro de pedido;Logística;confirmada ;
+DEV-00840;NF-101691;12/09/25;193.23;Qualidade;Não definido;Confirmada;devolução parcial
+DEV-00841;NF-111403;20/09/2025;115,78;Cliente desistiu;Logística;Confirmada;aguardando NF de entrada
+DEV-00842;NF-101212;08/08/2025;506.11;Produto divergente;Não definido;confirmada ;
+DEV-00843; NF-104669 ;2025-11-30;315,37;Erro de pedido;Logística;Confirmada;devolução parcial
+DEV-00844;NF-109183; 29/05/2025 ;67.92;Quebra/Avaria;Qualidade;Confirmada;verificar se abate comissão
+DEV-00845;NF-108255;30/10/25;56.54;Qualidade;Qualidade;Confirmada;
+DEV-00846;NF-106358;04/07/2025;392.41;Qualidade;Expedição;confirmada ;aguardando NF de entrada
+DEV-00847;NF-107837;12/04/25;59.89;Avaria;Não definido;Confirmada;devolução parcial
+DEV-00848;NF-110398;2025-08-15;18.83;Produto divergente;comercial;confirmada ;
+DEV-00849;NF-105011;18/09/2025;243.34;Preço/negociação;Comercial;Confirmada;verificar se abate comissão
+DEV-00850;NF-105522;21/08/2026;53.21;Quebra/Avaria;Não definido;Cancelada;lançada no mês seguinte
+DEV-00851;NF-106359;17/11/2025;268.98;Cliente desistiu;Não definido;Cancelada;aguardando NF de entrada
+DEV-00852;NF-106962;26/05/2025;85.78;qualidade ;Comercial;Confirmada;verificar se abate comissão
+DEV-00853;NF-108398;20/05/2025;123.63;qualidade ;Não definido;Confirmada;aguardando NF de entrada
+DEV-00854;NF-108380;23/05/2026;159.11;qualidade ;Qualidade;confirmada ;verificar se abate comissão
+DEV-00855;NF-106410;13/05/26;272,42;erro pedido;Expedição;Cancelada;lançada no mês seguinte
+DEV-00856;NF-107655;17-02-25;130.34;Qualidade;Comercial;Cancelada;
+DEV-00857;NF-100171;24/08/2025;176.80;qualidade ;Comercial;Confirmada;lançada no mês seguinte
+DEV-00858;NF-111615;06-04-25;34.87;Cliente desistiu;Comercial;Cancelada;verificar se abate comissão
+DEV-00859;NF-100746;23/02/2026;53.27;Qualidade;Comercial;Confirmada;
+DEV-00860;NF-105886;18/07/2026;1.35;qualidade ;Qualidade;Pendente;devolução parcial
+DEV-00861;NF-110904;15/11/2025;154.64;erro pedido;Expedição;Confirmada;devolução parcial
+DEV-00862;NF-108924;05/03/2025;R$ 115,30;Quebra/Avaria;Expedição;Confirmada;lançada no mês seguinte
+DEV-00863;NF-103544; 09/03/2025 ;66.57;Avaria;Comercial;Confirmada;
+DEV-00864;NF-108399;07/06/2025;21.74;Avaria;Comercial;Cancelada;aguardando NF de entrada
+DEV-00865;NF-109492; 26/05/2025 ;185.27;qualidade ;Expedição;Pendente;aguardando NF de entrada
+DEV-00866;NF-106088;;24.95;qualidade ;Expedição;Confirmada;
+DEV-00867;NF-105092;11/03/2026;2177.28;Erro de pedido;comercial;confirmada ;verificar se abate comissão
+DEV-00868;NF-103285;19/05/2025; 143.75 ;Produto divergente;Não definido;Pendente;verificar se abate comissão
+DEV-00869;NF-103294;03/05/2025;311.95;Erro de pedido;Expedição;Confirmada;lançada no mês seguinte
+DEV-00870;NF-106050;30/06/2026;218.87;Quebra/Avaria;Comercial;Confirmada;
+DEV-00871;NF-103501; 05/07/2025 ;514.44;Erro de pedido;Logística;Confirmada;aguardando NF de entrada
+DEV-00872;NF-100947;05/12/2025;97.46;Cliente desistiu;comercial;Confirmada;devolução parcial
+DEV-00873;NF-109713;;0.92;Erro de pedido;Não definido;Cancelada;aguardando NF de entrada
+DEV-00874;NF-103798;28/01/2026;156.47;Avaria;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00875;NF-104334;21/05/25;190.50;Erro de pedido;comercial;confirmada ;
+DEV-00876;NF-102078;18/07/25;62.54;Avaria;Logística;Cancelada;verificar se abate comissão
+DEV-00877;NF-108057;24/01/2025;181.99;Qualidade;Logística;Confirmada;devolução parcial
+DEV-00878;NF-103270;05/06/26;R$ 246,14;Erro de pedido;Logística;Pendente;verificar se abate comissão
+DEV-00879;NF-105542; 24/04/2025 ;-134.20;Quebra/Avaria;Expedição;confirmada ;devolução parcial
+DEV-00880;NF-107304;23/07/2025;33.58;Qualidade;Expedição;Confirmada;
+DEV-00881;NF-109130; 04/01/2026 ;35.21;Qualidade;Qualidade;confirmada ;
+DEV-00882;NF-107752;11/11/2025;319.76;Cliente desistiu;Não definido;Confirmada;devolução parcial
+DEV-00883;NF-110100;2025-10-13;188.14;Qualidade;Expedição;Confirmada;
+DEV-00884;NF-103115;22/08/2025;40.39;Qualidade;Não definido;Confirmada;lançada no mês seguinte
+DEV-00885;NF-102872;17/04/2025;54.81;qualidade ;Logística;confirmada ;devolução parcial
+DEV-00886;NF-110716;27/07/25;86.19;erro pedido;Qualidade;Confirmada;devolução parcial
+DEV-00887;NF-102496;2025-05-29;226.58;erro pedido;Comercial;Confirmada;lançada no mês seguinte
+DEV-00888;NF-102434;09/04/25;1203.38;Preço/negociação;Logística;Cancelada;aguardando NF de entrada
+DEV-00889;NF-111240;01/06/2025;259.75;Erro de pedido;Cliente;Confirmada;
+DEV-00890;nf-100328;2026-03-08;11.46;Avaria;Logística;Confirmada;verificar se abate comissão
+DEV-00891;NF-104201;07-12-25;R$ 0,10;Avaria;Cliente;Confirmada;aguardando NF de entrada
+DEV-00892;NF-106631;20/05/25;R$ 35,41;Avaria;Não definido;Confirmada;devolução parcial
+DEV-00893;NF-101300;07-02-25;1844.80;Quebra/Avaria;Não definido;confirmada ;lançada no mês seguinte
+DEV-00894;NF-104052;2026-05-30;141.99;Cliente desistiu;Qualidade;Cancelada;lançada no mês seguinte
+DEV-00895;NF-110109;2025-10-07;530.04;Quebra/Avaria;comercial;confirmada ;aguardando NF de entrada
+DEV-00896;NF-100747; 10/11/2025 ; 296.25 ;erro pedido;Cliente;Pendente;verificar se abate comissão
+DEV-00897;NF-108970;28/07/2026; 82.83 ;erro pedido;comercial;Confirmada;devolução parcial
+DEV-00898;NF-101886;;335.46;Quebra/Avaria;Comercial;Pendente;lançada no mês seguinte
+DEV-00899;NF-102520;;1,123.90;Produto divergente;Não definido;Cancelada;verificar se abate comissão
+DEV-00900;NF-105191;2025-05-21;1126.67;erro pedido;Expedição;Confirmada;verificar se abate comissão
+DEV-00901;NF-104062;20-06-26;206.76;Preço/negociação;Expedição;Confirmada;verificar se abate comissão
+DEV-00902;NF-102192;2025-12-20;34.34;Cliente desistiu;Expedição;Confirmada;
+DEV-00903;NF-101220;14/07/2025;R$ 276,09;Quebra/Avaria;Expedição;Confirmada;
+DEV-00904;NF-106545;2025-11-27;2.04;Erro de pedido;Cliente;Confirmada;
+DEV-00905;NF-106473;02/02/2026;0.50;Erro de pedido;comercial;Confirmada;devolução parcial
+DEV-00906;NF-104866; 07/03/2025 ;383.13;Preço/negociação;Expedição;Confirmada;verificar se abate comissão
+DEV-00907;NF-102896;02/05/2025; 2.54 ;erro pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-00908;NF-109371;02/05/2025;197.56;Quebra/Avaria;Cliente;Confirmada;lançada no mês seguinte
+DEV-00909;NF-104466; 13/04/2025 ;217.15;Produto divergente;Logística;Confirmada;devolução parcial
+DEV-00910;NF-102238;03/08/2025;175.89;Erro de pedido;Qualidade;Confirmada;verificar se abate comissão
+DEV-00911;NF-101505;12/06/2025;0.94;Avaria;Logística;Confirmada;verificar se abate comissão
+DEV-00912;NF-101431;10/05/2026;4.70;erro pedido;Comercial;Confirmada;
+DEV-00913;NF-106944;21/06/25;148.69;Qualidade;Qualidade;Pendente;
+DEV-00914;NF-108723;10/09/2026;165.91;erro pedido;Comercial;Confirmada;verificar se abate comissão
+DEV-00915;NF-111704;31/03/25;47.75;Avaria;Cliente;Confirmada;
+DEV-00916;NF-106689;14/10/2025;190.64;Qualidade;Cliente;Pendente;
+DEV-00917;NF-105150;31/08/2026;42,14;Erro de pedido;Comercial;confirmada ;aguardando NF de entrada
+DEV-00918;NF-104273;08/08/2025;-49.14;Produto divergente;comercial;Confirmada;aguardando NF de entrada
+DEV-00919;NF-110798;11/07/2026;9.08;Qualidade;comercial;Pendente;devolução parcial
+DEV-00920;NF-108836;24/06/25;84.88;Produto divergente;comercial;Pendente;devolução parcial
+DEV-00921;NF-109891;02/07/2025;R$ 179,61;Avaria;Expedição;confirmada ;aguardando NF de entrada
+DEV-00922;NF-100551;14/08/2025;255.20;Qualidade;Comercial;Pendente;lançada no mês seguinte
+DEV-00923;NF-105602;12/05/26;111.62;qualidade ;comercial;confirmada ;devolução parcial
+DEV-00924;NF-109392;09-06-25;8,01;Erro de pedido;comercial;confirmada ;lançada no mês seguinte
+DEV-00925;NF-109326;26/05/26; 52.55 ;Avaria;Comercial;Cancelada;aguardando NF de entrada
+DEV-00926;NF-103232;;28.95;Qualidade;Logística;Confirmada;verificar se abate comissão
+DEV-00927;NF-104359;21/07/2025; 296.92 ;qualidade ;Expedição;Confirmada;lançada no mês seguinte
+DEV-00928;NF-107604; 24/02/2025 ;131.08;erro pedido;comercial;Confirmada;aguardando NF de entrada
+DEV-00929;NF-103256;06/04/2025;336.80;Cliente desistiu;Comercial;confirmada ;devolução parcial
+DEV-00930;NF-103364;12/06/2026;4.75;Avaria;Qualidade;Cancelada;devolução parcial
+DEV-00931;NF-111745;12/03/2025;35.11;Qualidade;Qualidade;Confirmada;verificar se abate comissão
+DEV-00932;NF-101872;2025-05-01;14,72;Produto divergente;Logística;Confirmada;aguardando NF de entrada
+DEV-00933;NF-104481;13/01/2026;4107.47;Qualidade;comercial;Confirmada;
+DEV-00934;NF-110405;2026-04-15;R$ 50,69;Cliente desistiu;Qualidade;Pendente;
+DEV-00935;NF-102270;10/08/2025;125.96;Qualidade;Comercial;Confirmada;aguardando NF de entrada
+DEV-00936;NF-110388;27/04/2026;R$ 30,10;qualidade ;comercial;confirmada ;
+DEV-00937;;25-07-25;46.00;Preço/negociação;comercial;confirmada ;
+DEV-00938;NF-106912;;61.37;Erro de pedido;Expedição;Pendente;
+DEV-00939;;2026-04-21;0.01;Cliente desistiu;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00940;NF-100055;23/12/2025;1252.73;Erro de pedido;Não definido;confirmada ;verificar se abate comissão
+DEV-00941;NF-109260;11/04/2026;R$ 21,78;Erro de pedido;Qualidade;Pendente;aguardando NF de entrada
+DEV-00942;NF-107981;25/03/2026; 814.29 ;erro pedido;Expedição;Confirmada;devolução parcial
+DEV-00943;NF-106311;2026-05-21;104.21;Qualidade;Não definido;Confirmada;verificar se abate comissão
+DEV-00944;NF-110752; 18/08/2026 ;59.65;qualidade ;Comercial;Cancelada;devolução parcial
+DEV-00945;NF-102479;14/10/2025;129,70;Avaria;Comercial;confirmada ;lançada no mês seguinte
+DEV-00946;NF-104451; 17/01/2026 ;10.98;Qualidade;Logística;Confirmada;devolução parcial
+DEV-00947;NF-111944;21-06-25;455.36;Cliente desistiu;Expedição;Pendente;devolução parcial
+DEV-00948;nf-106790;06/06/2025;552.49;Cliente desistiu;Comercial;Cancelada;devolução parcial
+DEV-00949;NF-100571;28-04-25;R$ 184,16;erro pedido;comercial;Confirmada;
+DEV-00950;NF-111245;17-06-26;110,37;Produto divergente;Qualidade;Confirmada;aguardando NF de entrada
+DEV-00951;NF-110849; 17/12/2025 ; 8.39 ;Cliente desistiu;Comercial;Confirmada;lançada no mês seguinte
+DEV-00952;NF-111775;08/12/25;73.60;Cliente desistiu;Não definido;confirmada ;lançada no mês seguinte
+DEV-00953;NF-100690;09/06/2025;11.17;Avaria;Comercial;Confirmada;
+DEV-00954;NF-109714;30/06/25;112.48;Preço/negociação;Cliente;confirmada ;lançada no mês seguinte
+DEV-00955;NF-104602;20-04-25;103.10;qualidade ;Expedição;confirmada ;devolução parcial
+DEV-00956;NF-106298;12/07/2026;89,19;Quebra/Avaria;comercial;Pendente;verificar se abate comissão
+DEV-00957;NF-103627;26-10-25;-162.59;Produto divergente;Comercial;Cancelada;
+DEV-00958;NF-105600;15-05-26;149.41;erro pedido;Logística;Cancelada;aguardando NF de entrada
+DEV-00959;NF-100039;2025-05-07;191,52;Qualidade;Expedição;confirmada ;lançada no mês seguinte
+DEV-00960;NF-103682;04/07/2026;560.46;Cliente desistiu;Cliente;confirmada ;devolução parcial
+DEV-00961;NF-102274;02/06/2025;138.83;Erro de pedido;Qualidade;Confirmada;
+DEV-00962;NF-111348;13/02/2026;2.51;Preço/negociação;comercial;Confirmada;verificar se abate comissão
+DEV-00963;NF-106340;2026-03-04;R$ 36,80;Produto divergente;Comercial;Confirmada;
+DEV-00964;NF-107395;2026-02-28;24.30;qualidade ;Comercial;Confirmada;
+DEV-00965;NF-102035;05/12/2025; 1210.78 ;qualidade ;Qualidade;confirmada ;devolução parcial
+DEV-00966;NF-108065;26/04/2025; 127.66 ;qualidade ;comercial;confirmada ;devolução parcial
+DEV-00967;NF-104056;25/03/25;79.69;Qualidade;Logística;confirmada ;verificar se abate comissão
+DEV-00968;NF-102136;27/09/2025;698.13;Qualidade;Cliente;Cancelada;devolução parcial
+DEV-00969;NF-102867;28/09/2025;2023.33;Produto divergente;Cliente;Confirmada;
+DEV-00970;NF-111542;2025-05-03;47,37;Cliente desistiu;Expedição;confirmada ;verificar se abate comissão
+DEV-00971;NF-103532;26/01/2026;R$ 55,54;qualidade ;Qualidade;Pendente;aguardando NF de entrada
+DEV-00972; NF-110603 ;14/01/2025;82.87;Cliente desistiu;Comercial;Confirmada;verificar se abate comissão
+DEV-00973;NF-110740;01/01/2026;79.97;Qualidade;Não definido;Confirmada;
+DEV-00974;NF-105331;06/12/2025;3501.19;erro pedido;Cliente;Confirmada;verificar se abate comissão
+DEV-00975;NF-101822;07/01/2026;R$ 64,72;Qualidade;Logística;confirmada ;lançada no mês seguinte
+DEV-00976;NF-107303;02/08/2026;8.53;qualidade ;Não definido;Cancelada;aguardando NF de entrada
+DEV-00977;NF-106498;26/05/2025;98.14;Cliente desistiu;Cliente;Confirmada;aguardando NF de entrada
+DEV-00978;NF-104503;;280.66;Preço/negociação;Logística;Confirmada;verificar se abate comissão
+DEV-00979;NF-101541;03/04/2025;524,08;erro pedido;Logística;Pendente;
+DEV-00980;NF-108827;2025-13-10;2665.08;erro pedido;Qualidade;confirmada ;
+DEV-00981;NF-108997;2025-02-19;9.88;Cliente desistiu;Comercial;Confirmada;lançada no mês seguinte
+DEV-00982;NF-104650;09/10/2025;900.69;Preço/negociação;comercial;Confirmada;lançada no mês seguinte
+DEV-00983;NF-101248;;83.97;erro pedido;Expedição;confirmada ;verificar se abate comissão
+DEV-00984;NF-108157;16/02/25;10.32;Erro de pedido;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00985;NF-107404;19-01-26;193.67;Preço/negociação;Cliente;Confirmada;verificar se abate comissão
+DEV-00986;NF-107113;19/06/25;499.91;Avaria;Não definido;Confirmada;
+DEV-00987;NF-110413;03-12-25;1.53;Cliente desistiu;Qualidade;Confirmada;lançada no mês seguinte
+DEV-00988;NF-103187;01/09/2025; 161.00 ;Avaria;Cliente;Confirmada;
+DEV-00989;NF-110126;02-06-25;234,62;Quebra/Avaria;Cliente;Confirmada;
+DEV-00990;NF-104565; 31/01/2025 ;-596.34;Preço/negociação;Comercial;Confirmada;verificar se abate comissão
+DEV-00991;NF-102950;15/04/2025;365.49;qualidade ;Expedição;Confirmada;lançada no mês seguinte
+DEV-00992;NF-100421;22/03/2025;48.15;Quebra/Avaria;Qualidade;Confirmada;verificar se abate comissão
+DEV-00993;NF-111128;2025-11-21; 140.13 ;Erro de pedido;Cliente;Confirmada;aguardando NF de entrada
+DEV-00994;NF-107382;2026-01-21;284.22;erro pedido;comercial;confirmada ;lançada no mês seguinte
+DEV-00995;NF-109823;20/07/2025;17.62;Cliente desistiu;Cliente;confirmada ;
+DEV-00996;NF-103254;18/04/2025;98,59;qualidade ;comercial;Confirmada;aguardando NF de entrada
+DEV-00997;NF-109877;02/04/2026;334.06;erro pedido;Comercial;Confirmada;
+DEV-00998;NF-105741;20-11-25;113.15;Preço/negociação;comercial;Pendente;lançada no mês seguinte
+DEV-00999;NF-104085;13/05/2026;27.89;Produto divergente;Comercial;Confirmada;devolução parcial
+DEV-01000;NF-109564;05-01-26;165.44;Quebra/Avaria;Comercial;confirmada ;verificar se abate comissão
+DEV-01001;NF-100105;2026-03-22;45.57;Qualidade;Cliente;Confirmada;lançada no mês seguinte
+DEV-01002;NF-100104; 29/06/2025 ;398.76;Avaria;Qualidade;Confirmada;verificar se abate comissão
+DEV-01003;NF-104000;18/12/2025;69.09;Quebra/Avaria;Não definido;Confirmada;
+DEV-01004;NF-109106;07/05/25;R$ 202,50;Avaria;Logística;Pendente;devolução parcial
+DEV-01005;NF-110428; 13/11/2025 ;9.03;Avaria;Comercial;Pendente;verificar se abate comissão
+DEV-01006;NF-100022;22/02/2026;135.91;Preço/negociação;Expedição;Confirmada;lançada no mês seguinte
+DEV-01007;NF-108059;2025-08-03;28.97;erro pedido;Não definido;confirmada ;
+DEV-01008;NF-107001;16/04/2026;27.30;Cliente desistiu;comercial;Confirmada;
+DEV-01009;NF-110521;15/10/2025;43.56;Cliente desistiu;Logística;Confirmada;
+DEV-01010;NF-107485;12/07/2025;30.26;erro pedido;Não definido;Confirmada;lançada no mês seguinte
+DEV-01011;NF-110531;24/08/2025;14.05;Cliente desistiu;Expedição;Confirmada;
+DEV-01012;NF-104092;23/02/26;75.02;Quebra/Avaria;Expedição;Cancelada;aguardando NF de entrada
+DEV-01013;NF-110394;04/04/2026;116.38;Qualidade;comercial;Pendente;devolução parcial
+DEV-01014;NF-106437;23-12-25;221.52;Quebra/Avaria;Qualidade;confirmada ;lançada no mês seguinte
+DEV-01015;NF-102431; 07/08/2025 ;142.66;qualidade ;comercial;confirmada ;verificar se abate comissão
+DEV-01016;NF-100701;2025-09-04;55.55;Produto divergente;Expedição;Confirmada;devolução parcial
+DEV-01017;NF-102886;17/11/2025;125.91;Qualidade;Cliente;Confirmada;
+DEV-01018;nf-106127;19/06/2026;90.92;qualidade ;Expedição;Pendente;lançada no mês seguinte
+DEV-01019;NF-102964; 09/12/2025 ;51.97;Quebra/Avaria;Qualidade;Pendente;
+DEV-01020;NF-111466;10/07/2025;307.50;Erro de pedido;comercial;confirmada ;aguardando NF de entrada
+DEV-01021;NF-111373; 29/03/2026 ;93.71;Qualidade;Comercial;Confirmada;lançada no mês seguinte
+DEV-01022;NF-100960;24/07/2026;25.44;Qualidade;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01023;NF-106900;16-07-25;50.47;Cliente desistiu;Expedição;Cancelada;
+DEV-01024;NF-111644;03/11/2025;R$ 15,21;erro pedido;Qualidade;confirmada ;verificar se abate comissão
+DEV-01025; NF-108129 ;14/07/2025;290.91;Quebra/Avaria;Não definido;Confirmada;verificar se abate comissão
+DEV-01026;NF-107085;12/07/2025;1343.14;Erro de pedido;comercial;Confirmada;lançada no mês seguinte
+DEV-01027; NF-107025 ;13/05/2025;20.71;Avaria;comercial;Confirmada;
+DEV-01028;NF-100845;2025-05-11;-169.22;Cliente desistiu;Comercial;Cancelada;aguardando NF de entrada
+DEV-01029;NF-107939;21-11-25;74.42;qualidade ;Qualidade;confirmada ;
+DEV-01030;NF-106632;25/09/2025;5.04;Preço/negociação;comercial;Cancelada;devolução parcial
+DEV-01031;NF-107733;2026-03-07;2.64;Erro de pedido;Cliente;confirmada ;lançada no mês seguinte
+DEV-01032;NF-111438;29/04/26; 383.18 ;Qualidade;Cliente;Pendente;lançada no mês seguinte
+DEV-01033;NF-109114;06/05/2026;4106.22;Cliente desistiu;Logística;Confirmada;verificar se abate comissão
+DEV-01034;NF-106323;02/11/2025;71.15;Preço/negociação;Cliente;Cancelada;devolução parcial
+DEV-01035;NF-109617;02/11/2025;766.98;Produto divergente;Comercial;Confirmada;
+DEV-01036;NF-100706;19/05/2025;17,73;Cliente desistiu;Cliente;Pendente;aguardando NF de entrada
+DEV-01037;NF-104725;09/07/2026;104.54;qualidade ;Expedição;Confirmada;devolução parcial
+DEV-01038;NF-101041;22/12/2025;374.90;Cliente desistiu;Qualidade;confirmada ;verificar se abate comissão
+DEV-01039;NF-110309;22/03/2025;111.35;Quebra/Avaria;Qualidade;Cancelada;aguardando NF de entrada
+DEV-01040;NF-106081;16/10/2025;164.87;Quebra/Avaria;Qualidade;Confirmada;verificar se abate comissão
+DEV-01041;NF-102791;17-09-25;72.21;Preço/negociação;Cliente;Cancelada;lançada no mês seguinte
+DEV-01042;NF-100938;07/03/2026;20.34;Avaria;Cliente;Confirmada;
+DEV-01043;NF-101612; 25/01/2026 ;1.96;Avaria;Não definido;Cancelada;lançada no mês seguinte
+DEV-01044;NF-109875;20/01/2026;15,22;Cliente desistiu;Não definido;Confirmada;lançada no mês seguinte
+DEV-01045;NF-104082;20-05-25; 503.27 ;Produto divergente;comercial;Confirmada;verificar se abate comissão
+DEV-01046;NF-102288; 18/07/2025 ;81.25;Cliente desistiu;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01047;NF-107457;26/09/2025;102.20;Produto divergente;Não definido;Confirmada;
+DEV-01048;NF-110776;05/04/2025; 209.44 ;Produto divergente;Comercial;Confirmada;verificar se abate comissão
+DEV-01049;NF-108776;2025-11-16;16,63;Qualidade;Comercial;Confirmada;devolução parcial
+DEV-01050;NF-106383;29-08-26;104.77;erro pedido;Comercial;Confirmada;aguardando NF de entrada
+DEV-01051;NF-107318;2025-06-08;31.75;erro pedido;Expedição;Pendente;verificar se abate comissão
+DEV-01052;NF-101656;; 27.67 ;Cliente desistiu;comercial;Pendente;devolução parcial
+DEV-01053;NF-109705;05/07/2026;2.10;Erro de pedido;Cliente;Pendente;devolução parcial
+DEV-01054;NF-107444;16/08/2025;32.59;Qualidade;Qualidade;Confirmada;
+DEV-01055;NF-108626;2025-08-05;3.10;Cliente desistiu;Comercial;Confirmada;lançada no mês seguinte
+DEV-01056;NF-102941;04/06/2026; 53.53 ;qualidade ;comercial;confirmada ;devolução parcial
+DEV-01057;NF-108463;2025-09-10;138.05;Cliente desistiu;Cliente;Confirmada;verificar se abate comissão
+DEV-01058;NF-110217;16/06/2026;121.84;Produto divergente;Comercial;confirmada ;
+DEV-01059;NF-103702;27/06/2026;275.97;erro pedido;Comercial;Cancelada;verificar se abate comissão
+DEV-01060;NF-101968;2025-09-25;601.27;erro pedido;Não definido;Confirmada;
+DEV-01061;NF-106597;31/05/2026;156,69;Erro de pedido;Cliente;Confirmada;lançada no mês seguinte
+DEV-01062;NF-103832;09/05/2025;43.48;Preço/negociação;Expedição;confirmada ;
+DEV-01063;NF-106917;30/06/2026;25.70;Preço/negociação;Logística;Pendente;
+DEV-01064;NF-102097;26/04/2025;34.01;Produto divergente;Não definido;confirmada ;aguardando NF de entrada
+DEV-01065;NF-107847;02/10/2025;72.86;Erro de pedido;Comercial;Confirmada;verificar se abate comissão
+DEV-01066;NF-106439;2025-10-10;267.93;qualidade ;Comercial;Confirmada;aguardando NF de entrada
+DEV-01067;NF-107883;2025-12-25;243.95;Qualidade;Cliente;Confirmada;devolução parcial
+DEV-01068;NF-109385;23/09/2025;122.97;Erro de pedido;comercial;confirmada ;lançada no mês seguinte
+DEV-01069;NF-109625;04/06/2025;455,94;erro pedido;Logística;Pendente;
+DEV-01070;NF-107728;24/09/2025;707.49;Preço/negociação;comercial;Confirmada;lançada no mês seguinte
+DEV-01071;NF-107297;11/08/2026;7.56;Qualidade;Não definido;confirmada ;devolução parcial
+DEV-01072;NF-103401;28/05/2025;26.08;Qualidade;comercial;Cancelada;
+DEV-01073;NF-111229;30/01/2026;R$ 3,71;Quebra/Avaria;Expedição;Confirmada;lançada no mês seguinte
+DEV-01074;NF-107219;2025-06-06;68.33;Produto divergente;Logística;Confirmada;aguardando NF de entrada
+DEV-01075;NF-100849;23/08/2025;313,75;Produto divergente;Logística;Confirmada;verificar se abate comissão
+DEV-01076;NF-100792;19/03/2026;115.17;erro pedido;Não definido;confirmada ;
+DEV-01077;NF-111761;26/03/2025;10.08;Qualidade;Qualidade;confirmada ;lançada no mês seguinte
+DEV-01078;NF-105352;25/07/2025;36.04;Preço/negociação;Não definido;Confirmada;
+DEV-01079;NF-106918;14/08/2025;53.85;Preço/negociação;Não definido;Confirmada;devolução parcial
+DEV-01080;NF-105816; 26/02/2026 ;0.18;erro pedido;Expedição;Pendente;devolução parcial
+DEV-01081;NF-106565;14/11/2025;34.78;Qualidade;Não definido;confirmada ;verificar se abate comissão
+DEV-01082;NF-102822;2026-05-28;138.93;Cliente desistiu;Expedição;Pendente;
+DEV-01083;NF-104779;01/05/2025; 307.51 ;Preço/negociação;comercial;Confirmada;
+DEV-01084;NF-101951;20/02/2026;361.76;Produto divergente;Expedição;Confirmada;devolução parcial
+DEV-01085;NF-108393; 24/05/2026 ;13.62;Qualidade;Logística;Cancelada;lançada no mês seguinte
+DEV-01086;NF-101853;03/10/2025;593.64;Cliente desistiu;Cliente;Confirmada;devolução parcial
+DEV-01087;NF-101281;2026-01-01;615,61;Avaria;Expedição;Pendente;lançada no mês seguinte
+DEV-01088;NF-102577;2025-13-10;136.92;Quebra/Avaria;Comercial;Confirmada;
+DEV-01089;NF-102875;29/10/2025;38.33;Cliente desistiu;Comercial;Confirmada;devolução parcial
+DEV-01090;NF-110749;2025-04-13;1.10;Produto divergente;Cliente;Confirmada;
+DEV-01091;NF-110780;00/01/2026;R$ 0,62;Cliente desistiu;Logística;Cancelada;devolução parcial
+DEV-01092;NF-103217;29/01/2025;84.70;Produto divergente;Qualidade;Cancelada;
+DEV-01093;NF-105999;04/06/2026;17.81;erro pedido;Comercial;confirmada ;verificar se abate comissão
+DEV-01094;NF-108127;26-03-25;25.65;Preço/negociação;Não definido;Confirmada;aguardando NF de entrada
+DEV-01095;NF-107776;03-07-25;135.71;Qualidade;Logística;Cancelada;verificar se abate comissão
+DEV-01096;NF-105328;17/07/2025;R$ 59,16;qualidade ;comercial;Confirmada;lançada no mês seguinte
+DEV-01097;NF-105803;12/05/26;89.06;Erro de pedido;comercial;Confirmada;verificar se abate comissão
+DEV-01098;NF-100694;12/05/2025;41.78;Erro de pedido;Logística;Cancelada;aguardando NF de entrada
+DEV-01099;NF-103555;13/10/2025;6.67;qualidade ;Comercial;Confirmada;devolução parcial
+DEV-01100;NF-101069;01/04/2025;119.10;Preço/negociação;Cliente;Confirmada;lançada no mês seguinte
+DEV-01101;NF-102345;21/03/2026;17,72;Preço/negociação;Logística;Confirmada;aguardando NF de entrada
+DEV-01102; NF-101435 ;30/01/25;21.95;Cliente desistiu;Qualidade;Confirmada;aguardando NF de entrada
+DEV-01103;NF-100708;28/04/2025;435.52;Qualidade;Comercial;Confirmada;devolução parcial
+DEV-01104;NF-110949; 26/07/2026 ;51.56;Preço/negociação;comercial;Cancelada;aguardando NF de entrada
+DEV-01105;NF-108800;11/07/2026;17.09;Qualidade;Não definido;Confirmada;
+DEV-01106;NF-103548;2025-11-26;67.04;Avaria;comercial;Pendente;verificar se abate comissão
+DEV-01107;NF-100404;03/06/2025;61.61;Preço/negociação;Logística;Confirmada;devolução parcial
+DEV-01108;NF-111188;;8.46;erro pedido;Não definido;confirmada ;lançada no mês seguinte
+DEV-01109;NF-100579;06/05/2026; 11.62 ;Erro de pedido;Expedição;Pendente;verificar se abate comissão
+DEV-01110;NF-111530;26-08-26;124.35;qualidade ;Comercial;Cancelada;lançada no mês seguinte
+DEV-01111;NF-108363;2025-03-26;163.08;Produto divergente;Expedição;Confirmada;
+DEV-01112;NF-106624;2025-07-26;2.37;Qualidade;comercial;Cancelada;lançada no mês seguinte
+DEV-01113;NF-106243;04/04/26; 75.51 ;Avaria;comercial;Confirmada;aguardando NF de entrada
+DEV-01114;NF-110512;01-04-25;64,45;Qualidade;Não definido;Cancelada;lançada no mês seguinte
+DEV-01115;NF-103481;07/05/2025;113.71;qualidade ;Expedição;Cancelada;lançada no mês seguinte
+DEV-01116;NF-101007;10/03/2026;94.17;qualidade ;Qualidade;Confirmada;devolução parcial
+DEV-01117;NF-101055;15/09/2025; 210.80 ;Avaria;Logística;Confirmada;lançada no mês seguinte
+DEV-01118;NF-103529;27/04/2026;296,00;Avaria;Comercial;Confirmada;aguardando NF de entrada
+DEV-01119;NF-106104;03/07/26;R$ 52,65;Avaria;Não definido;confirmada ;aguardando NF de entrada
+DEV-01120;NF-102246;06/01/26;30.21;Avaria;Não definido;confirmada ;verificar se abate comissão
+DEV-01121;NF-106173;06/04/2026;44.72;Avaria;Qualidade;confirmada ;
+DEV-01122;NF-111171;2025-05-25;372.29;Avaria;Expedição;Cancelada;aguardando NF de entrada
+DEV-01123;NF-100383;05/08/2025;1.33;erro pedido;Cliente;Cancelada;devolução parcial
+DEV-01124;NF-104379;29/01/2026;102,74;Cliente desistiu;Expedição;confirmada ;
+DEV-01125;NF-107024;21/01/2026;208.06;Erro de pedido;Não definido;Cancelada;lançada no mês seguinte
+DEV-01126;NF-103303;07/11/2025;224,37;Preço/negociação;Expedição;Confirmada;devolução parcial
+DEV-01127;NF-103582;13/05/2026;292.99;Quebra/Avaria;Não definido;Cancelada;verificar se abate comissão
+DEV-01128;NF-101094;19/02/2025;9.59;Cliente desistiu;Qualidade;Confirmada;devolução parcial
+DEV-01129;NF-101201;sem data;144.24;erro pedido;Cliente;confirmada ;aguardando NF de entrada
+DEV-01130;NF-109186;15/06/2026;4,77;Quebra/Avaria;Não definido;Confirmada;
+DEV-01131; NF-105214 ;14/04/2026;58.22;Erro de pedido;Qualidade;confirmada ;
+DEV-01132;NF-100389;05/05/2026;8.99;erro pedido;Cliente;Pendente;verificar se abate comissão
+DEV-01133;NF-105601;15/03/2026; 3.30 ;Avaria;comercial;Cancelada;devolução parcial
+DEV-01134;NF-102268;06/07/2025;3.33;Erro de pedido;Comercial;Pendente;
+DEV-01135;NF-108927;29/11/2025;R$ 134,53;qualidade ;Comercial;confirmada ;lançada no mês seguinte
+DEV-01136;NF-100686;06/05/2026;34.52;Produto divergente;Cliente;Cancelada;verificar se abate comissão
+DEV-01137;NF-103376;24/04/2026;243.45;erro pedido;Não definido;Confirmada;verificar se abate comissão
+DEV-01138;NF-100009;27/08/2025;7.61;Qualidade;Comercial;Confirmada;aguardando NF de entrada
+DEV-01139;NF-104004;2026-05-19;0.91;Quebra/Avaria;Logística;Pendente;verificar se abate comissão
+DEV-01140;NF-111966;10-05-26;46.40;erro pedido;Logística;Confirmada;verificar se abate comissão
+DEV-01141;NF-105138;20/08/2025; 38.27 ;Quebra/Avaria;Cliente;confirmada ;aguardando NF de entrada
+DEV-01142;NF-106617;07/06/2025;38.39;erro pedido;Expedição;Pendente;aguardando NF de entrada
+DEV-01143;NF-106946;04/05/2026;10,26;Cliente desistiu;Comercial;Confirmada;verificar se abate comissão
+DEV-01144;NF-106168;26/07/2025;6.38;Avaria;Qualidade;Confirmada;aguardando NF de entrada
+DEV-01145;NF-108459;07-05-25;24.78;qualidade ;Logística;confirmada ;aguardando NF de entrada
+DEV-01146;NF-105737;2025-12-05; 111.84 ;Qualidade;Expedição;Confirmada;verificar se abate comissão
+DEV-01147;NF-111902;21/10/2025;59.22;qualidade ;comercial;Confirmada;lançada no mês seguinte
+DEV-01148;NF-105965;08/06/2025;70.31;Cliente desistiu;Logística;Pendente;verificar se abate comissão
+DEV-01149;NF-109819;15/01/2025;168,90;Avaria;comercial;Confirmada;lançada no mês seguinte
+DEV-01150;NF-105429;03/03/2026;314.92;Qualidade;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01151;NF-106778;10/03/26;231.31;Qualidade;Cliente;Confirmada;lançada no mês seguinte
+DEV-01152;NF-100302;15/10/2025;263.80;Preço/negociação;comercial;Confirmada;aguardando NF de entrada
+DEV-01153;NF-104918;17/04/2026;100.16;Cliente desistiu;comercial;Confirmada;lançada no mês seguinte
+DEV-01154;NF-104613;15/04/2025;139.02;Quebra/Avaria;Não definido;Cancelada;aguardando NF de entrada
+DEV-01155;NF-109717;2026-04-25; 29.97 ;Erro de pedido;comercial;Confirmada;lançada no mês seguinte
+DEV-01156;NF-110983; 22/01/2026 ;2698.26;Qualidade;Comercial;Confirmada;
+DEV-01157;NF-105401;2025-12-28;6921.29;Quebra/Avaria;Expedição;Confirmada;verificar se abate comissão
+DEV-01158;NF-103873;04/03/2026;6.93;qualidade ;Comercial;confirmada ;verificar se abate comissão
+DEV-01159;NF-102852;03/06/2026;23.47;Produto divergente;Logística;Cancelada;devolução parcial
+DEV-01160;NF-111058;19/07/2026;3.89;Quebra/Avaria;comercial;Confirmada;aguardando NF de entrada
+DEV-01161;NF-103971;07-07-26;662.67;Erro de pedido;Logística;Cancelada;
+DEV-01162;NF-111483;03/03/2026;196.65;Cliente desistiu;Logística;Confirmada;devolução parcial
+DEV-01163;NF-103131;14/08/2025;19,41;Preço/negociação;Expedição;Confirmada;lançada no mês seguinte
+DEV-01164;NF-101754;2025-12-23;43.81;Quebra/Avaria;Não definido;Cancelada;devolução parcial
+DEV-01165;NF-103734;03/07/2025;182.11;Erro de pedido;Expedição;Confirmada;
+DEV-01166;NF-102424; 26/11/2025 ;36.88;qualidade ;Qualidade;Cancelada;aguardando NF de entrada
+DEV-01167;NF-103365;2025-02-12;83.89;Avaria;Cliente;Confirmada;lançada no mês seguinte
+DEV-01168;NF-107393;14/10/2025;292,00;Preço/negociação;Qualidade;Confirmada;verificar se abate comissão
+DEV-01169;NF-111998;17/03/2026;1.48;Quebra/Avaria;Comercial;Confirmada;aguardando NF de entrada
+DEV-01170;NF-102019;17/09/25;91.28;erro pedido;Qualidade;Pendente;
+DEV-01171;NF-107631; 27/10/2025 ;92.59;Quebra/Avaria;Não definido;Confirmada;devolução parcial
+DEV-01172;NF-103704;12/02/2025;13.76;Avaria;Cliente;Confirmada;lançada no mês seguinte
+DEV-01173;NF-103168;11-03-26;202.71;erro pedido;Logística;Confirmada;
+DEV-01174;NF-102736;19/04/2026;165.25;Cliente desistiu;Comercial;Confirmada;lançada no mês seguinte
+DEV-01175;NF-101408;09/12/25;135.86;Erro de pedido;Expedição;Confirmada;
+DEV-01176;NF-102961;20/07/2025;39.25;erro pedido;Cliente;Pendente;devolução parcial
+DEV-01177;NF-105247;02/10/2025;36,75;Qualidade;Não definido;confirmada ;verificar se abate comissão
+DEV-01178;NF-103140;13/07/2026;236.21;Produto divergente;comercial;Cancelada;verificar se abate comissão
+DEV-01179;NF-110898;2025-04-19;143.25;Quebra/Avaria;Não definido;Confirmada;verificar se abate comissão
+DEV-01180;NF-111435;12-07-25;122,27;erro pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-01181;NF-101204;26/04/2026;1,58;Cliente desistiu;Cliente;confirmada ;
+DEV-01182; NF-111730 ; 17/12/2025 ;41.96;Qualidade;Qualidade;Confirmada;aguardando NF de entrada
+DEV-01183;NF-101183;2025-08-07; 3173.94 ;Avaria;Expedição;Cancelada;lançada no mês seguinte
+DEV-01184;NF-111410;08/06/2025;202.88;Produto divergente;Comercial;Pendente;lançada no mês seguinte
+DEV-01185;NF-101536;15/12/2025;85.38;Avaria;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01186;NF-110775;01/07/2025;130.37;Qualidade;Comercial;Confirmada;devolução parcial
+DEV-01187;NF-100804;2026-08-05;287.43;Qualidade;Comercial;Confirmada;aguardando NF de entrada
+DEV-01188;NF-107276;05/07/2025;R$ 583,71;Cliente desistiu;Qualidade;Pendente;devolução parcial
+DEV-01189;NF-105775;18/04/2025;205.46;erro pedido;Cliente;Pendente;
+DEV-01190;NF-108703;28-09-25;44,34;Erro de pedido;Não definido;Pendente;
+DEV-01191;NF-100439;sem data;30.99;Avaria;Logística;Confirmada;verificar se abate comissão
+DEV-01192;NF-110553;08/04/2026;3.03;Avaria;Não definido;confirmada ;devolução parcial
+DEV-01193;NF-101446;;916.26;qualidade ;Comercial;Pendente;verificar se abate comissão
+DEV-01194;NF-107076;02/07/2025;77.84;Avaria;Expedição;Cancelada;aguardando NF de entrada
+DEV-01195;NF-107999;06/10/25;R$ 75,34;Quebra/Avaria;Qualidade;Pendente;
+DEV-01196;NF-100476;08/07/2025;50.73;Preço/negociação;comercial;Confirmada;lançada no mês seguinte
+DEV-01197;NF-101892;01/06/25;323.16;Qualidade;Expedição;Confirmada;lançada no mês seguinte
+DEV-01198;NF-104721;2025-09-18;110.04;Produto divergente;Não definido;Confirmada;verificar se abate comissão
+DEV-01199;NF-100555;10/08/2025;73,25;Cliente desistiu;Expedição;Cancelada;
+DEV-01200;NF-107171;03/03/2025;547.36;Avaria;comercial;Confirmada;lançada no mês seguinte
+DEV-01201;NF-103041;23/03/2025;58.45;Avaria;Expedição;Confirmada;verificar se abate comissão
+DEV-01202;NF-102251;05/11/2025;282.04;Cliente desistiu;Qualidade;Confirmada;devolução parcial
+DEV-01203;NF-111148;2025-12-06;79.32;Preço/negociação;Logística;Pendente;devolução parcial
+DEV-01204;NF-102042;03/06/2025;3.43;erro pedido;comercial;confirmada ;
+DEV-01205;NF-108559;20/01/2026;3134.45;Quebra/Avaria;Qualidade;Confirmada;aguardando NF de entrada
+DEV-01206;NF-104404;2026-08-02;66.14;qualidade ;Logística;Pendente;verificar se abate comissão
+DEV-01207;NF-105361;2026-01-21;58.57;erro pedido;Expedição;Cancelada;aguardando NF de entrada
+DEV-01208;NF-108925;20-05-26;10.56;Avaria;Não definido;Confirmada;devolução parcial
+DEV-01209;NF-106195;23/06/2026;33.12;Preço/negociação;Logística;Confirmada;aguardando NF de entrada
+DEV-01210;NF-100349;23/03/26; 48.13 ;Avaria;comercial;Pendente;
+DEV-01211;NF-104234;2025-06-11;191,69;erro pedido;Não definido;Confirmada;verificar se abate comissão
+DEV-01212;NF-110584;21/01/2025;68,65;Preço/negociação;Comercial;Pendente;lançada no mês seguinte
+DEV-01213;NF-103051; 19/10/2025 ;2.44;Avaria;Cliente;Confirmada;lançada no mês seguinte
+DEV-01214;NF-107133;2025-10-19;R$ 34,92;Erro de pedido;Não definido;Pendente;
+DEV-01215;NF-110838;10/03/2026;888.39;erro pedido;Qualidade;confirmada ;
+DEV-01216;NF-108368; 23/01/2026 ;45,91;Avaria;Expedição;Confirmada;aguardando NF de entrada
+DEV-01217;NF-109331;2025-10-30;38.60;Cliente desistiu;Cliente;Confirmada;aguardando NF de entrada
+DEV-01218;NF-108314;06-09-25;511,02;Cliente desistiu;Qualidade;Cancelada;
+DEV-01219; NF-109033 ;25/04/2026;238,89;Qualidade;Expedição;Confirmada;devolução parcial
+DEV-01220;NF-104202;16-07-26;3.32;erro pedido;Não definido;Cancelada;
+DEV-01221;NF-103605;20/05/2025;30.81;Erro de pedido;Não definido;Pendente;aguardando NF de entrada
+DEV-01222;NF-101255;14-05-25; 177.14 ;Qualidade;Logística;Confirmada;lançada no mês seguinte
+DEV-01223;NF-111617;07/04/2025;78.63;Erro de pedido;Não definido;Confirmada;aguardando NF de entrada
+DEV-01224; NF-103833 ;29/03/2026;40.41;Erro de pedido;Qualidade;Pendente;devolução parcial
+DEV-01225;NF-101789;2025-03-09;150.50;Preço/negociação;Cliente;Confirmada;aguardando NF de entrada
+DEV-01226;NF-104627;16/01/2026; 205.09 ;qualidade ;Logística;Confirmada;aguardando NF de entrada
+DEV-01227;NF-100503;21/10/2025;53.77;Produto divergente;Qualidade;confirmada ;lançada no mês seguinte
+DEV-01228;NF-110623;06/02/2026;8.09;Cliente desistiu;comercial;Confirmada;aguardando NF de entrada
+DEV-01229;NF-102389;14/08/2025;55.21;qualidade ;Não definido;Confirmada;devolução parcial
+DEV-01230;nf-110802;06-03-25;R$ 353,93;Preço/negociação;comercial;Confirmada;lançada no mês seguinte
+DEV-01231;NF-108499;24/03/25;1668.23;Qualidade;Qualidade;Pendente;aguardando NF de entrada
+DEV-01232;NF-109754;2025-03-07;23.59;qualidade ;Logística;confirmada ;verificar se abate comissão
+DEV-01233;NF-109770;2025-04-11;49.40;Qualidade;Expedição;confirmada ;lançada no mês seguinte
+DEV-01234;NF-109581;31/05/2026;R$ 241,10;Cliente desistiu;Logística;Confirmada;verificar se abate comissão
+DEV-01235;NF-100529;2025-12-06;R$ 610,80;Avaria;Logística;Cancelada;devolução parcial
+DEV-01236; NF-109046 ;14/06/2025; 2.08 ;erro pedido;Não definido;Pendente;
+DEV-01237;NF-106443;25/07/2026;R$ 103,25;Preço/negociação;comercial;Confirmada;
+DEV-01238;NF-100434;01/04/2025;43,54;Produto divergente;Não definido;Confirmada;
+DEV-01239;NF-111414;2025-10-25;147,38;Qualidade;comercial;confirmada ;lançada no mês seguinte
+DEV-01240;NF-109426;02/11/2025;136.96;Produto divergente;comercial;Confirmada;verificar se abate comissão
+DEV-01241;NF-108902; 21/10/2025 ;23.36;Quebra/Avaria;Logística;Cancelada;aguardando NF de entrada
+DEV-01242;NF-107122;19/07/2026;103.68;erro pedido;Comercial;Pendente;verificar se abate comissão
+DEV-01243;NF-111471;09-07-26;526.94;Cliente desistiu;Logística;Confirmada;
+DEV-01244;NF-103209;09/12/2025;4.06;qualidade ;Não definido;Confirmada;
+DEV-01245;nf-110492;05/03/2026;92.27;Produto divergente;Logística;Pendente;
+DEV-01246;NF-106529;04/07/2025;62,66;Cliente desistiu;Expedição;Pendente;devolução parcial
+DEV-01247;NF-102595;10/05/2026;326.24;Qualidade;comercial;Cancelada;verificar se abate comissão
+DEV-01248;NF-105345;09/02/2025;685.23;Qualidade;Cliente;Cancelada;lançada no mês seguinte
+DEV-01249;NF-111330;04/06/2026;88.85;Qualidade;Comercial;Confirmada;verificar se abate comissão
+DEV-01250;NF-109542;06-03-26;R$ 295,45;Qualidade;Logística;Cancelada;devolução parcial
+DEV-01251;NF-104126;03-05-26;53.60;qualidade ;Expedição;Confirmada;aguardando NF de entrada
+DEV-01252;NF-105172;06/07/2025;275.31;Erro de pedido;Comercial;Pendente;verificar se abate comissão
+DEV-01253;NF-103424;24/03/2026;63,58;Erro de pedido;Logística;Cancelada;devolução parcial
+DEV-01254;NF-107813;09/05/2026;81.31;Produto divergente;Cliente;Confirmada;devolução parcial
+DEV-01255;NF-106645;19/07/2025;19.41;Quebra/Avaria;Comercial;Confirmada;lançada no mês seguinte
+DEV-01256;NF-105933;09/03/2026;72.08;Produto divergente;Logística;confirmada ;aguardando NF de entrada
+DEV-01257;NF-107114;28/08/2026;26.02;Cliente desistiu;Comercial;Confirmada;lançada no mês seguinte
+DEV-01258;NF-110454;08/07/2025;312.00;Preço/negociação;Logística;Pendente;aguardando NF de entrada
+DEV-01259;nf-108274;02/07/2026;17.83;Erro de pedido;Cliente;Confirmada;
+DEV-01260;NF-111637;19/02/2026; 88.80 ;Produto divergente;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01261;NF-106858;2025-06-09;0.43;Avaria;Logística;Confirmada;lançada no mês seguinte
+DEV-01262;NF-103341;01/03/2025;51.18;Erro de pedido;Logística;confirmada ;
+DEV-01263;nf-103583;18/02/2026;R$ 305,85;Quebra/Avaria;Comercial;Pendente;verificar se abate comissão
+DEV-01264;NF-111446;2026-05-02;20.25;Quebra/Avaria;Cliente;Confirmada;lançada no mês seguinte
+DEV-01265;NF-104683; 26/08/2025 ;-12.97;Quebra/Avaria;Expedição;Confirmada;verificar se abate comissão
+DEV-01266;;00/01/2026;347.73;qualidade ;Não definido;confirmada ;
+DEV-01267;NF-110320;21/04/2025;852.32;Preço/negociação;Cliente;Pendente;devolução parcial
+DEV-01268;NF-104707;13/09/2025;128.45;Avaria;Não definido;Confirmada;aguardando NF de entrada
+DEV-01269;NF-110069;10/07/26;93.54;Avaria;Não definido;Confirmada;aguardando NF de entrada
+DEV-01270;NF-100614;04/06/2025;62.12;Avaria;Não definido;confirmada ;
+DEV-01271;NF-104792;09/08/2026;16.65;qualidade ;Cliente;Cancelada;lançada no mês seguinte
+DEV-01272;NF-106908;;19.23;Erro de pedido;comercial;Confirmada;devolução parcial
+DEV-01273;NF-103604;2026-02-08;27.90;erro pedido;Logística;Confirmada;aguardando NF de entrada
+DEV-01274;NF-107455;11-04-26;136.09;Produto divergente;Comercial;confirmada ;aguardando NF de entrada
+DEV-01275;NF-106746;10/04/2025; 90.37 ;Preço/negociação;Cliente;Pendente;verificar se abate comissão
+DEV-01276;NF-110251;30/10/2025;41,07;Produto divergente;comercial;Confirmada;verificar se abate comissão
+DEV-01277;NF-111084;17/07/2026;41.33;erro pedido;Cliente;Cancelada;verificar se abate comissão
+DEV-01278;NF-108758;05-07-25;87.65;Cliente desistiu;Expedição;Cancelada;devolução parcial
+DEV-01279;NF-107389;08/04/2025;1.22;Produto divergente;comercial;Pendente;
+DEV-01280;NF-110368;10-12-25;12,64;Cliente desistiu;comercial;Confirmada;aguardando NF de entrada
+DEV-01281;NF-100809;09/06/2026;151.06;Quebra/Avaria;Logística;Confirmada;aguardando NF de entrada
+DEV-01282;NF-109734;25/04/2025;75.98;Preço/negociação;Cliente;Confirmada;verificar se abate comissão
+DEV-01283;NF-100569;05-02-25;77.60;Erro de pedido;Comercial;Confirmada;lançada no mês seguinte
+DEV-01284;NF-108622;19/08/2025;284.51;Produto divergente;Cliente;Confirmada;aguardando NF de entrada
+DEV-01285;NF-101022;2025-06-25;R$ 158,69;Preço/negociação;Cliente;Pendente;
+DEV-01286;NF-109719;2025-06-08;31.78;Preço/negociação;Cliente;confirmada ;verificar se abate comissão
+DEV-01287;NF-109286;10/10/2025;61.41;Preço/negociação;Expedição;Cancelada;aguardando NF de entrada
+DEV-01288;NF-105083;29/06/2025;63.43;Quebra/Avaria;Não definido;Confirmada;
+DEV-01289;nf-110200;20/09/25;2022.50;qualidade ;Comercial;confirmada ;verificar se abate comissão
+DEV-01290;NF-105165;22/01/2026;164.28;Quebra/Avaria;Cliente;Confirmada;aguardando NF de entrada
+DEV-01291;NF-101752;29-03-26;769.43;erro pedido;comercial;Confirmada;verificar se abate comissão
+DEV-01292;NF-106985; 26/02/2026 ;12.92;qualidade ;Expedição;Cancelada;
+DEV-01293;NF-111518;12/01/2026;R$ 58,23;Produto divergente;comercial;Confirmada;verificar se abate comissão
+DEV-01294;NF-106741;11/12/2025;377.89;erro pedido;Qualidade;confirmada ;aguardando NF de entrada
+DEV-01295;NF-108358;05/11/25;257.43;Produto divergente;Cliente;Confirmada;verificar se abate comissão
+DEV-01296;NF-111243;17/11/2025;2731.79;Qualidade;Não definido;Cancelada;aguardando NF de entrada
+DEV-01297;NF-111903;16/12/2025;26.45;Cliente desistiu;Expedição;confirmada ;devolução parcial
+DEV-01298;NF-108122;03-06-26;5.17;Produto divergente;Comercial;Confirmada;
+DEV-01299; NF-102636 ;17-12-25;244.32;Preço/negociação;Qualidade;Confirmada;aguardando NF de entrada
+DEV-01300;NF-111740;29-12-25;663,14;Produto divergente;Não definido;Cancelada;verificar se abate comissão
+DEV-01301;NF-102152;17/05/2025;15.15;Erro de pedido;Cliente;Confirmada;devolução parcial
+DEV-01302;NF-111949;;51.68;Qualidade;Comercial;confirmada ;devolução parcial
+DEV-01303;NF-111108;;218.39;Produto divergente;Cliente;Confirmada;verificar se abate comissão
+DEV-01304;NF-104720;22/10/2025;22.17;Produto divergente;Não definido;Cancelada;verificar se abate comissão
+DEV-01305;NF-111805;24-05-26;156.33;Erro de pedido;Cliente;Pendente;verificar se abate comissão
+DEV-01306;NF-105500;14/05/2025;60.70;Cliente desistiu;Expedição;Confirmada;
+DEV-01307;NF-103754;19-08-25;714.92;qualidade ;Expedição;Pendente;aguardando NF de entrada
+DEV-01308;NF-105485;12/05/2025;144.23;Avaria;Expedição;Confirmada;aguardando NF de entrada
+DEV-01309;NF-109522;2025-09-26;143,86;Quebra/Avaria;Qualidade;confirmada ;
+DEV-01310;NF-107350;2025-03-31;419,52;erro pedido;comercial;Confirmada;verificar se abate comissão
+DEV-01311;NF-108577;2026-08-21;41.47;erro pedido;Não definido;confirmada ;
+DEV-01312;NF-111540; 19/10/2025 ;R$ 630,21;Preço/negociação;Qualidade;Pendente;
+DEV-01313;NF-109985;; 196.92 ;qualidade ;Expedição;Confirmada;devolução parcial
+DEV-01314;NF-108737;14-06-26;83.48;Preço/negociação;Qualidade;confirmada ;devolução parcial
+DEV-01315;NF-105490;27/11/2025;127.05;Quebra/Avaria;comercial;Confirmada;aguardando NF de entrada
+DEV-01316;NF-109562;28/01/2026;700.06;Avaria;Não definido;Confirmada;lançada no mês seguinte
+DEV-01317;NF-104386;15/04/2025;545.53;Erro de pedido;Qualidade;Confirmada;devolução parcial
+DEV-01318;NF-106540;29/03/2025; 7.88 ;erro pedido;Não definido;Confirmada;verificar se abate comissão
+DEV-01319;NF-100903;14/05/2026;6.66;Qualidade;Logística;Pendente;devolução parcial
+DEV-01320;NF-102402;19-02-25;28.01;Avaria;comercial;Pendente;verificar se abate comissão
+DEV-01321;NF-101645;2026-04-28;84,94;Preço/negociação;Não definido;confirmada ;aguardando NF de entrada
+DEV-01322;NF-105109;23/10/2025;20.98;Cliente desistiu;Expedição;Confirmada;verificar se abate comissão
+DEV-01323;NF-106897;28/03/2025;R$ 527,63;Quebra/Avaria;Qualidade;Confirmada;devolução parcial
+DEV-01324;NF-103159;14-12-25;268.96;erro pedido;Logística;Cancelada;aguardando NF de entrada
+DEV-01325;NF-106933;10/10/2025;195.35;Produto divergente;comercial;Pendente;verificar se abate comissão
+DEV-01326;NF-108835;;R$ 49,60;Cliente desistiu;Logística;confirmada ;lançada no mês seguinte
+DEV-01327;NF-111728;2025-10-28;314,78;Avaria;Comercial;Cancelada;verificar se abate comissão
+DEV-01328;NF-105008;23/12/2025;936,74;Cliente desistiu;Comercial;Pendente;
+DEV-01329;NF-104737;;53,09;Preço/negociação;Cliente;confirmada ;aguardando NF de entrada
+DEV-01330;NF-107268;03/03/2026;80.22;erro pedido;Qualidade;Confirmada;aguardando NF de entrada
+DEV-01331;NF-111113;27/12/2025;350.56;erro pedido;Não definido;confirmada ;devolução parcial
+DEV-01332;NF-103566;13/08/2025; 23.91 ;Cliente desistiu;Logística;Confirmada;
+DEV-01333;NF-110276;25/07/2025;104.02;Cliente desistiu;Comercial;confirmada ;aguardando NF de entrada
+DEV-01334;NF-105778;2025-08-17;150.82;Avaria;Comercial;confirmada ;devolução parcial
+DEV-01335;NF-100983;15/03/2026;122.58;Cliente desistiu;Cliente;Confirmada;verificar se abate comissão
+DEV-01336;NF-106153;28/03/2025;R$ 322,74;Cliente desistiu;Comercial;Pendente;lançada no mês seguinte
+DEV-01337;NF-107518;20/08/2025;0.74;Produto divergente;Expedição;Confirmada;
+DEV-01338;NF-105859;2025-03-19;130.16;Produto divergente;Não definido;Confirmada;verificar se abate comissão
+DEV-01339;NF-109477;27/08/25;6.50;Produto divergente;Comercial;Confirmada;lançada no mês seguinte
+DEV-01340;NF-107661;2026-03-16;43,72;erro pedido;Cliente;Confirmada;devolução parcial
+DEV-01341;NF-100717;01/11/2025;31.97;Produto divergente;Comercial;Confirmada;verificar se abate comissão
+DEV-01342;NF-108968;24/02/2026;288.13;qualidade ;Comercial;Confirmada;lançada no mês seguinte
+DEV-01343;NF-102482;;84.14;Erro de pedido;comercial;Pendente;aguardando NF de entrada
+DEV-01344;NF-111267;22-04-26; 21.22 ;Preço/negociação;comercial;Confirmada;devolução parcial
+DEV-01345;NF-103253;17/08/2026;50.25;Cliente desistiu;Cliente;Confirmada;verificar se abate comissão
+DEV-01346;NF-111600;18/08/2025;R$ 37,00;Produto divergente;Cliente;confirmada ;devolução parcial
+DEV-01347;NF-107809;11/06/2026;4.89;Qualidade;Não definido;Cancelada;aguardando NF de entrada
+DEV-01348;NF-105112;2026-01-27;3.81;Qualidade;Logística;confirmada ;
+DEV-01349;NF-111933;;31.29;Avaria;Qualidade;Confirmada;
+DEV-01350;NF-103120;09/04/2025;137.40;Qualidade;comercial;Cancelada;
+DEV-01351;NF-102087;13/08/2025;259,40;Avaria;Qualidade;Confirmada;verificar se abate comissão
+DEV-01352;NF-101353;20-06-25;178.02;erro pedido;Qualidade;Pendente;devolução parcial
+DEV-01353;NF-107975;05/05/2026; 1252.96 ;Preço/negociação;Cliente;Confirmada;
+DEV-01354;NF-111560;07/03/2026;265.15;Quebra/Avaria;Expedição;Pendente;
+DEV-01355;NF-100633;2026-03-01;129.71;Erro de pedido;Qualidade;Confirmada;verificar se abate comissão
+DEV-01356;NF-104187;15/07/2025;34.31;Produto divergente;Comercial;Cancelada;verificar se abate comissão
+DEV-01357;NF-102832;18/05/2026;189.86;erro pedido;Não definido;Confirmada;
+DEV-01358;NF-108987;23/09/2025;202,23;Preço/negociação;comercial;confirmada ;aguardando NF de entrada
+DEV-01359;NF-111856;14-10-25;231.51;Preço/negociação;comercial;Confirmada;
+DEV-01360;NF-100603;2025-04-22;1010.23;erro pedido;Comercial;Confirmada;aguardando NF de entrada
+DEV-01361;NF-109554;16/05/2025;47.12;qualidade ;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01362;NF-111799;30/06/2025;181.07;Preço/negociação;Logística;Pendente;verificar se abate comissão
+DEV-01363;NF-109191;09/04/2026;33,63;erro pedido;comercial;Pendente;
+DEV-01364;NF-104046;17/06/2026;494.73;Cliente desistiu;Expedição;Confirmada;devolução parcial
+DEV-01365;NF-106024;16/07/2025;430.06;qualidade ;Não definido;Confirmada;verificar se abate comissão
+DEV-01366;NF-103996;19/04/2025;R$ 559,38;Cliente desistiu;Logística;confirmada ;verificar se abate comissão
+DEV-01367;NF-102668;31/02/2025;210.32;Avaria;Comercial;confirmada ;verificar se abate comissão
+DEV-01368;NF-100348;07/01/2026;32.24;qualidade ;Qualidade;Confirmada;verificar se abate comissão
+DEV-01369;NF-111011;31/03/26;23,37;qualidade ;Expedição;confirmada ;lançada no mês seguinte
+DEV-01370;NF-102656;02/06/2026;82.10;Erro de pedido;Não definido;Confirmada;verificar se abate comissão
+DEV-01371;NF-102612;2025-02-02;23.75;erro pedido;comercial;confirmada ;verificar se abate comissão
+DEV-01372;NF-111620;2026-05-10; 60.47 ;Avaria;Cliente;Pendente;
+DEV-01373;NF-108821;23/03/2026;37,91;erro pedido;Cliente;Pendente;verificar se abate comissão
+DEV-01374;NF-107805;14/06/2025;1209.72;Cliente desistiu;Comercial;Confirmada;aguardando NF de entrada
+DEV-01375;NF-110306;15/08/2026;344.74;Erro de pedido;Comercial;Confirmada;verificar se abate comissão
+DEV-01376;NF-111524;25/06/2025;36.89;erro pedido;comercial;Confirmada;
+DEV-01377;NF-103420;25-02-26;549.51;Qualidade;Qualidade;confirmada ;lançada no mês seguinte
+DEV-01378;NF-108364;2025-02-22;424.29;Quebra/Avaria;comercial;Cancelada;aguardando NF de entrada
+DEV-01379;NF-104189;2025-01-31;51.39;Qualidade;Cliente;Confirmada;
+DEV-01380;NF-103822;20-06-25;48.81;Preço/negociação;Não definido;Pendente;devolução parcial
+DEV-01381;NF-111123;17/01/2026;47.78;Erro de pedido;Cliente;Cancelada;aguardando NF de entrada
+DEV-01382;NF-100704;;190,97;Preço/negociação;Qualidade;Confirmada;devolução parcial
+DEV-01383;NF-110701;2026-05-11;47.76;Produto divergente;Expedição;Cancelada;lançada no mês seguinte
+DEV-01384;NF-104579;2025-03-16;139.36;Cliente desistiu;comercial;confirmada ;
+DEV-01385;NF-109573;11/04/2025;12,60;Qualidade;Expedição;Confirmada;aguardando NF de entrada
+DEV-01386;NF-100750;2025-04-03;60.20;qualidade ;Não definido;Confirmada;lançada no mês seguinte
+DEV-01387;NF-108362;01/06/2026;183,53;erro pedido;Não definido;Cancelada;
+DEV-01388;NF-110507;10/11/2025;R$ 73,50;Preço/negociação;Não definido;Confirmada;lançada no mês seguinte
+DEV-01389;NF-111161;21/06/2026;-1047.37;erro pedido;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01390;NF-105983;00/01/2026;R$ 120,15;Qualidade;Qualidade;confirmada ;lançada no mês seguinte
+DEV-01391;NF-107895;03/06/2025;22.45;erro pedido;Não definido;Confirmada;devolução parcial
+DEV-01392;NF-106181;2025-03-19;R$ 36,16;Qualidade;Cliente;Confirmada;
+DEV-01393;NF-103472;25/03/2026;36.15;Qualidade;Qualidade;Confirmada;verificar se abate comissão
+DEV-01394;NF-100948;;425,70;Produto divergente;Logística;Confirmada;devolução parcial
+DEV-01395;NF-107850;25/06/2025;R$ 160,27;Preço/negociação;Qualidade;confirmada ;aguardando NF de entrada
+DEV-01396;NF-106438;2025-12-31;26.60;Erro de pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-01397;NF-110341;07/07/2025;360.98;qualidade ;Logística;Confirmada;devolução parcial
+DEV-01398;NF-111642;27/06/2025;690.80;Cliente desistiu;comercial;Confirmada;devolução parcial
+DEV-01399;NF-106736;2025-11-14;92.25;Qualidade;Não definido;confirmada ;devolução parcial
+DEV-01400;NF-101020;11/06/2026;113.54;Quebra/Avaria;Cliente;Confirmada;lançada no mês seguinte
+DEV-01401;NF-109722;13/04/25;42.25;Qualidade;Logística;Confirmada;aguardando NF de entrada
+DEV-01402;nf-108265;2025-11-07;772.50;Avaria;Comercial;Pendente;
+DEV-01403;NF-103909;2026-04-15;58,05;Cliente desistiu;Cliente;Confirmada;aguardando NF de entrada
+DEV-01404;NF-107887;28/02/2025;38.98;Qualidade;Expedição;Confirmada;
+DEV-01405;NF-107523;26/09/2026;94.81;Erro de pedido;Não definido;Confirmada;devolução parcial
+DEV-01406;NF-101550;03-06-25;32,94;Cliente desistiu;comercial;Pendente;aguardando NF de entrada
+DEV-01407;NF-111792;29/08/25;148.72;erro pedido;Comercial;Pendente;aguardando NF de entrada
+DEV-01408;NF-105065;29/04/2025;R$ 156,58;erro pedido;Não definido;Confirmada;
+DEV-01409;NF-108731;08/11/2025;1,075.10;Quebra/Avaria;Cliente;Pendente;aguardando NF de entrada
+DEV-01410;NF-101856;05/03/2025;50.98;Avaria;comercial;confirmada ;lançada no mês seguinte
+DEV-01411;NF-106020;13/07/2025;31.19;Cliente desistiu;Logística;Cancelada;lançada no mês seguinte
+DEV-01412;NF-105261;25/12/2025;R$ 51,89;qualidade ;Comercial;Pendente;
+DEV-01413;NF-111769;29/03/2026;282,09;Qualidade;Logística;Confirmada;lançada no mês seguinte
+DEV-01414;NF-104401;2025-04-16;R$ 97,71;Preço/negociação;Qualidade;Confirmada;
+DEV-01415;NF-100078;2026-01-31;127.35;Quebra/Avaria;Comercial;Confirmada;lançada no mês seguinte
+DEV-01416;;21/07/2026;R$ 315,10;Qualidade;Expedição;Cancelada;verificar se abate comissão
+DEV-01417;NF-100358;2025-12-27;206.24;Erro de pedido;Qualidade;Cancelada;aguardando NF de entrada
+DEV-01418;NF-109042;18-02-25;31,33;Erro de pedido;Qualidade;Cancelada;verificar se abate comissão
+DEV-01419;NF-100941;25/08/26;1685,76;erro pedido;comercial;confirmada ;aguardando NF de entrada
+DEV-01420;NF-104360;10/09/2025; 55.02 ;Avaria;comercial;Pendente;verificar se abate comissão
+DEV-01421;NF-110270;22-05-26;R$ 2,61;Produto divergente;Qualidade;Confirmada;verificar se abate comissão
+DEV-01422;NF-106047;2025-05-18;98.63;erro pedido;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01423;NF-108089;2025-12-22;26.70;Qualidade;Logística;Cancelada;aguardando NF de entrada
+DEV-01424;NF-107771;05-08-25;R$ 970,35;Quebra/Avaria;Logística;Cancelada;lançada no mês seguinte
+DEV-01425;NF-106126; 10/06/2026 ;10.86;Erro de pedido;Qualidade;Pendente;verificar se abate comissão
+DEV-01426;NF-105657;10/10/2025;24.81;Erro de pedido;Não definido;Cancelada;lançada no mês seguinte
+DEV-01427;NF-110597;04/10/25;29.80;erro pedido;Logística;Confirmada;
+DEV-01428;NF-111622; 22/12/2025 ;27.22;erro pedido;comercial;Confirmada;verificar se abate comissão
+DEV-01429;NF-102047;19-05-26;40.09;Preço/negociação;Qualidade;Cancelada;lançada no mês seguinte
+DEV-01430;NF-105918; 10/04/2025 ;99.46;Preço/negociação;Logística;Pendente;lançada no mês seguinte
+DEV-01431;NF-103910;19/08/2025;32.65;Produto divergente;Logística;Cancelada;lançada no mês seguinte
+DEV-01432;NF-107678;29/04/2025;332.67;Preço/negociação;Comercial;Confirmada;lançada no mês seguinte
+DEV-01433;NF-100841;06/05/25;330.28;Erro de pedido;Logística;Pendente;verificar se abate comissão
+DEV-01434;NF-110925;06/12/2025;10.17;Cliente desistiu;Não definido;Confirmada;verificar se abate comissão
+DEV-01435;NF-107370;04/10/2025;313.68;Produto divergente;comercial;Confirmada;
+DEV-01436;nf-111746;16/07/2025;93.85;Cliente desistiu;Comercial;confirmada ;lançada no mês seguinte
+DEV-01437;NF-100641;12/02/2026;30.20;Cliente desistiu;Não definido;Confirmada;aguardando NF de entrada
+DEV-01438;NF-108948;24/08/2025;409.60;Cliente desistiu;comercial;Cancelada;
+DEV-01439;NF-111137;;131.18;Cliente desistiu;comercial;confirmada ;verificar se abate comissão
+DEV-01440;NF-103064;24/07/2026;181.26;erro pedido;Comercial;Confirmada;verificar se abate comissão
+DEV-01441;NF-107888;12/04/2026;210,63;Quebra/Avaria;Expedição;Confirmada;verificar se abate comissão
+DEV-01442;NF-105026;07/04/2026;99.18;Preço/negociação;Logística;Pendente;verificar se abate comissão
+DEV-01443;NF-100314;02/07/2025;10.97;Preço/negociação;comercial;Confirmada;verificar se abate comissão
+DEV-01444;NF-103008;05-10-25;1754.65;Produto divergente;Expedição;Confirmada;lançada no mês seguinte
+DEV-01445;NF-105189;2026-01-10;113,74;Qualidade;Comercial;Pendente;
+DEV-01446;NF-102696;2026-07-24;356,14;Quebra/Avaria;Não definido;Confirmada;lançada no mês seguinte
+DEV-01447;NF-109399;07/02/2026;26.29;erro pedido;Não definido;Cancelada;verificar se abate comissão
+DEV-01448;NF-111510;06-05-26;400.61;Cliente desistiu;Expedição;confirmada ;
+DEV-01449;NF-104688;2025-06-26;191.20;Erro de pedido;Logística;Pendente;aguardando NF de entrada
+DEV-01450;NF-106828;28/10/2025;-298.02;Qualidade;Cliente;Confirmada;
+DEV-01451;NF-104776;2026-06-20;81.87;qualidade ;comercial;Confirmada;verificar se abate comissão
+DEV-01452;NF-106102;23/03/2026;50.19;Produto divergente;comercial;Pendente;
+DEV-01453;NF-101063;05/04/2026;25.28;Qualidade;Logística;Cancelada;
+DEV-01454;NF-108360;05/12/25;159.46;Produto divergente;Qualidade;Cancelada;verificar se abate comissão
+DEV-01455;NF-105089;20/09/25;318.68;erro pedido;Cliente;confirmada ;devolução parcial
+DEV-01456;NF-106690;2025-12-27;R$ 327,68;Cliente desistiu;Qualidade;Pendente;
+DEV-01457;NF-108430;2026-01-12;410,07;Preço/negociação;Cliente;Confirmada;lançada no mês seguinte
+DEV-01458;NF-104088;10/04/2025;0.31;Preço/negociação;Expedição;Pendente;devolução parcial
+DEV-01459;NF-105627;2025-07-14;2.49;Qualidade;Não definido;Confirmada;devolução parcial
+DEV-01460;NF-102437;2025-08-15;47.40;Quebra/Avaria;Comercial;Pendente;devolução parcial
+DEV-01461;NF-103573;07/09/2025;5.54;Avaria;Logística;Cancelada;verificar se abate comissão
+DEV-01462;NF-107745;2025-08-06;814.44;Produto divergente;comercial;Cancelada;aguardando NF de entrada
+DEV-01463;NF-110237;31-07-25;19.21;Avaria;Expedição;Confirmada;
+DEV-01464;NF-100919;10/09/2025;107.91;Produto divergente;Logística;Pendente;aguardando NF de entrada
+DEV-01465;NF-106562;24-09-25;41.65;Cliente desistiu;comercial;Confirmada;aguardando NF de entrada
+DEV-01466;NF-104197;25/12/2025;413.72;Cliente desistiu;Qualidade;Cancelada;verificar se abate comissão
+DEV-01467;NF-104949;04/05/2025;74.06;qualidade ;Não definido;Confirmada;devolução parcial
+DEV-01468;NF-111840;15/09/2025;R$ 66,42;Erro de pedido;Logística;Cancelada;lançada no mês seguinte
+DEV-01469;NF-109160; 16/10/2025 ;232.37;erro pedido;Não definido;Confirmada;
+DEV-01470;NF-111460;27/03/2026;69.43;Produto divergente;Comercial;Cancelada;verificar se abate comissão
+DEV-01471;NF-101836;2025-09-20;168.67;erro pedido;Cliente;Confirmada;
+DEV-01472;NF-106269;25/02/2026;24.35;erro pedido;Não definido;Pendente;verificar se abate comissão
+DEV-01473;NF-100240;;65.52;Produto divergente;Logística;Confirmada;lançada no mês seguinte
+DEV-01474;NF-101865;18/02/2025;428.31;Qualidade;Logística;Confirmada;verificar se abate comissão
+DEV-01475;NF-110756;21/01/26;110.95;Produto divergente;Cliente;Confirmada;verificar se abate comissão
+DEV-01476;nf-101584;25/02/2026;54.42;Quebra/Avaria;Qualidade;Confirmada;
+DEV-01477;NF-108777;18/12/2025;249.04;Erro de pedido;comercial;Cancelada;
+DEV-01478;NF-104221;29/11/2025;119.07;Avaria;Comercial;Confirmada;
+DEV-01479;NF-105799;2026-07-11;479.14;erro pedido;comercial;Confirmada;aguardando NF de entrada
+DEV-01480;NF-111473;26/03/2026;2102.97;qualidade ;Logística;Pendente;
+DEV-01481;NF-103123;20/01/2026;1325.09;qualidade ;Cliente;Confirmada;verificar se abate comissão
+DEV-01482;NF-109645;27/04/2025;16.58;Quebra/Avaria;Não definido;Confirmada;verificar se abate comissão
+DEV-01483;NF-103547;03/08/2026;66.20;Erro de pedido;comercial;Confirmada;
+DEV-01484;;2025-03-16;977.17;Avaria;Logística;Cancelada;
+DEV-01485;NF-104394;14/08/2026;409,08;Produto divergente;Expedição;Confirmada;
+DEV-01486;NF-108909;09/02/2025;41,97;Avaria;Não definido;Confirmada;
+DEV-01487;NF-104444;15/12/2025;288,24;erro pedido;comercial;Cancelada;verificar se abate comissão
+DEV-01488;NF-109427;2025-02-27; 99.59 ;erro pedido;Logística;Confirmada;devolução parcial
+DEV-01489;NF-103806;30-09-25;52.73;Erro de pedido;Qualidade;Cancelada;
+DEV-01490;NF-107251; 08/07/2025 ;112,27;Avaria;Expedição;Confirmada;devolução parcial
+DEV-01491;;01/12/2025;172.74;Cliente desistiu;Não definido;Pendente;aguardando NF de entrada
+DEV-01492;NF-109303;08/11/2025;16.99;Erro de pedido;Logística;confirmada ;lançada no mês seguinte
+DEV-01493;NF-103234;22/03/2026; 78.11 ;Qualidade;Não definido;Pendente;
+DEV-01494;NF-104580;05/08/2025;122.91;Avaria;Logística;Pendente;verificar se abate comissão
+DEV-01495;NF-110286;23/10/2025;77.43;Preço/negociação;Não definido;Confirmada;
+DEV-01496;NF-106203;2025-03-31;42.54;Preço/negociação;Não definido;Confirmada;verificar se abate comissão
+DEV-01497;NF-100675;;122,64;Cliente desistiu;Qualidade;confirmada ;verificar se abate comissão
+DEV-01498;NF-107066;26/01/2026;1.84;Produto divergente;Logística;Confirmada;aguardando NF de entrada
+DEV-01499;NF-100512;10/04/2025;179.67;erro pedido;Cliente;Confirmada;devolução parcial
+DEV-01500;NF-107566;06/04/2026;21,21;Produto divergente;Cliente;Confirmada;verificar se abate comissão
+DEV-01501;NF-109442;2026-04-19;123.62;erro pedido;Logística;Pendente;
+DEV-01502;NF-100593;05/09/2025;116.61;Produto divergente;Não definido;Confirmada;lançada no mês seguinte
+DEV-01503;NF-101235; 09/05/2025 ;82.90;Qualidade;Expedição;Confirmada;verificar se abate comissão
+DEV-01504;NF-102089;22/11/2025;R$ 2,83;Produto divergente;Expedição;Confirmada;verificar se abate comissão
+DEV-01505;NF-107577;22/05/2026;54,52;erro pedido;Cliente;Confirmada;lançada no mês seguinte
+DEV-01506; NF-101379 ; 26/11/2025 ;48.21;erro pedido;Logística;confirmada ;verificar se abate comissão
+DEV-01507;NF-109280;27/09/2025;24.57;Quebra/Avaria;Comercial;Confirmada;devolução parcial
+DEV-01508;NF-107349;22/01/2026;105.36;qualidade ;Cliente;Confirmada;lançada no mês seguinte
+DEV-01509;NF-102842;2025-11-29;73.98;Preço/negociação;Expedição;Pendente;aguardando NF de entrada
+DEV-01510; NF-110151 ;02/04/2026;131.14;erro pedido;Comercial;Confirmada;
+DEV-01511;nf-100770;2025-06-09;16.44;Produto divergente;Qualidade;confirmada ;verificar se abate comissão
+DEV-01512;;29-08-25;65.12;qualidade ;Não definido;Confirmada;aguardando NF de entrada
+DEV-01513;NF-110864;13/09/2025;146.73;erro pedido;Qualidade;Pendente;
+DEV-01514;NF-107310;19/09/2025;111.14;Erro de pedido;Comercial;Pendente;devolução parcial
+DEV-01515;NF-107191;27/06/2025;R$ 172,56;Quebra/Avaria;comercial;Pendente;aguardando NF de entrada
+DEV-01516;NF-100908;18/12/25;766.40;Quebra/Avaria;Comercial;confirmada ;aguardando NF de entrada
+DEV-01517;NF-103193;28/04/2026;71.34;Erro de pedido;Comercial;Confirmada;
+DEV-01518;NF-107246;10/08/2025;2615,28;qualidade ;Não definido;Pendente;devolução parcial
+DEV-01519;NF-101826;13/05/2026;2689,62;qualidade ;Expedição;Confirmada;
+DEV-01520;NF-106386; 17/04/2025 ;10.28;Quebra/Avaria;Qualidade;Cancelada;
+DEV-01521;NF-100158;06/12/25;27.04;erro pedido;Não definido;Confirmada;
+DEV-01522;NF-102156;02/08/2026;1522.28;erro pedido;Não definido;confirmada ;
+DEV-01523;NF-107083;2025-08-05;42.15;Produto divergente;Logística;Confirmada;lançada no mês seguinte
+DEV-01524;NF-105771;26-05-26;R$ 4,12;Preço/negociação;Cliente;Confirmada;devolução parcial
+DEV-01525;NF-108920; 21/09/2025 ;23,88;Preço/negociação;Logística;confirmada ;
+DEV-01526;NF-103724;22/07/2025;131.55;Quebra/Avaria;Não definido;Cancelada;devolução parcial
+DEV-01527;nf-102940;09/06/2026;81.22;Cliente desistiu;Cliente;confirmada ;verificar se abate comissão
+DEV-01528;NF-107583;19-03-26;761.42;qualidade ;Comercial;Confirmada;aguardando NF de entrada
+DEV-01529;NF-106657;25/06/2025;33.72;qualidade ;Cliente;Confirmada;
+DEV-01530;NF-102393;2026-06-16;31.36;erro pedido;Logística;Confirmada;devolução parcial
+DEV-01531;NF-111983;14-05-25;8.83;Quebra/Avaria;comercial;Confirmada;verificar se abate comissão
+DEV-01532;NF-108321;30/06/2026;38.32;Quebra/Avaria;Não definido;confirmada ;
+DEV-01533;NF-105215;11/10/2025;0.57;erro pedido;Logística;Confirmada;verificar se abate comissão
+DEV-01534;NF-104291; 29/11/2025 ;135.29;Erro de pedido;Expedição;Confirmada;aguardando NF de entrada
+DEV-01535;NF-108378;sem data;R$ 73,19;Preço/negociação;Qualidade;confirmada ;verificar se abate comissão
+DEV-01536;NF-105722;13/07/26;165.73;Cliente desistiu;Comercial;Confirmada;aguardando NF de entrada
+DEV-01537;NF-108936;28/01/2026;151.01;Preço/negociação;Expedição;Confirmada;aguardando NF de entrada
+DEV-01538;NF-106774;08/03/2025;63.23;Cliente desistiu;Logística;Cancelada;lançada no mês seguinte
+DEV-01539;NF-106488;27-01-26;517.94;Qualidade;Expedição;confirmada ;devolução parcial
+DEV-01540;NF-107868;15/01/2026;20.85;Cliente desistiu;Cliente;Confirmada;lançada no mês seguinte
+DEV-01541;nf-109207;02/07/2026;23,45;Quebra/Avaria;Cliente;Cancelada;devolução parcial
+DEV-01542;NF-106850;2025-05-16;60.41;Erro de pedido;Expedição;Confirmada;devolução parcial
+DEV-01543;NF-107650;30/10/25;250.19;qualidade ;Não definido;confirmada ;lançada no mês seguinte
+DEV-01544;NF-111648;19/10/2025;R$ 0,74;Cliente desistiu;Qualidade;Cancelada;
+DEV-01545;nf-101238;04/04/2026; 914.70 ;erro pedido;comercial;Cancelada;verificar se abate comissão
+DEV-01546;NF-108275;19/07/2025;R$ 20,93;Erro de pedido;Comercial;confirmada ;verificar se abate comissão
+DEV-01547;NF-111493;25/06/2025;5.92;Produto divergente;comercial;confirmada ;devolução parcial
+DEV-01548;NF-107611;01/07/2026;27.59;Cliente desistiu;Não definido;Confirmada;
+DEV-01549;NF-108452;26/12/2025;38.62;Erro de pedido;Qualidade;Pendente;aguardando NF de entrada
+DEV-01550;;22/01/2026;76.92;qualidade ;Não definido;Pendente;verificar se abate comissão
+DEV-01551;NF-107388;06-11-25;438.64;Erro de pedido;Expedição;confirmada ;verificar se abate comissão
+DEV-01552;nf-106425;31/02/2025;R$ 40,43;Produto divergente;Qualidade;Pendente;
+DEV-01553;NF-107959; 19/02/2026 ;28.18;Quebra/Avaria;Comercial;confirmada ;verificar se abate comissão
+DEV-01554;NF-104687;2026-01-14;63.82;qualidade ;Comercial;Confirmada;devolução parcial
+DEV-01555;NF-100783; 21/02/2025 ;165,15;Quebra/Avaria;Comercial;Confirmada;verificar se abate comissão
+DEV-01556;NF-102500;02-04-26;R$ 37,99;Preço/negociação;comercial;Pendente;
+DEV-01557;NF-111734;12/04/2025;64.97;Preço/negociação;Logística;Pendente;aguardando NF de entrada
+DEV-01558;NF-101829;03/08/2026;121.58;erro pedido;Expedição;Cancelada;verificar se abate comissão
+DEV-01559;NF-104514;28/05/2025; 319.97 ;erro pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-01560;NF-109357;04/09/2025;80.01;qualidade ;Cliente;Confirmada;lançada no mês seguinte
+DEV-01561;NF-111102;11-05-25;R$ 185,91;Produto divergente;Logística;Confirmada;aguardando NF de entrada
+DEV-01562;NF-102681;;38.64;Qualidade;Cliente;Confirmada;verificar se abate comissão
+DEV-01563;NF-109179;15/06/2025;23,68;Qualidade;Logística;Pendente;lançada no mês seguinte
+DEV-01564;NF-105474;18-05-25;3,20;Erro de pedido;Logística;Confirmada;aguardando NF de entrada
+DEV-01565;NF-109633;06/02/2026;1652.46;Quebra/Avaria;Cliente;Cancelada;
+DEV-01566;NF-105817;08/03/2026;R$ 55,10;erro pedido;Expedição;Confirmada;lançada no mês seguinte
+DEV-01567;NF-110186;20/03/2026;481.06;Qualidade;Comercial;Confirmada;aguardando NF de entrada
+DEV-01568;NF-102388;20/05/2025;259,04;qualidade ;comercial;confirmada ;aguardando NF de entrada
+DEV-01569;NF-110919;04/02/2026;140,01;Avaria;Logística;Pendente;devolução parcial
+DEV-01570;NF-108354;27/07/2025;148.85;qualidade ;Expedição;Pendente;verificar se abate comissão
+DEV-01571;NF-110180;02/03/2026;61.05;Qualidade;Qualidade;Pendente;verificar se abate comissão
+DEV-01572;NF-111986;05-08-25;3659.51;Preço/negociação;Não definido;Cancelada;
+DEV-01573;NF-111871;29/06/2025;354,69;Qualidade;Expedição;Cancelada;aguardando NF de entrada
+DEV-01574;NF-110339; 31/08/2025 ;125.12;Quebra/Avaria;Comercial;Pendente;
+DEV-01575;NF-106441;19/02/2025;32.04;qualidade ;comercial;Confirmada;verificar se abate comissão
+DEV-01576;NF-106834;05/09/2026;22.17;Preço/negociação;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01577;NF-109421;2025-07-14;0.82;Qualidade;Qualidade;Cancelada;devolução parcial
+DEV-01578;NF-109192; 15/10/2025 ;5.87;Produto divergente;comercial;Cancelada;devolução parcial
+DEV-01579;NF-106991;14/06/2025;342.81;erro pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-01580;NF-103797;2026-02-27;35.09;Preço/negociação;Qualidade;confirmada ;devolução parcial
+DEV-01581;NF-110706;2025-04-17;135,60;Preço/negociação;Logística;Confirmada;devolução parcial
+DEV-01582;NF-103576;12/02/26;6.07;Qualidade;Logística;Pendente;verificar se abate comissão
+DEV-01583;NF-107471;24/01/2026;163.70;Erro de pedido;Comercial;Confirmada;devolução parcial
+DEV-01584;NF-108652;20/09/2025;12.09;erro pedido;Logística;Cancelada;lançada no mês seguinte
+DEV-01585;NF-100378;06/06/2025;33.49;Qualidade;Não definido;Confirmada;aguardando NF de entrada
+DEV-01586;nf-111853;24/12/2025;0.13;qualidade ;Não definido;Confirmada;lançada no mês seguinte
+DEV-01587;NF-109177;13/04/2026;10.74;Produto divergente;Logística;Confirmada;lançada no mês seguinte
+DEV-01588;NF-102197;27/03/2025;263.44;Erro de pedido;Comercial;Pendente;lançada no mês seguinte
+DEV-01589;NF-111239;;59.96;Quebra/Avaria;comercial;Confirmada;
+DEV-01590;NF-108984;2026-03-29;3861.07;qualidade ;Expedição;Confirmada;verificar se abate comissão
+DEV-01591;NF-101592;23-01-26;61.76;Produto divergente;Cliente;Confirmada;devolução parcial
+DEV-01592;NF-110322;11/06/25;122.81;Qualidade;comercial;Pendente;
+DEV-01593;;2025-06-01;109.94;Quebra/Avaria;Comercial;Confirmada;verificar se abate comissão
+DEV-01594;NF-110197;2025-08-03;49.43;Cliente desistiu;Expedição;Cancelada;verificar se abate comissão
+DEV-01595;NF-102711;21/09/2025;166.60;Erro de pedido;Cliente;confirmada ;devolução parcial
+DEV-01596;NF-104692; 03/04/2025 ;355.86;Avaria;Logística;Confirmada;lançada no mês seguinte
+DEV-01597;NF-106876;28/11/2025;25.99;Cliente desistiu;Logística;Pendente;aguardando NF de entrada
+DEV-01598;NF-103506;2025-04-10;43.32;erro pedido;Qualidade;Confirmada;aguardando NF de entrada
+DEV-01599;NF-109651;16/05/2026;49,59;Erro de pedido;Cliente;confirmada ;lançada no mês seguinte
+DEV-01600;NF-103025; 05/07/2026 ;44.85;Produto divergente;comercial;Confirmada;
+DEV-01601; nf-105382 ;25/05/2026;120.52;Produto divergente;Comercial;Pendente;verificar se abate comissão
+DEV-01602;NF-107479;2026-03-27;495.56;Produto divergente;comercial;Confirmada;verificar se abate comissão
+DEV-01603;NF-103418;20/04/2025;107.25;erro pedido;comercial;Confirmada;aguardando NF de entrada
+DEV-01604;NF-110777;03/04/2025;30.28;Preço/negociação;Cliente;Confirmada;aguardando NF de entrada
+DEV-01605;NF-109220;30/01/2026;123.08;Produto divergente;Não definido;confirmada ;lançada no mês seguinte
+DEV-01606;NF-102942;2026-02-23;720.08;Produto divergente;Qualidade;Confirmada;devolução parcial
+DEV-01607;NF-100168;26/11/2025;21.62;Preço/negociação;Expedição;Confirmada;
+DEV-01608;NF-111047;24/02/2026;15.06;Erro de pedido;Qualidade;Cancelada;aguardando NF de entrada
+DEV-01609;NF-101898;2025-09-25;86.43;Erro de pedido;Cliente;Pendente;devolução parcial
+DEV-01610;NF-110750;;438.46;Qualidade;Expedição;Confirmada;aguardando NF de entrada
+DEV-01611;NF-102637;19/09/2025;157.15;Quebra/Avaria;Cliente;Confirmada;devolução parcial
+DEV-01612;NF-100771;24/08/2025;72.50;Produto divergente;Expedição;Pendente;lançada no mês seguinte
+DEV-01613;NF-102762;2025-09-21; 7.34 ;Erro de pedido;Não definido;Confirmada;lançada no mês seguinte
+DEV-01614;NF-102049;08-04-26;98.46;qualidade ;Logística;confirmada ;lançada no mês seguinte
+DEV-01615;NF-105978;25/11/2025;76.25;erro pedido;comercial;Pendente;lançada no mês seguinte
+DEV-01616;nf-102739;17/02/2025;R$ 602,96;Qualidade;Logística;Cancelada;devolução parcial
+DEV-01617;NF-107521;2025-11-09;R$ 350,44;Produto divergente;Qualidade;Pendente;aguardando NF de entrada
+DEV-01618;NF-110332; 24/04/2026 ;124,89;Preço/negociação;Cliente;Cancelada;verificar se abate comissão
+DEV-01619;NF-103444;31/08/2025;21.79;Produto divergente;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01620;NF-104485;09-01-26;18.68;Preço/negociação;Expedição;Cancelada;verificar se abate comissão
+DEV-01621;NF-103562;20/09/2026;11.63;Qualidade;comercial;confirmada ;devolução parcial
+DEV-01622;NF-110579;2026-03-24;18,35;Avaria;comercial;Confirmada;devolução parcial
+DEV-01623;NF-111029;13/03/2025;261.75;Produto divergente;Cliente;Confirmada;verificar se abate comissão
+DEV-01624;NF-102814;05-05-25;1133.60;Erro de pedido;Não definido;Cancelada;verificar se abate comissão
+DEV-01625;NF-106668;04/09/2025;42.32;Qualidade;Logística;Confirmada;
+DEV-01626;NF-109711;2025-03-18;54.50;Produto divergente;comercial;Confirmada;
+DEV-01627;NF-103479;2025-10-06;57.85;Erro de pedido;Comercial;Confirmada;devolução parcial
+DEV-01628;NF-100886;20/09/2025;1562.11;Erro de pedido;Não definido;Confirmada;lançada no mês seguinte
+DEV-01629;NF-108140;13/05/2026;R$ 290,95;Cliente desistiu;Qualidade;Cancelada;lançada no mês seguinte
+DEV-01630;NF-108662; 07/05/2026 ; 1708.00 ;qualidade ;comercial;Confirmada;
+DEV-01631;NF-102279;15/05/2026;109.09;qualidade ;comercial;confirmada ;aguardando NF de entrada
+DEV-01632;NF-105280;;261.09;Preço/negociação;comercial;Confirmada;
+DEV-01633;NF-108895;22/06/2026;157.20;erro pedido;Não definido;Confirmada;lançada no mês seguinte
+DEV-01634;NF-110873;28/03/2026;8.16;erro pedido;Logística;Confirmada;lançada no mês seguinte
+DEV-01635;NF-102015;27/05/2025;61.78;Erro de pedido;comercial;Confirmada;aguardando NF de entrada
+DEV-01636;NF-108951;2025-02-24;47.72;qualidade ;comercial;Cancelada;aguardando NF de entrada
+DEV-01637;NF-101907;2025-09-18;17.31;Avaria;Logística;Confirmada;
+DEV-01638;NF-101434;09/05/2025;R$ 27,16;Cliente desistiu;Logística;confirmada ;lançada no mês seguinte
+DEV-01639;NF-105598;19/08/2026;8.42;Quebra/Avaria;Comercial;Confirmada;devolução parcial
+DEV-01640;NF-107260;2025-01-19;R$ 40,50;Cliente desistiu;Comercial;Confirmada;aguardando NF de entrada
+DEV-01641;NF-100857;12/02/2026;14.46;Qualidade;Não definido;Confirmada;devolução parcial
+DEV-01642;NF-111641;13/02/2026;95.29;Cliente desistiu;Cliente;Cancelada;
+DEV-01643;nf-108401;06/11/2025;77,84;Qualidade;Comercial;Confirmada;verificar se abate comissão
+DEV-01644;NF-111226;2025-08-26;66.32;Quebra/Avaria;Qualidade;Confirmada;verificar se abate comissão
+DEV-01645;NF-107765;28/03/2026;521.06;Avaria;Expedição;Confirmada;lançada no mês seguinte
+DEV-01646;NF-104729;27/04/2026;12.93;Quebra/Avaria;Qualidade;confirmada ;verificar se abate comissão
+DEV-01647;NF-101901; 20/09/2025 ;29.57;Quebra/Avaria;Expedição;Cancelada;
+DEV-01648;NF-106396;07/05/2025;80,72;Produto divergente;Logística;Pendente;verificar se abate comissão
+DEV-01649;NF-111720;2025-10-11;350.49;Qualidade;comercial;Confirmada;aguardando NF de entrada
+DEV-01650;NF-102786;2025-11-28;1.22;erro pedido;comercial;Confirmada;aguardando NF de entrada
+DEV-01651;NF-110040;21-04-25;335.29;Qualidade;Qualidade;Confirmada;
+DEV-01652;;18/07/2026;100.60;Avaria;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01653;NF-111618;19/04/2025;73.97;erro pedido;Não definido;Confirmada;verificar se abate comissão
+DEV-01654;nf-104767;15/07/2025;190,25;Quebra/Avaria;Expedição;Cancelada;
+DEV-01655;NF-101124;09/04/2025;119.63;Produto divergente;Comercial;Confirmada;aguardando NF de entrada
+DEV-01656;NF-111801;27-03-26;R$ 0,97;Quebra/Avaria;Cliente;confirmada ;
+DEV-01657; NF-110156 ;17/09/2025;135.27;Avaria;Não definido;Confirmada;
+DEV-01658;NF-101473; 18/07/2025 ;40.10;erro pedido;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01659;NF-109304;2026-08-03;23.97;Quebra/Avaria;comercial;Cancelada;aguardando NF de entrada
+DEV-01660;NF-108932;2025-03-06;70.41;qualidade ;Expedição;Cancelada;aguardando NF de entrada
+DEV-01661;NF-108453;07/06/26;201.89;Produto divergente;Cliente;Cancelada;verificar se abate comissão
+DEV-01662;NF-104406; 20/08/2026 ;149.01;erro pedido;comercial;Confirmada;devolução parcial
+DEV-01663;NF-100291;29-11-25;102,81;Quebra/Avaria;comercial;Cancelada;
+DEV-01664;NF-105647;29/05/26;34.31;Preço/negociação;Expedição;Confirmada;aguardando NF de entrada
+DEV-01665;NF-101986;05/05/25;116.61;Avaria;Comercial;Confirmada;aguardando NF de entrada
+DEV-01666;NF-111253;30/03/2025;R$ 5,61;Erro de pedido;Cliente;confirmada ;aguardando NF de entrada
+DEV-01667;NF-102014;21/06/2025;46.30;Preço/negociação;Expedição;Confirmada;lançada no mês seguinte
+DEV-01668;NF-101798;22/11/2025;1673.64;erro pedido;Expedição;Pendente;verificar se abate comissão
+DEV-01669;NF-109320;17/12/2025;613,22;qualidade ;Expedição;Confirmada;aguardando NF de entrada
+DEV-01670;NF-105950;2026-03-10;726.19;erro pedido;Não definido;Confirmada;
+DEV-01671;NF-104419; 15/11/2025 ;37.55;Qualidade;Expedição;Pendente;verificar se abate comissão
+DEV-01672;NF-111717;27/12/2025;26.82;Qualidade;Logística;Pendente;lançada no mês seguinte
+DEV-01673;NF-106211;;R$ 132,66;Quebra/Avaria;Expedição;Confirmada;lançada no mês seguinte
+DEV-01674;NF-102134;22/03/2025;1519.98;Avaria;Expedição;Cancelada;devolução parcial
+DEV-01675;NF-105097;07/02/2026;39.05;Avaria;Logística;Confirmada;
+DEV-01676;NF-102534;12-11-25;83.07;Erro de pedido;Não definido;Confirmada;verificar se abate comissão
+DEV-01677;NF-109882;2026-02-24;60.32;Produto divergente;Não definido;confirmada ;devolução parcial
+DEV-01678;NF-103269;17/06/2026;211.39;Avaria;Comercial;Confirmada;aguardando NF de entrada
+DEV-01679;NF-101341;12-06-26;436.90;Preço/negociação;Não definido;Pendente;aguardando NF de entrada
+DEV-01680;NF-102653;2025-11-29;-80.04;Cliente desistiu;Qualidade;Cancelada;lançada no mês seguinte
+DEV-01681;NF-111693;09/07/2025;7.04;Produto divergente;Qualidade;Pendente;lançada no mês seguinte
+DEV-01682;NF-109030;19/08/2025;R$ 331,91;Cliente desistiu;Não definido;Confirmada;
+DEV-01683;NF-105192;25-10-25;2.22;Cliente desistiu;Qualidade;Confirmada;
+DEV-01684;NF-108539;21/08/2025;482.60;qualidade ;Expedição;Pendente;aguardando NF de entrada
+DEV-01685;NF-105301;20/11/2025; 23.25 ;Cliente desistiu;Cliente;Pendente;
+DEV-01686;NF-108814;12/03/2026;125.78;Qualidade;Não definido;Confirmada;
+DEV-01687; NF-103179 ;2026-01-05;249,01;Preço/negociação;comercial;Confirmada;
+DEV-01688;NF-100752;22/06/26;122.37;Cliente desistiu;Não definido;Confirmada;verificar se abate comissão
+DEV-01689;NF-104492;27/07/2025;3.99;Qualidade;Logística;Confirmada;verificar se abate comissão
+DEV-01690;NF-102676;22-09-25;237.83;Quebra/Avaria;Qualidade;Cancelada;devolução parcial
+DEV-01691;NF-108470;28/12/25;90,19;Qualidade;comercial;Cancelada;devolução parcial
+DEV-01692;NF-100459;20/06/2025;118.52;qualidade ;Logística;Confirmada;devolução parcial
+DEV-01693;NF-100025;19/11/2025;5.94;Qualidade;Comercial;confirmada ;aguardando NF de entrada
+DEV-01694;NF-101358;11-01-26;6,54;Cliente desistiu;Cliente;Confirmada;
+DEV-01695;NF-102610;30/03/2025;171.85;Preço/negociação;comercial;Pendente;
+DEV-01696;NF-108741;11/01/25;16.13;Preço/negociação;Comercial;Pendente;
+DEV-01697;NF-108806;2025-05-09;42.65;Qualidade;Qualidade;Confirmada;lançada no mês seguinte
+DEV-01698;NF-109453;22-05-26; 88.51 ;erro pedido;Expedição;confirmada ;verificar se abate comissão
+DEV-01699;NF-104771;22/08/2026;64.09;Produto divergente;Expedição;Confirmada;verificar se abate comissão
+DEV-01700;NF-101433;05-03-25;45.17;qualidade ;comercial;confirmada ;verificar se abate comissão
+DEV-01701;NF-101860;2025-12-26;R$ 105,10;Avaria;comercial;Confirmada;
+DEV-01702;NF-110301;16/05/26;32.34;Qualidade;Cliente;confirmada ;devolução parcial
+DEV-01703;NF-110508;;4.11;Erro de pedido;comercial;Pendente;verificar se abate comissão
+DEV-01704;NF-100756;15-07-25;193.37;Preço/negociação;Comercial;Confirmada;aguardando NF de entrada
+DEV-01705;NF-101790;30/04/2025;390,95;Quebra/Avaria;Logística;Confirmada;aguardando NF de entrada
+DEV-01706;NF-109876;12/08/2025;215.19;Cliente desistiu;comercial;Cancelada;verificar se abate comissão
+DEV-01707;NF-108356;06/07/2025;277.90;qualidade ;Comercial;confirmada ;verificar se abate comissão
+DEV-01708;NF-106740;13-05-25;11,10;Preço/negociação;Cliente;Confirmada;
+DEV-01709;nf-111995;07/08/2026;146.99;Produto divergente;Cliente;confirmada ;aguardando NF de entrada
+DEV-01710;;19/04/2025;123.31;Quebra/Avaria;Qualidade;Confirmada;
+DEV-01711;NF-111589;27/10/2025;369,45;qualidade ;Qualidade;Confirmada;verificar se abate comissão
+DEV-01712;NF-107248;;11.31;qualidade ;Cliente;Confirmada;verificar se abate comissão
+DEV-01713;NF-108020;2026-04-01;11.34;Avaria;comercial;Confirmada;
+DEV-01714;NF-102104;18/12/2025;319.57;Qualidade;comercial;Confirmada;verificar se abate comissão
+DEV-01715;NF-107758;02/04/2025;18.77;qualidade ;Qualidade;Confirmada;verificar se abate comissão
+DEV-01716;NF-110211;01/07/2025;424.62;Erro de pedido;comercial;Confirmada;verificar se abate comissão
+DEV-01717;NF-111842;22/09/2025;65.26;Erro de pedido;Comercial;Pendente;
+DEV-01718;NF-103542;20/07/2025;0.69;erro pedido;Logística;confirmada ;devolução parcial
+DEV-01719;NF-108773;20/11/2025;9.80;Quebra/Avaria;Comercial;Confirmada;verificar se abate comissão
+DEV-01720;NF-104943;02/12/2025;238.93;Preço/negociação;Expedição;Cancelada;aguardando NF de entrada
+DEV-01721;NF-103143;19/05/2025;789.45;Produto divergente;Comercial;Confirmada;lançada no mês seguinte
+DEV-01722;NF-100080;15/03/2025;155.50;Preço/negociação;comercial;Pendente;
+DEV-01723;NF-108650;31/05/2025;100.73;Quebra/Avaria;Comercial;Pendente;devolução parcial
+DEV-01724;NF-108548;02/11/2025;39.92;qualidade ;comercial;Confirmada;lançada no mês seguinte
+DEV-01725;NF-107555;24/06/2025;0.14;Preço/negociação;comercial;confirmada ;verificar se abate comissão
+DEV-01726;NF-108257;11/01/2026;195.64;Quebra/Avaria;Comercial;Confirmada;verificar se abate comissão
+DEV-01727;NF-103972;08/04/2026;272.80;Qualidade;Comercial;Confirmada;devolução parcial
+DEV-01728;NF-101054;16/10/2025;56,45;Preço/negociação;Logística;Pendente;verificar se abate comissão
+DEV-01729;NF-105662; 24/08/2025 ;815,82;Produto divergente;Não definido;Confirmada;aguardando NF de entrada
+DEV-01730;NF-100327;06/03/2026;83,52;Cliente desistiu;Qualidade;Pendente;aguardando NF de entrada
+DEV-01731;NF-101781;28/03/2026;188.88;qualidade ;Expedição;Confirmada;verificar se abate comissão
+DEV-01732;NF-101803;2026-07-14;5.44;Avaria;Cliente;Confirmada;
+DEV-01733;NF-105704;18/02/2026;22.83;Preço/negociação;comercial;Confirmada;
+DEV-01734;NF-111317;2025-03-15; 4.91 ;Quebra/Avaria;Comercial;Confirmada;aguardando NF de entrada
+DEV-01735;NF-104744;10-07-26;14.92;Produto divergente;Qualidade;Confirmada;aguardando NF de entrada
+DEV-01736;NF-111442;18/05/2025;305.81;Quebra/Avaria;Não definido;Confirmada;verificar se abate comissão
+DEV-01737;NF-105212;02-12-25; 6.34 ;Avaria;comercial;confirmada ;
+DEV-01738;NF-109126;17/03/2026; 24.95 ;Preço/negociação;Logística;Confirmada;devolução parcial
+DEV-01739;NF-102874;2025-03-19;158.65;qualidade ;comercial;Pendente;devolução parcial
+DEV-01740;NF-105863;21/05/2025;6.59;qualidade ;comercial;Pendente;verificar se abate comissão
+DEV-01741;NF-101833;23/05/2025; 374.91 ;Avaria;Expedição;Confirmada;lançada no mês seguinte
+DEV-01742;NF-100749;2025-12-17;361,46;Produto divergente;Qualidade;Confirmada;verificar se abate comissão
+DEV-01743;NF-108309;19/04/2025; 136.30 ;qualidade ;Comercial;Confirmada;devolução parcial
+DEV-01744;NF-104670;04/10/2025;99.06;Qualidade;Não definido;Confirmada;devolução parcial
+DEV-01745;NF-101918;21/10/25;R$ 91,02;Avaria;Expedição;Confirmada;verificar se abate comissão
+DEV-01746;NF-108252;2025-12-07;R$ 158,18;Qualidade;comercial;Confirmada;aguardando NF de entrada
+DEV-01747;NF-111937;28/08/2026;320.76;Preço/negociação;Comercial;confirmada ;devolução parcial
+DEV-01748;nf-111333;14/12/2025;223.72;Produto divergente;comercial;Pendente;aguardando NF de entrada
+DEV-01749;NF-106733;02/11/2025;188.55;Produto divergente;comercial;confirmada ;lançada no mês seguinte
+DEV-01750;NF-107879;08/09/2026;92,58;Quebra/Avaria;Cliente;Cancelada;devolução parcial
+DEV-01751;NF-109370;24/01/2026;0.08;Avaria;Logística;Cancelada;aguardando NF de entrada
+DEV-01752;NF-101199;06/09/25;3.66;Produto divergente;Não definido;confirmada ;lançada no mês seguinte
+DEV-01753;NF-109277;30/06/25;218.03;erro pedido;Não definido;Confirmada;verificar se abate comissão
+DEV-01754;NF-106511;15/01/2026;363.74;Quebra/Avaria;Comercial;Pendente;verificar se abate comissão
+DEV-01755;NF-109110;03/01/2026;37.06;Preço/negociação;Logística;Cancelada;
+DEV-01756;NF-110879;13/02/2025;4.21;Produto divergente;comercial;Confirmada;verificar se abate comissão
+DEV-01757;NF-101734;14-07-25;649.39;Erro de pedido;Cliente;confirmada ;aguardando NF de entrada
+DEV-01758;NF-107023;21/02/2026;R$ 64,16;Produto divergente;Qualidade;Cancelada;aguardando NF de entrada
+DEV-01759;NF-101500;10/01/2026; 71.38 ;Erro de pedido;Não definido;Confirmada;devolução parcial
+DEV-01760;NF-104590;10/04/2026;14.97;Preço/negociação;Comercial;Confirmada;aguardando NF de entrada
+DEV-01761; NF-105256 ;2026-04-03;180.91;Qualidade;Não definido;Pendente;
+DEV-01762;NF-108846;12-07-25;147,48;Qualidade;Logística;Confirmada;lançada no mês seguinte
+DEV-01763;NF-103088;20-12-25;102.49;Qualidade;Cliente;confirmada ;lançada no mês seguinte
+DEV-01764;NF-101543;; 9.17 ;qualidade ;comercial;Confirmada;lançada no mês seguinte
+DEV-01765;NF-111463;01/08/2025;19.39;Cliente desistiu;Cliente;Confirmada;devolução parcial
+DEV-01766;nf-103307;29-09-25;139.47;Cliente desistiu;Qualidade;Confirmada;devolução parcial
+DEV-01767;NF-109888;07/01/2026;R$ 859,59;Avaria;comercial;confirmada ;devolução parcial
+DEV-01768;NF-103781;01/03/25;589.22;Avaria;Qualidade;Confirmada;devolução parcial
+DEV-01769;NF-109471;21/01/2025; 65.47 ;Erro de pedido;Não definido;Cancelada;aguardando NF de entrada
+DEV-01770;NF-111731;27-08-26;70.02;Cliente desistiu;Expedição;confirmada ;devolução parcial
+DEV-01771;NF-105644;2026-03-14;77.21;Cliente desistiu;Qualidade;Cancelada;devolução parcial
+DEV-01772;NF-107486;18/12/2025;129.28;qualidade ;Comercial;Confirmada;verificar se abate comissão
+DEV-01773;NF-100026;25/06/2025; 11.37 ;erro pedido;Comercial;Confirmada;devolução parcial
+DEV-01774;NF-110022;24/08/2025;7.86;Produto divergente;Não definido;Pendente;aguardando NF de entrada
+DEV-01775;NF-101902;26/04/2025;7.75;erro pedido;Expedição;Cancelada;
+DEV-01776;NF-111855;13/12/2025;51.42;Preço/negociação;Cliente;confirmada ;lançada no mês seguinte
+DEV-01777;NF-110911;25/11/2025;8.64;erro pedido;Expedição;Confirmada;verificar se abate comissão
+DEV-01778;NF-105078;08-05-25;245.74;Quebra/Avaria;Logística;confirmada ;devolução parcial
+DEV-01779;NF-103411;27-02-25; 346.30 ;Qualidade;Expedição;Cancelada;lançada no mês seguinte
+DEV-01780;NF-105483;2025-09-12;63.04;Erro de pedido;Cliente;Confirmada;lançada no mês seguinte
+DEV-01781;NF-103249;26-07-25;0,39;Quebra/Avaria;Qualidade;Cancelada;
+DEV-01782;NF-101926;00/01/2026;73,20;Avaria;Qualidade;Confirmada;aguardando NF de entrada
+DEV-01783;NF-109420;25/01/2026;R$ 114,32;Quebra/Avaria;Expedição;Confirmada;
+DEV-01784;NF-104441;09/10/2025;58.96;Cliente desistiu;Comercial;Cancelada;verificar se abate comissão
+DEV-01785;NF-110820;01/11/2025;836.67;Produto divergente;Expedição;Pendente;verificar se abate comissão
+DEV-01786;NF-106963;27/08/2025;168.88;qualidade ;Cliente;Cancelada;aguardando NF de entrada
+DEV-01787;NF-108639;17/05/2025;18.31;Quebra/Avaria;Comercial;Cancelada;devolução parcial
+DEV-01788;NF-106716;22/03/2026;3.25;Produto divergente;Logística;Confirmada;devolução parcial
+DEV-01789;NF-103082;19/09/2025;11.78;Avaria;comercial;Confirmada;
+DEV-01790;NF-109145;31/01/2026;71.99;Produto divergente;Qualidade;Cancelada;devolução parcial
+DEV-01791;NF-100791;2026-05-30;1579.61;Cliente desistiu;comercial;Cancelada;devolução parcial
+DEV-01792;NF-111952;2026-06-18;146.85;erro pedido;Comercial;Cancelada;lançada no mês seguinte
+DEV-01793;NF-110988;22/04/2026;79.20;Avaria;Cliente;Cancelada;aguardando NF de entrada
+DEV-01794;NF-111416;06-09-25;25.56;Qualidade;Não definido;Confirmada;verificar se abate comissão
+DEV-01795;NF-108733;14/07/2026;53.67;Cliente desistiu;Cliente;Confirmada;
+DEV-01796;NF-111451;05/06/2026;140.60;Preço/negociação;comercial;Confirmada;aguardando NF de entrada
+DEV-01797;NF-107855;;3.24;Avaria;Não definido;Confirmada;
+DEV-01798;NF-108243;26/08/2025;644.25;erro pedido;Cliente;Confirmada;
+DEV-01799;NF-107682; 04/02/2025 ;71,57;Preço/negociação;Expedição;Confirmada;aguardando NF de entrada
+DEV-01800;NF-104091;08/11/2025;942.64;qualidade ;Expedição;Confirmada;devolução parcial
+DEV-01801;NF-X9666;2025-01-11;4299.66;Qualidade;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01802;NF-X9758;2026-01-12;293.73;Qualidade;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01803;NF-X9895; 12/03/2026 ;3920.90;Erro de pedido;Não definido;Confirmada;NF origem não localizada na base de vendas
+DEV-01804;NF-X9479;26-08-25;3438.13;Qualidade;Logística;Pendente;NF origem não localizada na base de vendas
+DEV-01805;NF-X9302;02/02/2026;2217.04;Erro de pedido;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01806;NF-X9264;06/04/2026;4887.90;Qualidade;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01807;NF-X9985;14/05/2026;216,15;Avaria;Logística;Pendente;NF origem não localizada na base de vendas
+DEV-01808;NF-X9507;21/09/2025;4799.76;Qualidade;Não definido;Pendente;NF origem não localizada na base de vendas
+DEV-01809;NF-X9093;2026-05-24;7150.92;Avaria;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01810;NF-X9131;19/05/2026;3306,42;Erro de pedido;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01811;NF-X9707;07/02/2026;R$ 290,08;Avaria;Não definido;Confirmada;NF origem não localizada na base de vendas
+DEV-01812;NF-X9786;17/07/2025;5120.32;Qualidade;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01813;NF-X9461;06-06-25;4142.99;Avaria;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01814;NF-X9501;06/04/2026;7460,28;Erro de pedido;Não definido;Confirmada;NF origem não localizada na base de vendas
+DEV-01815;NF-X9940;17/06/2025;1161.98;Avaria;Comercial;Pendente;NF origem não localizada na base de vendas
+DEV-01816;NF-X9677;07-02-25;R$ 4.356,11;Erro de pedido;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01817;NF-X9400;12/07/2025;1502.21;Qualidade;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01818;NF-X9477;21/02/2026;995.71;Avaria;Comercial;Pendente;NF origem não localizada na base de vendas
+DEV-01819;NF-X9693;28/02/2026;7156,12;Qualidade;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01820;NF-X9166;07/02/2026;8013.64;Erro de pedido;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01821;NF-X9407;25/11/25;8212.16;Erro de pedido;Comercial;Pendente;NF origem não localizada na base de vendas
+DEV-01822;NF-X9533;12/02/2026;R$ 2.715,47;Avaria;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01823;NF-X9424;19/08/25;2520.60;Avaria;Logística;Pendente;NF origem não localizada na base de vendas
+DEV-01824;NF-X9107;20/08/2025;8965.35;Erro de pedido;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01825;NF-X9361;14/09/25; 4867.23 ;Avaria;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01826;NF-X9162;2025-05-24;5369.47;Qualidade;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01827;NF-X9109;15/10/2025;5205.65;Qualidade;Não definido;Confirmada;NF origem não localizada na base de vendas
+DEV-01828;NF-X9845;18/03/2025;7134.41;Erro de pedido;Comercial;Pendente;NF origem não localizada na base de vendas
+DEV-01829;NF-X9748;12/02/2025;8448.60;Qualidade;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01830;NF-X9772;15/01/2025;3508.93;Qualidade;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01831;NF-X9329;05/06/2026;7017.44;Erro de pedido;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01832;NF-X9661;02-01-26;R$ 3.451,42;Qualidade;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01833;NF-X9213;26/04/2025;1918.07;Avaria;Não definido;Confirmada;NF origem não localizada na base de vendas
+DEV-01834;NF-X9358;15/11/2025;1567.35;Qualidade;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01835;NF-X9280;14-10-25;7731.13;Erro de pedido;Logística;Pendente;NF origem não localizada na base de vendas
+DEV-01836;NF-X9295;22/06/2025; 2044.38 ;Avaria;Não definido;Confirmada;NF origem não localizada na base de vendas
+DEV-01837;NF-X9291;;6687.90;Qualidade;Não definido;Pendente;NF origem não localizada na base de vendas
+DEV-01838;NF-X9305;20/02/25;911.26;Erro de pedido;Não definido;Confirmada;NF origem não localizada na base de vendas
+DEV-01839;NF-X9784;2025-03-21;2447.93;Avaria;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01840;NF-X9652; 12/07/2025 ;7393.27;Avaria;Comercial;Pendente;NF origem não localizada na base de vendas
+DEV-01841;NF-X9454;22/01/25;5323.57;Qualidade;Não definido;Pendente;NF origem não localizada na base de vendas
+DEV-01842;NF-X9734;2025-03-28;R$ 3.762,54;Avaria;Logística;Pendente;NF origem não localizada na base de vendas
+DEV-01843;NF-X9867;2026-04-26;1817.40;Erro de pedido;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01844;NF-X9574;2025-03-15;4539.42;Avaria;Não definido;Pendente;NF origem não localizada na base de vendas
+DEV-01845;NF-X9501;22/03/26;503.23;Qualidade;Logística;Confirmada;NF origem não localizada na base de vendas
+DEV-01846;NF-X9589;10-12-25;4,522.16;Avaria;Não definido;Confirmada;NF origem não localizada na base de vendas
+DEV-01847;NF-X9089;2025-13-10;5282.64;Avaria;Comercial;Pendente;NF origem não localizada na base de vendas
+DEV-01848;NF-X9472;08/12/2025;8270.68;Qualidade;Logística;Pendente;NF origem não localizada na base de vendas
+DEV-01849;NF-X9245;12/04/2026;8677.13;Erro de pedido;Comercial;Confirmada;NF origem não localizada na base de vendas
+DEV-01850;NF-X9577;10/02/25;5470.08;Qualidade;Não definido;Confirmada;NF origem não localizada na base de vendas
