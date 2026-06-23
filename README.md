@@ -2,7 +2,7 @@
 
 Este repositório contém a base de dados fictícia para o teste técnico de Analista de Dados.
 
-Leia primeiro os arquivos `Teste Técnico — Analista de Dados.pdf´ e `README\_BASE.md` e depois analise os arquivos da pasta `dados/`.
+Leia primeiro os arquivos `Teste Técnico — Analista de Dados.pdf` e `README\_BASE.md` e depois analise os arquivos da pasta `dados/`.
 
 
 A entrega deve conter:
